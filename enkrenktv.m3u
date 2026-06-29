@@ -1,0 +1,877 @@
+#EXTM3U
+<===========================================================>
+
+<================>
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="LIVE PIALA DUNIA", 001 ENKRENK TV
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="EVENT 030/JUNI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="EVENT 029/JUNI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+
+<================>
+
+<=================== EVENT 1 =============================>
+
+#EXTINF:-1 group-title="EVENT 028/JUNI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitemdOTex0OyqhWOecdWcfGzjOdMspFIHtH5VEGNyHEGktYAIwTiksufh2kwEIXqLuMbCT66qHfyT9Kd61DqxA8iopy2EHAVwEWSaWd_uJPo84vHS1W6ZVJDsPYv01NFqG-LbkKUgKrqi-mHH6S8GoFI1Y6s9GBvq8t29GNH_7kr6Mm5mqBef5lFBgtV8/s1600/volley.png", 17:00 WIB Bahrain vs India
+#https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel80.m3u8
+
+#EXTINF:-1 group-title="EVENT 028/JUNI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdcaqkiKwUGznGHI2gtk_eMurfAOQUajsDFw_QsxsySYphColiSdaudVRU1F_x-PLf9KzZRCrFyzfnrp7C1B_P08ft5uyXUsYaEqiKczgrpTAO5wsOhDCbcS5T22A5hGKfBHqXmPAOb2Rbm0ay-n_iuizGFcrBMHQuQoqUGTeFWwHqn_u5iBhr7mcXCGI/s1600/gp.png", 18:15 MotoGP Race: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+#https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+
+
+
+
+<=================== PILA DUNIA =============================>
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png" group-title="LIVE PIALA DUNIA",World Cup ch 1
+#http://106.107.177.247:5678/live/stream-14760d6c-b244-42de-8ae4-88233185ada2/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
+
+
+#EXTINF:-1 group-title="LIVE PIALA DUNIA" tvg-name="Tipik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png",World Cup ch 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+
+#EXTINF:-1 tvg-name="NCH" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png" group-title="LIVE PIALA DUNIA", World Cup ch 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="TSN1.ca2" tvg-name="TSN1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png" group-title="LIVE PIALA DUNIA", World Cup ch 3 (HD)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+
+
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png" group-title="LIVE PIALA DUNIA", World Cup ch 4
+https://xemzi.short.gy/1000001
+
+#EXTINF:-1 tvg-name="Fusball" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png" group-title="LIVE PIALA DUNIA", World Cup ch 5 (HD)
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+
+#EXTINF:-1 group-title="LIVE PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png", World Cup ch 6 (HD)
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
+
+#EXTINF:-1 group-title="LIVE PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png", World Cup ch 7 (HD)
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+
+#EXTINF:-1 group-title="LIVE PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png", World Cup ch 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://107.150.60.122/live/cctv5p.m3u8
+
+<=================== INDONESIA LOKAL =============================>
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJX5DVYj923FOCPi_FRatyfzaGC9EPmZbuAG_Kk9lacxY09ZkLewgW7SALj95Um_BFQJge1VuCLE9wXsyFPaX0-kyQnfuwjxxI8AGhg034s2C8LOlO97c-7sxvmBBoUbGsrTXVinIVfzyRUDbtjG5U00kKdMi1Q-CO7IvUcHDbhV9qD19hYjMMpr8FOz8/s300/RTV.png" group-title="Indonesia Lokal",RTV
+#https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+#EXTINF:-1 tvg-id="TransTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-_pOrXMEEFH1cFwYB9V_Wc2Gu74EOe3My59gnQ_a2OtcFDMQo5AScj4mZTLzwjLiT6YjYwGWJOENbzkbOwuSkGzdpNgT9oQmBkIQ6L0POlMNTJKWUfIKflxDtIdP93LV4SZc3qZCB04uo94BGOcokNd6S4FzTZymfz2CfaJJ673P0-pbgI6ICAqONMA/s1600/transtv_logo.png" group-title="Indonesia Lokal",TransTV HD
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzUsJSV2X4g19YJr3IRigTx4Y4HExlGAAluGudQ63eSfkqZASM1EdM-q_xkhU6G5bfEtelpw0TbvLT4uRDxlJGagKh2cNlyfW9pLgK5SXAPhqzgmeKg_Jdo7-OSHez0dptuOno0X6udQtHxRNdzvfLInM3oM93FIW5zWbZiqrvaEfR-bnQmEB6rq_dNIo/s300/TRAN7.png" group-title="Indonesia Lokal",Trans7 HD 
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTINF:-1 tvg-id="ANTV tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXvx5zcfqvlwWh02K6ugj0zp0oElunKj8KZKsWEcbjRvKolKh5ervVyKA6E_1WWmWLJfCD-qNKvBVM1mhlJajyOSdd3lSQy5XoC7NtRzkOKrJdaYLmNZKcnRAQjTW02QeUAYApb88D0hau1jpA7LyL-UMwV0nxDg9dtZ6xY3gaAaKPQwcKSv4Zs2Ho2w/s1600/antv.png" group-title="Indonesia Lokal",ANTV HD
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOVhHYO36e1moRqJMwjxvi5d-8opXnzzMf-iP9HZlhcYSfuOPT7DpePe0Y2sbrdFv2gFC47Vj858g0Fk9qx_K9UfEOr-VgWUEKzj8XBblH8bNsqViqwJZ5fBFBG1u8DVUIefr8XpHYCbVWxIiBBeGyBo7jM9H012K9SpEkz4i1cD8Z7QW41e3uOMD8fW8/s300/indosiar.png" group-title="Indonesia Lokal",Indosiar HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4DJSys6sAtggJhotDbH9AgUEeBN9GiWCrL72owVm3mjTM_aMjX3WH_ud5tg_N27igSZzuRKSOjbh6VnC2FCqZoQGkTyjVsIa9J-WmA59s3jU-MHDyawhGz5vsNlE1UYNYc7caTjQZqnHzKsbOUzrzkNsiKmtBodWh6SbtsEkwLOWCuMKDY9V-ahm_6vQ/s1600/SCTV.png" group-title="Indonesia Lokal",SCTV HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_FEh_3CYNqE0jM-ryo05C7SG71hyphenhyphenSNrNhl9b55Z9Pgd2-BuS1EC6UGbArbRHv72H7SsWzrkLTitf5tjIiOFRKnqdZSYhv_nJPrIVhFDwiFCcj8tmcVf2w9dTq40HqQpCVVRnHqjNO_eFOiK7E223zEpM9mEIK5mohRV1dCWpWklkapBW-1n-ijOME9Lo/s1600/GTV.png" group-title="Indonesia Lokal",GTV HD
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3bhQFWbG3sWoeFX5QL3jRFa0nBoaQepoN7ckCleZz7XogoXJ8V8q8RraEgsxo3RNXm7M_iXpnJ8TzYb_VAx5u2kb6AcBObMmb4OQo4SwVUCYmmhvhS82rqZsycVeFye0mnjb73TvSZFt6Lz5w-KuKTM4R89rGMUoR5uzKabL7KYSL_1pYeuGJTrgm90s/s1600/MNC%20TV.png" group-title="Indonesia Lokal",MNC TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRYQrNXYz0a7D-Z3VgwLAaRKYOgbkbta-7PS-VAsJLP0iU1y1QCNtnnQgK-HlqjdM0a1DJCGpOwJhMAQoI2MHP5EQu5MXjyZFhMj0lr6ixFq9z4anKT_xxzp3iDZIgKq2-k2OaaIJgYsL80iMRNrQQ7e4XDvL-QU3NrdxhDWW-WYyivcH1MyzgO7nfm-Q/s1600/RCTI.png" group-title="Indonesia Lokal",RCTI HD
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFNtuC54kylYhl1g5uaMtvEcT7-1IrkTnfyTZCb9DZ8LzjvbWJ63x2Q2meM4P8KctpfvDNP3deqpCrYDxPYn0SD51RcXvZt75JcpK9zpITt4nXOKyJ8Wm5-I3b5SRu_Fpzw1DSvI-zduRSvyt5P_PTvz8hyCHpQF-2m2Rh-fPo7xC6M2Q_Bk0Cw9HCRdc/s1600/MDTV.png" group-title="Indonesia Lokal",MDTV
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOtw2LpWjIVkxuX0ePl5mRvlo0CDg7LQ2k3yXACKuX9wdwanHIKf34Pw51aCq7HxhBCIgJ8VCbJtvFCPubklZnIjTxspzud5NUYMGIaC6B4U8B7rXVeJoMk67kyVnW-9VG6xT05N7A_ZsMKOa_dNx6VJf5BecCU2hoEFngcw9rIXCl1H74cunV4xyTN1Q/s300/tvri_world.png" group-title="Indonesia Lokal",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=10002-mp4a_96000=20002.m3u8
+
+#EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlosEqhhNFeKiVOz-UkOu9B0xDpkmMw4Ukv4zZVZlk2IX2RNjbuWF37JYN6_Vb166fvgM96tjEmUCf3lC2LkLZ3gu2ATZsRiFsMdJEmm2R-JnFS3qhnXTHsRS1dnfhoO5L7J8G4BE1UEUszpR-8W44gCSIIK_9PVPMSGWQXls7L3IVFa3PjU4GfggjsAc/s1600/moji.png" group-title="Indonesia Lokal",MOJI
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/350997
+
+<=================== BERITA =============================>
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+#EXTINF:-1 tvg-id="TVOne" group-title="Berita" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVDKywGw6jqTSF9vPWMqpwwqW1kRdRdm-WejB_clFPm_Vn3zGFSEtIcfj0qILR-OGdm2qoaD2X4QoL5xrJ0WLHllzlH9ggjD0sVqTK7PTnBKO-6UDgU9OU6kLxoFcv0WOQHz7Cu74JtkG-T8bMt_MO90KMdjJzUsCAaNMq-UH6XAtoF7BZI2TCzNYFt4/s1600/TVONE.png",TVOne
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+
+#EXTINF:-1 group-title="Berita" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2U_cjBk1NPB-xpmIQI3PXHZKB0u7iazi0-NdIzDQkhjoYESmfVsnC-UbcN4khrjXlISXqKnVMHJumsaCDdcV5BDSAeFsoncFimuqGxPUfiQk7kvdSkY91TuulvnZa3_22w7IvkCwlMfq9YDMN4g0bf88B7F-gyV5IHiJVYh6aNmKoOGM1EgV6wlEAoUg/s1600/INEWS.png",iNews
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-IacHQmUwVtjKY36e7siqYlFQkABdf-OoEBJAsda3Y2J0kQCtRrw8Hdw36OsCzM-O1bPD3QQxXSyPyjew_YQtka-_5CnRcCaJOx7UDdopNLFJJ45BOJ6MFKQh7DEi6yqvJuPsXNLW-t0XPQH-23RXXh25P6o3ZGn1XwOoOu52T-6LVVwcMlrxy1eMm78/s1600/KOMPAS.png" group-title="Berita",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFK-aPhAuapuR7HZncuxj0yF-KoqDspPJ364web_WzQMwGDNfo1tVyp72uamrAfYf8rQ0Q9WUD8NIKqOUGs5BLS3Kvxrj3iU54B4jASjiszUuvjcLZLj9FDYdZQ34TN1Rly6n0Lz9088m-wkTzRBfAUNw4lq-UprD9Rk2cKxDUbcUvxDe-4l7f682z37Q/s1600/METRO.png" group-title="Berita",Metro TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRTtr2hMlx0EOgei4Humk70VEpOvncC6RUKHkYn9n1ON2fNmPkLnUG8QcCSEwqcdaJpHy2tXaAeGaQU3K5YI-XGxe3Cf_-PQXhlUyOHaUcV2X03v53bkP3fFEoDmOn5yyajar-9hp9vauNDa0w1DKTYkOuT6mjfd3nwzP_PaZthJyXw7tG81lpBy0NuHE/s1600/BERITA1.png" group-title="Berita",Berita Satu
+https://op-flashcon-digdayahd-1.dens.tv/h/h209/02.m3u8
+
+#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghdts3OvqEZ3dCp84pH8LiytTvGM7wIn6EEMxMtQg6WwrQFRR_PE_ea4vyC7tT0bR6NVUqL4vzA-InzmGhLWo52I2w8Q4T4H6S8xlpe53RYvvFyYekYQN3m0G-1LKzTeaG-_kQQk201ppkW4SQjeq3ShzcdtAZcPor1jPAMPMS-l9WlTWTKss31__e6GQ/s1600/CNN.png" group-title="Berita",CNN INDONESIA
+#EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
+#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEgO33gnyA2wAZKF02nRQ6JEZoKzUK1sur49f60iMlbjrMCLG0SPO5PNlCOiS7qn2_NtfugK63QxV5s4aTdLKZL8-vRf_gZoPD3iLwuaGG7FgvJNzRXFvsiSrchDBIaq0xALjVeMsQzlcRWCqQLI_PGaVZ6LNV9Ec9rNOEiwilYHFiE80Q_ZzAesfZm7I/s1600/CNBC.png" group-title="Berita", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1634510766_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiZoh83KauPaeW6-wJTKfy4esyFrqfjO4qcuoSAFib_09aC4H3BGzYCK1XCcE1ge8dIsJVf3hE4seNjnRu1qwSIi9dqZbzA69QpmRlp7qaW0hmc7ICX5pUNOxGrSNVa2gfpibhYhREjFxozdLAv5IODJ-Mad6UGyY3-3wVsGs8BZujRYjnpklLxsAfdRE/s1600/TVRI.png" group-title="Berita",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
+<=================== Sinema =============================>
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSY03z9ezoY0gUeVpsW0qecDhnGOJtzDulEIG43NheatZ9aX-Sx0E9hhtge8gEGKnjFOA1D_dLeRfm-Qx_T4Ffchc-KiE9HAAzyIrpdW4c9bBNyCoVzFdpXSjz1IpQ2SkLTXKeuJQrJUD9mS1qusrAmrHKrgKoFlGtRyeKDfwK6ghx3j4X3g88Xt5GxCU/s1600/mce.png" group-title="Sinema",We Do TV Movies
+https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedomoviesasia-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fee15f42df39a0b90140c07d40fa83439fd401e987dc5e8347d373a3459f9bf1dfd546848cb9599106f224365623709cf215f9a366b7ca8a56379d7c2d7b44298cc986ed712c944e555dfbe6b9d10f9328db9a1a91723ead019b56b96af601c008b7f171a2b8b5db4e444bcaae375a26b0f59f88ee3b37b163c6f885b711758c84721223f264cd1f7156fa9ec71990b172fcd31889b97d2062aefb269f94b6f188dae871982ccefaaef657214a6d1070e137c7a169d53de022dfa47b285a4c7bb98345c1f4b23459594680814acd031e8481f9e9ba0d34da701a28810abe600663dc246d41bf4193f8356ffb4060e10e34f8656fee289fad3ef9d5bc8f6300a0cccb7fa52d85d80bc2e63dba79334b078ce73e53373d17bfd5671d2046d051ebc1cfde621b0cd1ad8194b25037092d125c18b4eeee669e9dd43b1817cc21500a002b14990ac26cd114760c27df1bc0b81b71840b1c7794cd5a5a5f6284cdc3e8edb1f143b071c1cac06341513a64ad23774104b68d8a49ed05110e1039870b7451cf6f3024d192cdf58bbd348ef608ad3c72065cc6ff19520c5c67117af1fe53d05af28122ba94c44fc9e1992f1ff356c406008eefcf65fc9feaad263497ba4726749ed71a9f0747a11ed03f91c275aada3f6e2735445cdb9e51c26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea82260881247c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aed50df57dfde922e2af1c1c419357f56aaaa12b529e2fde11a9db4/158/1280x720_3329040/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb3w5_DLrpJZD1zYt4Y4nFePkANzkvwUm9xO_rhMuCkhLZdP0q0Q_IPof_3KPYMz8U5OGz73deDGBzG0qa8OBcLzWC5ysi1jWfiuQtS44aXGO_0cWxmEJwCpf4VwvZpUh0BubYpOlTMFJcV-HRCDG-9dp0fjRabqDSJZrAEyK2PiOLgh2kQgz7hFzgEdQ/s1600/HBO_Hits.png" group-title="Sinema",HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
+
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig0ACq6jg0OKWmyznFHJvbmCw0m85aBErsZUYAqxbw-nPWPtxEXXxX0LBe2i7RHg0wq8wSG6v06qdEiLWKRsg5awW0yeTNhXiJj0STcxraVIRYGp-G0RGwB1mWfqmP009P6P1AAM-DGDcjnyp3QjLzoZTh7zj5nmVW9nPVkcXhar1V6AiS8lyN8K_jN7w/s1600/HBO_Family.png" group-title="Sinema",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwL06BtJ8NBf28vZ9svh-Mu1eyyY9XBTk-i6S0XYEi2rhiVoIlK74UsdPS_2mB-em1mrvzDvDDIDvCRoH0dEegmYWAydi7v8viT_jt3sY6wX34Zb1nHo6Eg4wPg0XUPtAQgGQJnSq5C2rUhyHZEKsIpc7oS6uFec5yF5NEiEo77p-j6KiIEeDnD7gqVOs/s1600/HBO_Signature.png" group-title="Sinema",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4uFLIGa4MkDshIra3wRqxr7RyZ6tOKdRZ5hVQdg4QiR_P91_VVEf9gq06uhvqW4MPRjNzGpJsodaV1jlpCFM7WZ3-wSvZin34vDNEQTjS_Pvoq6mWflF5fvb6_gmKMNdGmgqWAQkSPXb6fd95czW2LgTzcMPQvk-qqg73sgs1UAdatL3-SijqPuEDS4/s1600/cinemax.png" group-title="Sinema",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqupQKZJ-hzdkrq6cgLIj5U65FOdIeSNrUezFWSyJ3xNiLpWvXQul9vebnZnqVU9IHnfGwLZ0dLLghLxayvbjVTo7mSS349WdygvcJqlAFDWkLThNFKNjSshnJJsL68zI4HIMAdTN_nZix2qWUuJYNOrthoOghoyMYe-8wwglGDUEQWkNTc_7BpUDQpF0/s1600/HBO.png" group-title="Sinema",HBO
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN Asia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWv9Gj9dAwX_yiGJtC7UrCKK9xS6dqJnbZkWTDuPXdyNRiCHnOT07r4UTAdBLk12U0IJNI19obLG5RKP8Se2hNZJSu1gju0ccUdF3dOgbQg9vuee7D2h1God3nr1wJI9NXzprP62Vnh1UhAlCyKPN-aFk21IRBcDaJ3xBc37ChN6pg7doNN5XCWOdbdlc/s1600/axn.png" group-title="Sinema", AXN
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+#https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUK5kZpNYrXg8e_jZBbWEiA878LbHVC5WujMtst5h2jk8AvHS9VV-G4Sra0WDK-f53e852ZQQK2KAWKLuCWtD051MpuFh0LZi53wpTgNjS0mxOFvMow9FBMCHerLkS7Sn5r1DL_zuQeNFsjirKwLRjLyHvVuGygPqcKL5cuZ7t6wBGiOOfucn9FlEbV2U/s1600/eniques.png" group-title="Sinema",UNIQUES HD 
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSY03z9ezoY0gUeVpsW0qecDhnGOJtzDulEIG43NheatZ9aX-Sx0E9hhtge8gEGKnjFOA1D_dLeRfm-Qx_T4Ffchc-KiE9HAAzyIrpdW4c9bBNyCoVzFdpXSjz1IpQ2SkLTXKeuJQrJUD9mS1qusrAmrHKrgKoFlGtRyeKDfwK6ghx3j4X3g88Xt5GxCU/s1600/mce.png" group-title="Sinema",MCE
+https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
+
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpOZyHqTGIp6XE7iRaIRe2IrUiuDPZyc4FdWG-UwDV6c_HHOUrVnzo23OptwMhYyuzlDRPaWEVQg2X7mTjcwUB_Ad3JwetsgNtnqxBPJv1Hw-0oWOwxqLoM7o7DQbN-FCuwWdhwypcdrz0yEEYH2aysWx761aCqRHvSUDDN2sk82Rpo3dznmu71FdlW4/s1600/imc.png" group-title="Sinema", IMC
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73869.ts
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpOZyHqTGIp6XE7iRaIRe2IrUiuDPZyc4FdWG-UwDV6c_HHOUrVnzo23OptwMhYyuzlDRPaWEVQg2X7mTjcwUB_Ad3JwetsgNtnqxBPJv1Hw-0oWOwxqLoM7o7DQbN-FCuwWdhwypcdrz0yEEYH2aysWx761aCqRHvSUDDN2sk82Rpo3dznmu71FdlW4/s1600/imc.png" group-title="Sinema",IMC
+#https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuUY-9LVgc1jExAoWxP6Zddu3kuyY8d-skd9vTI7fQMYVBtrTpMkf-671R5N7HBkxgIc6UADRtCcOMcRlxUhT6iJaYJnj8JQ3wgZO1XJqcsVX8FvjjVhTpA5nS707T3CZf9jjgzyskEpDt2gbGBNk_pS_U005PJRfSMm6O56WBgDy3No85Y35XB8a-UXA/s1600/Kix.png" group-title="Sinema",KIX
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyUPc-_AfBORfQxMYl8tKZnzGeN9LX7fTPkW-rUvu820So3uiT9eX2DY8CrMsPW3kcBnIUPANN1uLyBHEj48OCfbXJ6usxVUiViWrsQfoYwa4sC3iN5S-BBndfQt5vsdzN0qP2Zkw3q5Z6yLCxI7FqKIc20fLffU_Ccgsh9Bk9jyEJY7LnXZWBnGYovuE/s1600/thrill.png" group-title="Sinema", THRILL
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
+#EXTINF:-1 tvg-id="HITS Movies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrhbbvlJRMDVEv8Dyo98RoYv35LefT0XZiZjgyAROykwI8F-sjvoSVhFbhJ4fn8pNpuNgZQhomptiQNmpU8pFCzuKdEyuBIel27MSJ_qB5SDWtQRWybuzO8IBrtqxkL5bUSXVgjn_GBlfz87tXL6Iew-stV_8dvBL21IZTurDzkSSPHj-WnxVpkIgCeEo/s1600/Hits_movies.png" group-title="Sinema",HitsMovies
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd 
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUlq0J5y7F7UNk2jIp9cO8Ttc5_DYBSvVqVXFOqOVJ5cQjWNYEHZNMUyOZfMQ6aHg8Vn3nxMvc2VwdSmJwtijTIcMV8iZYgHfw9GK_TcxGP4DR5L3yGT1xdcRJcnMnBaE0w1XixNCT6anVDZUd8dNw3VeqnUGKIClU4GtcsWmVhIL_IXmiGnYJ-I2WiCQ/s1600/CCM.png" group-title="Sinema", Celestial Classic Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
+https://live-channel4-cdn.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRWtrOv1P_R-nmruiUf7N9QHt00E3-Bc_X4g7sP-ziYvkIBUR0MwyxGNZNif_Y-eX93BP6t5k_68bvVniL59SckUMpHzKBPTe3SN2FHlTZMtcFU6FkLvRyxoXFEfrgBgKgQT4x5zr4zESEaE1huWoa1ayjzUeeIJKRp8JKpqBzsGZB-ER_7SHOzizHE2A/s1600/superrix.png" group-title="Sinema",SUPERRIX HD 
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA7YVZyaRYZJkraOCn7MFGRd7E16-cNsZs7QCaJ-8R1H95jUWKDDvE5KTcoLLXD_Rep33LtpL4nld2-M6nVHweBZ5ek_9YpNB0m9kzyFM0nMOucm98-on-5McIlj8_zqwn3FpxGvSlokO_qmQex9FiqtxMFOv20BIZ3HZQjdwvymB6hVCHSMz_K0C9L0M/s1600/FILEM_MANTAP.png" group-title="Sinema",FILEM MANTAP
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+d
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+#EXTINF:-1 group-title="Sinema" tvg-id="Galaxy" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLvIYFyNuB6npxoL-mHfqa28Z6N5e-GLJNCY6VnuJV3btxBt11BcnZQnE0jEmpyur4gxn-DM0eGQRWF8-O_LFsV9ptgwx79_LFT1zMQMj_fz526xnIPEHF1zL4AX0fi8f2eYNs2aLPi8VcOren7HlfTHHTcWoSmAWBVsuwg71MlKCvHyfVifiS2kapE9g/s1600/Galaxy.png",Galaxy
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#EXTINF:-1 group-title="Sinema" tvg-id="Galaxy Premium" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimKRapS1uk16AfsjB8gfA0FN57fRPbwb5dIPqR_Bi5RrwURTsblQXFSrozXg6BwwvylA0QWYvu5jdFB-0_AD9p1-qBXNZv5MOEItPfK1UxlP99iHzXccHIyc7aKWSkjpUQH_vbHb0lC2-WHw3niGImYfiFlZKuVmwSQWrknaPk3NU6NEv8qZ4Q8Oix0BA/s1600/Galaxy_Premium.png",Galaxy Premium
+https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
+#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKWMY2xjIvbI_FwZTyxM4d9vVcN2G2EAi4NdlcoedOceF4y6AAQc5-pibzyDpjaHX68z_nq_RtJgLZLI0nRqPsDPaBLRTotVObl36Tf2OzfnEm1-b4-P62arniTZosGy725ihKhVnWTH1Oq3ka6ayc4nbXAy9nWuKGV3DQzKa82u2OkROi7kq20XVaZbw/s1600/&amp;TV.png" group-title="Sinema",&TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg06tE7yHStzhWp7j6tHOfnGLePr4mUZbyNWBKsJI85mftLvrlbfplWdvuP0IJ6h-6Rd7_kbZXsbuVrejuhjJpIq1Rll9IliDusbh0Iszy0f2S2qvE0CKQ7IB31xa9lec_pd7TTTJuft1umVJrOVzUK5_OGQ80fbumywykOf6RP53jA1UF3ib3TUhZpL10/s1600/&amp;Picture.png" group-title="Sinema",&PICTURES HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4wWZapoEPdHZ5qq0EaVIkkMSFty7U4hmFjccEVxmEART0Kfgp5RPJuPkyTMPml4QaGpWcFBdfOlmD7ZUIzIh1lKNb6_gzTSE43XqvWq345qCU1HAgW7boCEvoGlvdlkaHY0CGb_spfDAXofAtuYlmW9wH0lSEONk9VWsFHW2IwMcR90LreNVmyYR4mzc/s1600/Rock_Action.png" group-title="Sinema",Rock Action
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+
+
+<=================== DAERAH =============================>
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzbW2O54hxNa6qjniptw6-h9Om-NsUgMsT11DnwwUWNuvF2BJuGfGTzQwcfajXPtp7RFlqe0hrpFq3yCFCwhxXasjqcJSzYPZbDR_1rc5gGlHqMA5WNvYx20rPF7mkNN5xCS7-o-77danDexYGJ5hG6e8I_UAHrNxeQVgRHENXaztU6dHEoziY_NE2Ric/s1600/BanjarTV.png" group-title="Daerah",Banjar TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjwgvH9yd1ZYRaOK5xlFIh3ttPHkDjPFvEunJ_zPElx-Wzb1J15ftwNK_CtWMUNYWPT_zoA-VDNJY7qvbLH-o-sjEzcKgN_KdytcYnEaLSvrBQU72pFTkSvHqgU6LRlMh_DoQqGqjoXuk3t_gWebaDKZrbBedIC97EKDLAWUcm55ZTb8VE1cfLEpp9jGg/s1600/dutatv.pn" group-title="Daerah",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ46zYRtdc7p8_3TEnNd01lCMS_QCdJCh3E5I7H15ORN0FeBbdVu-RmKjjrJUjOwg_oelW8xfZJcUqCpDSbYe0XU9UdHiKrzUDr42Av-6IY7hBs_T1n0_hwZ4q35kMXs5Ecq9kN7iaDnHnRWeyKL6-ALKYAUSXEWoNmiqzA2-3DlNLlkoaKvXIMOAjRO8/s1600/TabalongTV.png" group-title="Daerah",Tabalong TV
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSw4B-rO7E9gxU1my4wqNP3tqMIpELARu1PwbjrF7gJyGmnhAKeSjPsfRfgdk958Kc9hMSXkQVjaCE8QFCudI5OxWY4S-lZOvZu7vmz0Hp6CdBKNXBITakPoak2ewGkzOF85Wwvgvxqh2D8dP0XCwZBb4HNT1yj03Gq-rpfW5EMDDylxbOGUor-YJShL4/s1600/Jowo.png" group-title="Daerah", Jowo Channel
+https://op-flashcon-digdayahd-1.dens.tv/h/h208/01.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Hanacaraka.TV.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHM5CSxd5UU7bushxSYLsyJa_M9ZC3eprmGwF8p1EmcehE5EqOGunTDNygVONWSYPbyHYDJzkwFf0GY4AYMg1dQZLQ5HWSR9V7_kF876zqnozWapVlqRwaEUmxHpnSm_Djg_OocVxLNLBLyIe5BH0BPP3slCXQtQqcCrkEA5xOpXkc3pwk0D07viqR9iE/s1600/hanacaraka.png" group-title="Daerah",HANACARAKA TV
+https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
+
+#EXTINF:-1 group-title="Daerah" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLdQTP3Rae4Zv-oa-OzeLZxDIAClV5M7L4fwmf7WmISOatg6iUvdLx2PGwkgRD2EsT0ewN5IHQw5v-UKgew8UaorsRZWt4CpmAXXOGmNvILpdc6IHFcqw5buGUaci0a71oMeVKZu_IXFXXj96N-5RikyO-3Iarq8BubJQxYGolfoV99DXVfVonA9E1aUE/s1600/jtv.png",JTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://ratu77.adptv.workers.dev/index.mpd?id=9713&type=dash
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHOFCKV7mVO6zd2mbpZZgOUQG8I1CM7pba0iOhHIcEWcJhe-U-bjLvLzU6L-4kXizmrIIECKL7s2zRK441LSbpSi6jZVZ_LxLrAcLg4WiuQgWu9xk2hQD7uOva7D2ZCH3mXrSbA9ytxXXH4FC7MlOaeaqjem7o5qxJDgz8nDnzbOOg4NA7yUIUn-bqPrM/s1600/garudaTV.png" group-title="Daerah",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitrb2nR072zrVHVSyuIZLRZqxvxgjhsYD3rlCCIMjc3p8VsZja9SPnJbk4kR0BYtmJWQ0nx1Um0aQ-9FljSuCJchhUATd_SfKA5bAF6taXOIFC8Key54BrmE-_dl_f7Jh-B99EfPiokTaFZrYHI5grkpBuOyisEfXCTmJAAhIzJqoVb7LeIRUpTqBb_uw/s1600/daaitv.png" group-title="Daerah",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGssnQ1O4us7cxaQrK0-0ugnpz4yYRp1giFuZ_YSJAFkG6UCJHInu1Kgu0W_00kVHThdNAB0_Ef5jYwo-gnOpmV4sChlik563SDHyZb2SPB6hH8NBpJeaxXUVxkU0xA5WK63tZ55OXW-a_zXLi-qOKk6pu4xWNjDW-Ocy9p3tbc1N_Q46WmGpXW19hMkk/s1600/magna.png" group-title="Daerah",MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w521170343_b1128000_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIxb1xC4RzymROrq2pfR45-Vp63HFJ3omBraW2cYbgDO9XhjZI9oJHhgFrb3vUC9k16IZ5vK9ZxDZiD7O523iA0aCXwHbueeKaBqxm6Agsfi2vAPXSnV894G8NBVUWgDfUdakmFH5On517MGMZ85fTMSGkFE7cPe2m4fgolfSxqwVQS4Lb-Vk92yl7XJo/s1600/rtm.png" group-title="Daerah",RTM
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+
+<=================== OLAHRAGA =============================>
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyhPMq5RJ4m7UvDCgpjdkn_vqviYbVB-u5E12S9fjEiXn3xtWi8caoYSwHxdCN5sMJoDbBKNyyVpZ5Co_5op4PJvmLLfKp7qlvsWNo7r4dhxa9l7W-lJybanKOOv-KpHkBMuRoEu8Z1xtC-hqfCKCUck2jnUp5tnPGR3kbp8o7tekHQrixL52E580SZiA/s1600/motorvision.png" group-title="Olahraga",Mplus
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTINF:-1 tvg-id="SPOTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHjZiy7MVYxeCo5kISN7e8qHAj2EMFTSE21RkFXHMlkphslEHcJ0ZkCSmrTXj79V6mWT1lZLpIhovrZrR_JvT6gUCEeotFF6YiP3vwEbyZ0o00NkxE_8wNSstbvjKHnaKCs3-qSAyAccGiaB6EkRXQRXN_dMuw15vOxneYrVtiLrIjUa17dk_kl3Z-uLk/s1600/SPOTV.png" group-title="Olahraga",SpoTV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTINF:-1 tvg-id="SPOTV 2" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0kY2P57DTm_ljYa8NZ46mAls3Be537gvTIFzceFcm_PiHdWn6lSSpWs7t32XvTMXhfq7ZFAdvpLJNgR8a4Nhl1bKnSv2jsOZWe4pSMXC8_J6vG5PrKQhAP6YAHefcte3RwIqjOJP9-V08nNKnn3O_MNWHStnxk2if7ERoYJTSCHW_qRytlooHX5XhyphenhyphenAg/s1600/SPOTV2.png" group-title="Olahraga",SpoTV 2
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
+#EXTINF:-1 tvg-id="Fight Sports" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkFaqQVajss8fiE4PthBcTVjDTdJ2ApztNaQTpBpPuCL76KWC2BumnrRufAQkw4TnUu92OHVig_gecByjBPrKjlkOR476MFZiGw2wjJW6LuKShEKhzGHRL4FV7g6JqlEzipXolmY1DJEJhB90G1kigGAAmXE-ZtcRcCsk5seInElKQ-oh8Hjuc49KncmQ/s1600/FIGHTSports.png" group-title="Olahraga",Fight Sports
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-id="Soccer Channel" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIdKIIaF7qppwQbCbrqvUxO0v1nDo6EzfT6sqlaGlDJHfCrxKICQ28f239xM4hgNSoKCcKGg7kliy3AGgzuJTCzlKwpMyEc5PVnwdMhvPaqDtQLGxXuDlciWCBa7TaU3-AzsWAC__KmxtMnR_rSUy9mrEwXFke6TKh_iFqjxU0nOXXAhiUws5kMajcpQg/s1600/Soccer.png" group-title="Olahraga",Soccer Channel
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTINF:-1 tvg-id="Sportstars" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgANtmCh-j7MB-s6wfrn6B3LrcnLI85MvEeMCPtLloHdVJDlAbFpaGD-BpNkzTL7sXYNolkJMB5Nfrtc04URj-HHVT0DXYo8ksVzskLLv8VCZUXRjQfYFu9Q1nS5cARrbKZOCaHMaC2sIRHY7mvc0XgfAxcLPaNB1arH2KrZGjGnQ09n1I0nhRnsSSruHU/s1600/sportstar.png" group-title="Olahraga",Sportstarsᴴᴰ
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTINF:-1 tvg-id="Sportstars 2" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidZsVgp01qfOEJWIvle8MyZpGAzj7XbVu39RXxNDI_G0N1bu9z1qg-puqNhG2-MZ3cqoCqDTv6V23nx4r374mMyQ59PS-mzg4HJ3yUz4mq7PSMjlBKq4dIzn0aBuJ-EcLPoZRPdiaqSQwjNFKfoYmnszpsV9g3Br7LcoCPQ_NfuD2jQtplx598VkI8yyY/s1600/sportstar2.png" group-title="Olahraga",Sportstars 2ᴴᴰ
+https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
+#EXTINF:-1 tvg-id="Sportstars 3" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB8KF5Mm4ik8y6R1cT7cJRhOog0KjoISAyP5e0BsWQLkpWaKXnr_2XzW2VCDm8yRn-tZTr9eArZ7uEeUXKXieuKLHrro22UtNERJfkMJ9j6qzTDMLhbxMU9AsUY7uQ3utmfJGJV-g4y5gpsZMrs_7ootP8CvSAZ2mnnMq_WQTMLBwcCsD3Fs9SUxNyCJ8/s1600/sportstar3.png" group-title="Olahraga",Sportstars 3ᴴᴰ
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
+  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTINF:-1 tvg-id="Sportstars 4"  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWan6tuJ0J3zQ9ujMuQKbVbRBZPyMzROCWnkntdZFda4YMHiDECYp7ZkZMkd1hJ4Y9QmRh9y7rbg8Nzt6ObFlAzxA1QeRlplah8d7dzFm2ygRtjOdDq9x6-NEa0KoYsjmw_4DK6DTTokcFrW3H6tCgu_tcUGfAbcmI_PxFOJ6MVieXIIozUw6eee7TAsg/s1600/sportstar4.png" group-title="Olahraga", Sportstars 4ᴴᴰ
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwYEoa18T-ff-3mvOvYiX4mWlLLDpEMV5BUIXFiH0Q6Mov7s9Gha3XoVO6NOHsyMOPiVss0Ocu49X6OPL7fRddVHvytcWpDV-Velpn4HN9u6hTuKVLcEIVJR4L_eOOfGwiPaZ85DVwUsmmSnwwM5VEnC2j5VIdcghUk2Rhkwampus5X8W1eaWI5Qd9oaw/s1600/tvrisport.png" group-title="Olahraga",Tvri Sport
+https://paketmaxstream.ambontv.my.id?code=TVRI-F7V03Q
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwHCkfW2dggBH9xU93M5_1elZ8ApN6P1youddJAZpvPaFHT98iBd8gJOSlFOlL1HkxnsUzRuNCpFsl-qv_BfF7D1IeUlQWBvFVbh9zz2fu89JIUzaVaCWY2abtcKUqC0L8hyphenhyphenTTRD0adGvNMI_Ow9TW90ILTUIDKjI3qjrM416YZABIwPci2OeL6ez86I/s1600/BEIN1.png" group-title="Olahraga",Bein Sport 1 ID
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUw4C5n4G7VDJl-qmwCEJRxv_rM3TqHZ202mA3hKw74tFTDw8Hn2Uj_3ADPlZ7bI0Iuf9rKy7lkKdUHB53VyJDPUBYKmKb-Bz9waMh5zqckLR6dJL0oXtYlv3oZ19oMKrcXh2A78lwLkwpItziGsSfz77OFLCRgsKaaw8gdIMTBaNzUatVYKBKodp5vug/s1600/BEIN2.png" group-title="Olahraga",Bein Sport 2 ID
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr7PySawpeYyeFrGcNdm1cjOWZTRUdOModqjARha9r5TJ0AQVaqzjBHV_YiILRsLyqBQYUhgs5zpJBGw6Ep_jJE9gQKv3sTChvOrXHG5YlwscGnSROsP86POSXJ2fIF20eRyBFRBKXpf8LLbXHAQ8pThDUNh0_WRdtOjAp8SpIpeq0DV0Oa5kdfxavaJM/s1600/BEIN3.png" group-title="Olahraga",Bein Sport 3 ID
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdgtmAJnufKCHz5PlfEE8eynplhwu2e44JcOKxIjhpncmpKeJuG2PMx7hglzlFKT5LQsYrtHSfLlqlxDPjemA2jSuHISjnVi7pGIrCr3708G6TQ7_67di3cuHjxKi2qUk9PGTQoZRbkf9OFinAjTFnj3VqImVRD1vdShefG4XkJRiscUu-UIkmWh7UtB0/s1600/prima1.png" group-title="Olahraga" ,Prima Sport 1 
+#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJEAWi3PRULWtL7p6fEoFwK3gutZ9Vw_tZ51IXxJ0JWWh3qcQCjmj0bPmdvccl9prCGKob-eOQ1hKTDd80Vf71R7sPOQZ6tJHUc8r6RNGmG4NZWYFIjJIjG7RWsQImU1cuk4E-Wg8mK2QqI15SRz4Oeoil7OwXR9XmxDZAW5vn3MRE5jrIerHm8QPuzKM/s1600/prima2.png" group-title="Olahraga" ,Prima Sport 2 
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSXmoI_RS4XSxGJemt4phPakUiqLvNigfEXF2KHiYPGFhak2mUu3u1Q8xY5C80GRD8BX6KCIiBvR9fXISRAer6853dZh_meb3c0wKIARKMzdNsAsNWDeFf-XerI7qi-z8mFDGDVGMHsWw93hgYGbwlk_Dh3y3TkO5B9EBh8WhIkwi4wvPaI3LyyEoHiAY/s1600/prima3.png" group-title="Olahraga",Prima Sport 3 
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRiVh3Su3G9_M6lSvzWTBZPBIYY8ag_SVHk_SiGhb4yMuYQ6LTSJpCRHlIcGaO4mgm0DhECSxObMWQvo0Ua7hhFTNlYIG_BI7ap8yRreAAo_QdfmSu4vSsfqXbuhcuydvnN-5P7FZwMSXrFhHE7Kk8YsArzV3UKx28hXLR7D6F7pJ5ra5TaurO4pj81Qw/s1600/prima4.png" group-title="Olahraga" ,Prima Sport 4 
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0N8wCkR7YXrHBSENuDeqKoTzeesJFJhyC3zJk1mSjEvQomgV8BiibcbTcGAZXI7mtx3BsCPkdG1SUQO9mkbP_J2EAZRR6ctbMqfU1R5kqYO2M0Yi81D31J7G09amkhUkMlPN_Rw-0fyc7wOH-5FjFB_E04gvytSDGvmOQppVGRNWiDcQvuz2NsYfXxDg/s1600/PRIMA5.png" group-title="Olahraga" ,Prima Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
+https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
+
+#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIk9OyhXV-vb3Vxx5InT2UnRxH0kOMIaK_we1HwYQqMU9cXgQjXJ8_6DG6DoWHE3hei0k5KXTeX1vbJVb5UqtI-Lrumjkf40IIrxQAcTBNhSuQauQzr3N3ZfytSqXv3PtNSRu8JSgjfOGv9lqv_d2ymqDePi1M2UGxsClPm_H7rIq13Ll1a9hU1dBaMNU/s1600/Fubo_Sports.png" group-title="Olahraga", FUBO SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIk9OyhXV-vb3Vxx5InT2UnRxH0kOMIaK_we1HwYQqMU9cXgQjXJ8_6DG6DoWHE3hei0k5KXTeX1vbJVb5UqtI-Lrumjkf40IIrxQAcTBNhSuQauQzr3N3ZfytSqXv3PtNSRu8JSgjfOGv9lqv_d2ymqDePi1M2UGxsClPm_H7rIq13Ll1a9hU1dBaMNU/s1600/Fubo_Sports.png" group-title="Olahraga", FUBO SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+
+#EXTINF:-1 tvg-chno="147" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_Ro40it5GeSX_RVV0A0eVCm_d4wYYqvcTZp8C1Z7TIjSkYTwMX92cr-YzRRREfuQjUzt-Dded7ti_r5xEwOFaG2OMuZa6GQAStjlm509kSxjLhkAa72ccWNGHguwxt0Nexsdoh4BOxSRzt-Ed1kzTX6ZRyuJwGrnaNAdFhovzNwRGsi3x8vutpFsrOw/s1600/tsn1.png" group-title="Olahraga", TSN 1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+
+#EXTINF:-1 tvg-chno="148" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBCqPGvHMD75KVEvdvGWr4U5BEETFhqo57IyAUyLboqHHq3ecANl4VgOS9lEbpdx2O3Hl8I5Id_twjdn93zYsIK-5dBBJkbM2LFlHSr-y7-T8Uk9rIF9oJwFMzjkOSglQJ-29v2NuW63RPPURklMUz_K4KVkN8LEcHzGD2ZrD3F3_YsbBnypI07Q19oS4/s1600/tsn2.png" group-title="Olahraga", TSN 2
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6492/index.m3u8
+#http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
+#http://opplextv.cyou:8080/nasir6160/nasir/349015
+http://myxpanel.pro/live/13579/13579/838103.ts
+
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2k-7P5AEme1lxRSkOWGQ-gGxmN-EbDdrrlsSdZRNWr_VCovnTFhWCgxSETVtdDRS9Mjpx7wIEWxPwSmn3vfY4yWx7edffTF_3tsSFned8xSVNXxaXWyOjFTdnjjr5CF1SpLGJ8SvSfftGiELjZfa09INvHTFYlq9XSPwDJE1ktxh-JUQxfcQiQQY0Q2U/s1600/tsn3.png" group-title="Olahraga", TSN 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6522/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN4.ca2" tvg-name="TSN4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiwo80qumu9l0OjOkS9Q_EddanUMQLJtb4thjcmqQ4URak3QnWohpwCcmV9cTlROdtaUgXRWG89F8QPXKUYNj93x0lO1m571UxoEYu3UzUSEh-Ga1hkh1GC_5b_mFS7oGwQCYBtPdAtTsVOgNFuXUMzoHGB-Y8flHrNdDGRJ-pzyoqe8NaPTMvArAOwU/s1600/tsn4.png" group-title="Olahraga", TSN 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6445/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjocLei4nXI8XPMoXA1hQpBVFXb27srX35AWHUxUOAt1ZhHhASdAjvWGxLGV8ZQMHlWBc56Z28Tv_PbI2OmZN72uI2y4Eq3UGJaKgEAgEK3CRZFgsZppYUQmq3RPn31xNnIFKKWzi5TImjmAyPmBD50dKIyQkbgWgfhKovcX1m7EBDNEf_xh9D2Y7UrvXg/s1600/tsn5.png" group-title="Olahraga", TSN 5
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6517/index.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_Ro40it5GeSX_RVV0A0eVCm_d4wYYqvcTZp8C1Z7TIjSkYTwMX92cr-YzRRREfuQjUzt-Dded7ti_r5xEwOFaG2OMuZa6GQAStjlm509kSxjLhkAa72ccWNGHguwxt0Nexsdoh4BOxSRzt-Ed1kzTX6ZRyuJwGrnaNAdFhovzNwRGsi3x8vutpFsrOw/s1600/tsn1.png" group-title="Olahraga", TSN 1
+#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBCqPGvHMD75KVEvdvGWr4U5BEETFhqo57IyAUyLboqHHq3ecANl4VgOS9lEbpdx2O3Hl8I5Id_twjdn93zYsIK-5dBBJkbM2LFlHSr-y7-T8Uk9rIF9oJwFMzjkOSglQJ-29v2NuW63RPPURklMUz_K4KVkN8LEcHzGD2ZrD3F3_YsbBnypI07Q19oS4/s1600/tsn2.png" group-title="Olahraga", TSN 2
+#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
+#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2k-7P5AEme1lxRSkOWGQ-gGxmN-EbDdrrlsSdZRNWr_VCovnTFhWCgxSETVtdDRS9Mjpx7wIEWxPwSmn3vfY4yWx7edffTF_3tsSFned8xSVNXxaXWyOjFTdnjjr5CF1SpLGJ8SvSfftGiELjZfa09INvHTFYlq9XSPwDJE1ktxh-JUQxfcQiQQY0Q2U/s1600/tsn3.png" group-title="Olahraga", TSN 3
+#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiwo80qumu9l0OjOkS9Q_EddanUMQLJtb4thjcmqQ4URak3QnWohpwCcmV9cTlROdtaUgXRWG89F8QPXKUYNj93x0lO1m571UxoEYu3UzUSEh-Ga1hkh1GC_5b_mFS7oGwQCYBtPdAtTsVOgNFuXUMzoHGB-Y8flHrNdDGRJ-pzyoqe8NaPTMvArAOwU/s1600/tsn4.png" group-title="Olahraga", TSN 4
+#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZnaKqlL96y397B8wTV61t2jxaj5UB5EEAPVFwwNcMhtU0urJ1T4ZmOW7ttY6_yvBZjTalvTV7Lh6TAGoWF3oqJpfN8rd1VzK7cuR0-X92GqkjtjigLNq8KAn2eAm5Ijz88CF6-6QU3npmttvOwmtng6ajTrqWxURsAbrnQ7EVfQnjmf8Bg99jK52yDHc/s1600/foxsport.png" group-title="Olahraga", FOX SPORTS 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2.mx"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2K_dujLwx1NdWBS5LhM7Ynu6PxpJrtFjP312zJ-cjXtHMl9Xg4yB3Es5qDdliFVEMgkRascpQDB0d4CdDea0-9cu6I3KPUQNotYQ-e0_lzL8GBklPpH8jxvjOhe-3MZop9wYWorjwmNdN0NxbJwg0JQpP9cW0eGMkMT4B8FKZGauLizixmZnhpbMlDO0/s1600/foxsport2.png" group-title="Olahraga", FOX SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOX SPORTS 3.mx"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnkSa05RaxF2eBQOiP72yAnHizAp9Z_x18j80O9oNUVLWdWmnJGAL5P4TicMYKVQbjPliYvMaXy9wWZxfx6j10Yn4_IWVbZ8Q0KAPgU2pJ4u4HAOAxeGp_XK-x7GBw4izSczbY2_pV8ocQnNhVH3_1eF5tTXHAm8KAAcZLEX-LGLNPooCLYScbxrgUOYg/s1600/foxsport3.png" group-title="Olahraga", FOX SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfsCXGPN2elqu8cd58G6mbmW4VTfpPy3Fufct5WDd2gTWuSUaRX0QbKZz2QwnDjMBJPAkCLHFdkUHvLUZYibexTcgcAXVBxmkd7do_ZQiO3Myyo-Yq5ArZy_glaiNhrJc368Qr0a9g2iId9EY4P2bqFnnU7P6blgRnBtexMWgzLGYZDUiFfD2ctPCdWWI/s1600/foxsportpremium.png"  group-title="Olahraga", FOX SPORTS PREMIUM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisiOX2_7-MFripKU_IYdQ9GLQC81XrsH6t5CUVCrdcU-FEyrUX5sJhjIHa3DgYcbgSoKtA0JurFoLs25aBkM9NyB5Tv845ZxLMzHIGG7jXxjhqEyFz8qvz0LnyBlnS2bxbaNxlr7NK-yVZbhQRNEuFGr4S6ovy51DLn4JUam6-DKjhWXjimatUKDFrMjM/s1600/FS1.png" group-title="Olahraga", FS 1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeBegbdfm5yR9iODsad-vZR6h8gGPbSp5sdZi5aNLZuVtCEVKIpZb2HeeathXriFMRus9nZIy9acRJmt-ro_PleZFIpSTqQLExyn9yxv3LeuwX8KKKXcXo-Aw8GBB57JELyOOu8VwdJvJWX0L9oDkjh4GL_1QtkYSZTnMk4_yrpvvFjDVHde18xRr92WM/s1600/FS2.png" group-title="Olahraga", FS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+
+#EXTINF:-1 group-title="Olahraga"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv7fyjRcJ2mUUlrm3cJHvsgyHWvWugIy6mo_QX0PaDN-YZ7k0WMNlxXUYLl1N0nABPKBO85ZqG4FNlR6vVU3O3O6BYrRxS86P9-Fah9mK1AtWUMIiWd6PFATmwhRM-jJF7-G-dpUEF6yGB8HbA6pAn046iB7I6_kkgIuXS29LqBFxsJvEXueRLrHuTz98/s1600/Ctv1.png", Champion TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=dash
+#https://pidio.becek.workers.dev/17938.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17938&type=dash
+#https://aspaltvpasti.top/11111/17938.mpd
+
+#EXTINF:-1 group-title="Olahraga"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg003Iffswy2mawv2ZEzzI4IU58WeZ3RxyptOQOE6jr3yQyJ6U-WEYuXbp_bf3b6tVzJ_Q6Cjwdyo-9JT-pGsjnMk2RmXGIWS5Rz1nNNx09bmdEfZtZs2qy32rdWNNf5UBDU8aOeVX6-dpBfD5hhKVkfLp9s8Iv7Cv-Qo39WLba_B1KsMM_g8oZi3OcZvg/s1600/Ctv2.png", Champion TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=dash
+#https://pidio.becek.workers.dev/6686.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6686&type=dash
+#https://aspaltvpasti.top/11111/6686.mpd
+
+#EXTINF:-1 group-title="Olahraga"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNlGlv71L8HD2fbksgvuKTNynzzsukkv2s3V-BdPncQhF5Yt-K5pmo2cB9GHzW2MfP38QUG9eitKxz6vMQhMGdtIM6ypHQ-VxtPobKK66cE5QVnir_mx8b2odpX5jJgBkmKaDEP5bPil_6yV0uBpP7htNRTj2ZF35eVglKQY-tZQkpn6c8xFJAR7ms7uI/s1600/Ctv3.png", Champion TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
+#https://pidio.becek.workers.dev/19404.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=19404&type=dash
+#https://aspaltvpasti.top/11111/19404.mpd
+
+#EXTINF:-1 group-title="Olahraga"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSembFZNgzxHKGBEMdgV9oDRL-BybW6h6rKHULQKOdOEViwXYzUJiYugDnUJCrU2b3jYzwbemgdf0Jt_t86vv7X6-CwLEsrnlQE50uhnqp6Jaoou1jriVEJdtToKgf-rOZW2Ucv3rnN-Sppnhe9v1myLpZG8iOPJzNPBcvck4h5M4rsbZW_RARjcO5abY/s1600/Ctv5.png", Champion TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
+#https://pidio.becek.workers.dev/9182.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9182&type=dash
+#https://aspaltvpasti.top/11111/9182.mpd
+
+#EXTINF:-1 group-title="Olahraga"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKxlHBMwGjZ2NkC5PFELNktghpoVJOtjn6KG_E2paKKrupcVm5X1qiq9GaSy3PrRIktwPXhps4nfZXOVFIkf1lTLU1sjvwH7lg5adge-_ZGxs4AMjHUCE5T7kbGnmWIwkCKpGSZexWleSb3YaLlS8KzSXXVlN7tJk7kekji8jEnLOQxftpPDQ6xGuPtIs/s1600/Ctv6.png", Champion TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
+#https://pidio.becek.workers.dev/9183.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9183&type=dash
+#https://aspaltvpasti.top/11111/9183.mpd
+
+#EXTINF:-1 group-title="Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieSA8aF_hO9K5WIC4HRstwx0fYpQLCpf3CiNpEBqCI7AETQJVdPrhe9yhZFyl5ZjMbefHjLTJEDVpJXE5pUN5WfGoZNWDskYFodHiDvWleXm-fi_0FtpQpJpUljKyqrcJ7NEXsDQuajJpJPnBBPRBF6oDFLX6emNDP2fRH3E3MwyAynU2o_0_Msep8-oo/s1600/TIPIK.png",Tipik 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+
+#EXTINF:-1 group-title="Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieSA8aF_hO9K5WIC4HRstwx0fYpQLCpf3CiNpEBqCI7AETQJVdPrhe9yhZFyl5ZjMbefHjLTJEDVpJXE5pUN5WfGoZNWDskYFodHiDvWleXm-fi_0FtpQpJpUljKyqrcJ7NEXsDQuajJpJPnBBPRBF6oDFLX6emNDP2fRH3E3MwyAynU2o_0_Msep8-oo/s1600/TIPIK.png",Tipik 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c736e5c8f5a4d1a8eb8af1e63aa2005:d1729111efdfb7727ee3e6fcbc7586e1
+#https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
+
+<=================== PENGETAHUAN =============================>
+
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYVfUYpbF5qllrXJSTFETgXCHo6sIFwMESLnzhABfPGJcewzhKfNDHyHXVsHDcKrxH9wbDIGJdQrzLJFKB48tGuVaDWQStkqV1QParB2p1zjNyEQ8yxIbDA54zmI7R61klLEcutM4jIGNf3KaNS-7j6N6fm-0cC3wC1EZVaTLoxwsnhyBkePfemB6qas/s1600/Animal_Planet.png" group-title="Pengetahuan", Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
+#EXTINF:-1 tvg-id="BBC Earth" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY4EqNYK_dvV4qATJd9KJ3gTyvrLAaAhSbGU7xQYgn9OYApTFV5HGChyTBnx2j6FKlmsZk7NZ-8n8rJCKh34J4pjx4qy78JPyYluLolFRN8GSjz_hieF3GZ_YpEuM9CHzNOM14wvd41vmTk-Oslvz7KVwgzef3ntLNqOWxHXvEVN_9DdtJxtTbF9lTCwM/s1600/BBC.png" group-title="Pengetahuan",BBC Earth
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPIe-3KP8NBy8DyuMCmtYzaaxChyMN2nqzQuq3-bNMJgE9uCtgD1r3eZbgVJxBcUsgtSLQtIsSDXk2nqI2j7yphp-cBfsSar47w9YtVV3cLUWaXRzP6TfHyY3XJZD89ftM6VeMhlc9LCIDmZUWghQIfprZPqItoUdias2WERTw6EDWeQC28DVDfpUx-jQ/s1600/NGW.png" group-title="Pengetahuan", National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
+#EXTINF:-1 tvg-id="Outdoor Channel" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPgS0a2EuKbZ6Rs5TH-kWwdKemoZQLiBvYAbplB9jUjd_ZkbJRUlxOaH_EWTjUeRZfK_P8EP7qfSHdRGMoVpnKAH1jCHDpJYih6EfVi9jGdYWN1TK74-k4DOq4jlDgENy5H5nOggcjVWVH7le6USTUVGUNe506CHas-wnv78Wt0394Vr7m6guLAn2IDmA/s1600/OUTDOOR.pn" group-title="Pengetahuan",Outdoor Channel
+https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
+#EXTINF:-1 tvg-id="Love Nature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUr07V76-0czhXsobmmkphEmL8a16MF2OIfKUvMJlNHHk694RhBn8EwT3sGXVJ2aMij9S_T_-YJ2F_UFORlt2Cv6QTdVCdrElZg-Omdb-rNnaWbpD2pNFg9j8N1aNKfXEYmvmooMwboMgKiJisZ5I9DJ90o4viwgP73TJKGfDtyVZv_OjIi3xxe2p2DpU/s1600/Love_nature.png" group-title="Pengetahuan",Love Nature
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
+#EXTINF:-1 group-title="Pengetahuan" tvg-id="CrimeInvestigation.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlCsmw9kMugbuZy3xBR2KhBW6vAD-2zhFkvTdsw0mzEW6l7qrHdxWb_Ub4k33G6m2qZx4_dftUgRrAvGjHoCCRJgtm55iBxyRUCcjkinia7Jjyz011EB54PO8r5gxkOjH0vtdV8X1YwGcac_evLxSpYXdJFGPPwrxLaQyFTk5YHoffspMSpxs4ZC3pekU/s1600/CI.png",Crime Investigation
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+
+<=================== HIBURAN =============================>
+
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
+#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiD5d_3vQrlSa6MImN0lkRfbEiGX8SZaDNkFwqNQS4m-aB0zV9_jsCrfV7Ajz2GlI-Xa0B1VJ6rDSiIg2SC_Vz5ebkKWDOjd1bRVjp2D6er-gH9jSxO4CG-ilLDKLW7uNiwLevAbRHoUJ8i0sYkZ8adm8BszC8ptq9QEIjYre8kmQUGWmqKfAahQ96fXg/s1600/rock_enterteintment.png" group-title="Hiburan",Rock Entertainment (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
+#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEion_NTct9RjRo2ygvZsYcWG6bmW0fUPF4uwH2yCtF8LptJZ7g6rCHQSlul-dz10YfsE_-JUJk85yQpnOt7C_bYlxz2tIX176s6ZAVLYNEInCmZ2IR09eFsED24Pr2v0ixgNXfwMdvl2Yb_XH4GQDWCmv_hRtW_Q7mkLFTSJuHnEaRG7vQfoqhCHBSTu7o/s1600/foodnetwork.png" group-title="Hiburan",Food Network 
+https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
+#EXTINF:-1 group-title="Hiburan" tvg-id="FashionTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVSEnyaxFakfyXyUg5heXfpu-RcBACV5Qa6S94UMfc3himgYTIvvuoI7m62nL0USc-jGRvpMHY-yxgmcZVqcBEqJ_Ts8Y_doSvvcSptEeB5-2HhF6Re862vXHZm2xjWHLKLuxF5LAyE9wbokMGun1o3RFzPD7KWcJH8M_MUvgr41_88OmfYqfM6W9aM-8/s1600/fashiontv.png",Fashion TV 
+https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbQl3aWZTHaLZ8083WTK-i2ONZFQAn78qcV5YYq9O8jj2GiEOgmMBD1MMwn2nDYG3GU1BHaXrI78Xs_oi8RhfDMcXX2RKyV8hL7veUEmkDCKosmOH8mcEK9kThLhNTrC9bpmo91j4N2zjRxckCor_NcxF0tTVAjzq9a9Yq4h1cmZDHIGwiNSqGFebymXA/s1600/dfc.png" group-title="Hiburan",Food Channel
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV1rMLKbVMGpdwVyQv9CgTssEWg_DTx4p1ZFTkoJjlRjPwYA9PGpqICyik6z04BGVnEyWzJxyKZnTJndXlXS0YkJvqn0nq4f4V1aCfY2MDdq2Vr1tg1rKHD2yp4oSTL5dBOkclqfMmv7ZvtQbjdgkJjBqSy04MFwdsvYeQ9wDhQhaTIpYJHC9S37hepPA/s1600/showbizz.png" group-title="Hiburan",Showbiz
+https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
+
+<=================== CHANNEL ANAK =============================>
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRq6fiZXeGW2Yii93h4mIMe9WZblqQDfNGy2UajaFtPdTjVRX_uCMl904ThbcAUzrkrRK5rQGF0vW-mN2ICDKD-Z8QL8D77cE2vtVM8oRBDTtHmNB5q9finfbUjH_qGcNq-IHbKXMJLUsq7Tg9Wi2sBCyU2dv6C9v7rdwa9fHU6jfyGM_IQ2dwwp3ZwFk/s1600/mentari.png" group-title="Channel Anak",Mentari TV
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0FzzWAbIsjBmOJi7uc9VxqL8Uo3JLNnbg1UXTT5amnPF5HpwIVHq_E7OzXVMOwEKfUZNjPZGw_dM88IPtWJn02692fBfoMnk4sMkz5mnLS6yRKiR0D9-TwNJYRig_3HC30pjp45Zy-Aplrg44_lPBJ1sVGjfUA8HgXQFBOmyY1oHAiM9bYcNE2QWqv8/s1600/vtv.png" group-title="Channel Anak",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtT8tweB4UBK87xnl0IjtJcTtqtP4W9hTgHxChNwhtE-C1rGnVK8hnNVfzeX3B2fD8WrYwymLvc_Vp0jR3To7miK7RsYePZUa3kAtr0kN567B765InoAxoH1Cze4-K8MXcAqV-OixGxriiRG9kVIou5apZFzqYFqRZuiOzqtcuTupRZnSIoxgpxRZitE/s1600/kids.png" group-title="Channel Anak" tvg-id="KidsTV.id" tvg-name="Kids TV - [Channel 46].id",KidsTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM-kWXGHdtJx68I0uZ7PAEOA9jOp4PRymv_gcFu6BdaIInrIk4n2rXgdYqRD_fFxo4JaGf9ww_PTl-l1wfeY2GVoQjHoS7XvxkFpxqhJRyy_gsNTZ1oaJetZKTSNwm4el1UhvECF3YX7qeS4GB6J9wk6fdfrcHrv5fvmzmbktNeqiIFTtZSh_kiKNRDy4/s1600/nickjr.png" group-title="Channel Anak", NICK JR
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3PwQiAODtyNl82wkkdaH0kPAsxa_paia4OsSdCei2mxpPORd_5NF5qA2x5He96R0fIux8CzWjQ2uFAStVC6AsjRxjVhlLA60ZBbWmvM_Ealo-W_6ehagI7LPrfgjtipca07OjP2HFbaTuAPguDyovfhcvPMweYrNAR6oMnc_uEK32upkHmON9Bbvj32s/s1600/nick.png" group-title="Channel Anak" tvg-id="Nickelodeon - [Channel 49].id", Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5BldvF5EEnEDZZeDZjVArvq19-KPkr5SIqcf6y4hMCeVt-O1Vr_2RqBxLb_BKRFIYu2jkCzPToRrrg_yNwTmxrOzfh4NddsmzcARgAsr4F407mb_z-bbVqCceA3TMpzxrK3OupXE3p9NkC-0qKWbLzg-ziGl-kUlt27zxyt6aGV4UUnEhdZtYpNZ9Sho/s1600/cinemakids.png" group-title="Channel Anak",Cinemachi Kids
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+
+#EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii66fKSbVWetQM8ssH3IPObORJUh63hPjjpHTMdciViJ9kwVjepVaukZ-E8eeWHNvk-_A2qAJ8OcvFb_prRBGxeZ5fH9aGm77_1M6oQFON-6dTzFECy3H8DfokRoQ4GPQpoyBl8kCuLvdz1nJ_0td-LjZKU-410XWLZWgPJXz_GTMGmZILFXlYfzp29-Q/s1600/cbbiess.png" group-title="Channel Anak",Cbeebies
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+
+#EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHoYQfQ9Pv0dgkYmJalmIU2JYsV95w5nCiw7sj5YBviegy0u4FCSFJq0W3uCz89PukCDr00izk0LpHWoosTcIZ9C9mmTWX-Y14oA3pEzAj081TnQiDI4ySueI12tFk3F-ExwHzhKEc11FMUXOg74fv2Lb4rlP-WHRn54b6DYF3rLTMryXjl32EBOqkX0/s1600/zomoo.png" group-title="Channel Anak",ZooMoo
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1vEXD5SXlrUEiVBKs88kKWw992uSS3RnwZDgLPsiRYXdGQFC50alRHSgaD0GRpn5qy8_Eo3IoJZ9-qp1JWi86Y7nXpT5im7yqBRqi_K-Q2zHJ0PzzQFlKQwiMYT7MWtKRW-ozS8JnxaQy3v5ELLbT6BLk3SLyaPV1IO4D-CLlKnVVCwF3tV0I3pjBQMY/s1600/moonbug.png" group-title="Channel Anak",Moonbug
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+
+<=================== RELIGI=============================>
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN8iuJ4DC2M0YyTvJVS3fN9SW8AvFuArnS5ytqjTniGhEGfI791478op7ehIRRpykYhg5NuxVdeTjbikdUvvhORysU3APT7mdZKEgPJ2vHMcVunc2Bkm6DHT9UZRmKgfb0s3ZFxFxJglornnXlkr5wXi24BKipfxWzHrBKsDUAcjzbmEDovd1DCI4UHrE/s1600/RODJA.png" group-title="Religi", RodjaTV
+https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_pfoWKuWAZgnHOD467UWkpDdm9jWXWkSoiDPqwpAG1YFeuy3jp_FU0oUJWtCmFB4cmIR-EUjjzDf3Eb-_KNbQCOYgn2QnBCgEFj5UdVNBqXN3enljdkXMZNoGm5NYDJOI1ByLNCBCkpCcZEXTeZxzCDsQxOT_Z64z1VMHm0ODdQ-o9Tkvyfpp81FTGKM/s1600/MQTV.png" group-title="Religi", MQTV
+https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDZLr9D3MKrdaab5flj4Zi5Kt9FTX2oeWwSf4SMQKiI_dr6DFFEdDJLiZUXHggI5SVSsEAjqSi-PuwWnM1eEd7Epx7e-s9jxv8C8VdiJcuz0LPM1K23rAmDgCVEFDve7KAJ0vu2q3nKaNUgQoBxjEL5KI0vLmKoPeqlxbRmtsFslAcXFMLSCep2d-Y5Zs/s1600/makkah.png" group-title="Religi", Live Mekah 🕋 ☪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
+
+#EXTINF:-1   tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnGEiddBHwnUcJDTO6jTJbAQDxyC6TO0fuozDIpq4bPJ4Zd0jiLIV-LfwEInFg1PF1JEuySQRfMO07qNPmmtNCalCYd5JyiCPoOIDk_uFSr6xbFXXDuEpVn8tL0b5KKG7HccW4_aAmBYP2TENTj4B9P-7FMzThknxrcIdqPbEmTvYHtFgUzPc-QQztHGA/s1600/madinah.png" group-title="Religi", Live Madinah ☪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jjj0G3Tr8NDIVLdrGKN9b1ovMex17VY7CSnsBIMl3O5rMXo2JrzJ4EwkkQ6AWEE7daVhtTINGpr__PHOpV6uJFIcfvSiYMHjgEE9ZXz4Rpqcij40nURd95YVksfsHlFe0Vp66NEGRz4bvW7RIthvCNlcFGVEQnqxJ7HuXEoC7U3aUaj6SzuP_yQi4Vg/s1600/tv10.png" group-title="Religi" ,TV 10 HD
+https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjCvtCw1K_VWRWXlV96NnmPNsRyetrnnYg9zGInYMeLk2-C3wsoKG9Qd20CRTeFq_IBIILbQKN9iB9xOo5T6VBAKsWgnkQiMpM-hw_MJ4IS-aMQKeM0Tr-kdr8-KSgP9qTsnaom8QbWCLw_cfcsa9qQH6-wDcFr2bdWb3jywb4vIj2Owa5zH63QhATUHU/s1600/tv9.png" group-title="Religi" ,TV9 HD
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR54SV4Gv9POM-VCTKMHMyJrdKeaJ1fGLflAuvd1rgdp9CEHU4OWZG1YMvochwh0155QK5_CUbfxD_H7tR5zWz4iohgE0S8MQQmAZRPYL5ndSj-Ur7jUUwdQSVHbi2NZM0N42ofiszb6dp5h6SoqzV8969g7e7qniNvctfUi0Yc7S7CTHz44qYahPobP4/s1600/tvmu.png" group-title="Religi" ,TVMU HD
+https://e.siar.us/live/tvmu.m3u8
+
+<=================== Digital TV =============================>
+#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_FEh_3CYNqE0jM-ryo05C7SG71hyphenhyphenSNrNhl9b55Z9Pgd2-BuS1EC6UGbArbRHv72H7SsWzrkLTitf5tjIiOFRKnqdZSYhv_nJPrIVhFDwiFCcj8tmcVf2w9dTq40HqQpCVVRnHqjNO_eFOiK7E223zEpM9mEIK5mohRV1dCWpWklkapBW-1n-ijOME9Lo/s1600/GTV.png" group-title="TV Digital",GTV HD
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73619.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXvx5zcfqvlwWh02K6ugj0zp0oElunKj8KZKsWEcbjRvKolKh5ervVyKA6E_1WWmWLJfCD-qNKvBVM1mhlJajyOSdd3lSQy5XoC7NtRzkOKrJdaYLmNZKcnRAQjTW02QeUAYApb88D0hau1jpA7LyL-UMwV0nxDg9dtZ6xY3gaAaKPQwcKSv4Zs2Ho2w/s1600/antv.png" group-title="TV Digital", ANTV
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73618.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwDio-4EO0MWXJgXGo9QUuyfarB9dA6i5Gocmkt0j5R8W4DPDu1Gty_nWj4OfJ2oq4J9X0XTF_tXWp4KLOD_OhuNYgm_ZVRFg950I9UGccbBb_jD4bY1CxjM8qwLJZwwinFolU2A5ilE5MWoRrTHtZMaKyivgaIax03DfUlQ28ZQl0z82st3H2xqp-mXw/s1600/INEWS.png" group-title="TV Digital", inewtv
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73605.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRYQrNXYz0a7D-Z3VgwLAaRKYOgbkbta-7PS-VAsJLP0iU1y1QCNtnnQgK-HlqjdM0a1DJCGpOwJhMAQoI2MHP5EQu5MXjyZFhMj0lr6ixFq9z4anKT_xxzp3iDZIgKq2-k2OaaIJgYsL80iMRNrQQ7e4XDvL-QU3NrdxhDWW-WYyivcH1MyzgO7nfm-Q/s1600/RCTI.png" group-title="TV Digital", RCTI
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73606.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4DJSys6sAtggJhotDbH9AgUEeBN9GiWCrL72owVm3mjTM_aMjX3WH_ud5tg_N27igSZzuRKSOjbh6VnC2FCqZoQGkTyjVsIa9J-WmA59s3jU-MHDyawhGz5vsNlE1UYNYc7caTjQZqnHzKsbOUzrzkNsiKmtBodWh6SbtsEkwLOWCuMKDY9V-ahm_6vQ/s1600/SCTV.png" group-title="TV Digital", SCTV
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73607.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3bhQFWbG3sWoeFX5QL3jRFa0nBoaQepoN7ckCleZz7XogoXJ8V8q8RraEgsxo3RNXm7M_iXpnJ8TzYb_VAx5u2kb6AcBObMmb4OQo4SwVUCYmmhvhS82rqZsycVeFye0mnjb73TvSZFt6Lz5w-KuKTM4R89rGMUoR5uzKabL7KYSL_1pYeuGJTrgm90s/s1600/MNC%20TV.png" group-title="TV Digital", MNC TV
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73616.ts
+
+
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOVhHYO36e1moRqJMwjxvi5d-8opXnzzMf-iP9HZlhcYSfuOPT7DpePe0Y2sbrdFv2gFC47Vj858g0Fk9qx_K9UfEOr-VgWUEKzj8XBblH8bNsqViqwJZ5fBFBG1u8DVUIefr8XpHYCbVWxIiBBeGyBo7jM9H012K9SpEkz4i1cD8Z7QW41e3uOMD8fW8/s300/indosiar.png" group-title="TV Digital", Indosiar
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73617.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirZSCHRAFDk1qE7dWKddj_T9kRIgagfCAnxm5uuu0cxlPd5y8Tp1zAzbEOZ8CSB6MiGl1DVmqRrB5k15mIxh4N1momnDlpnAmoFC74hITZX0vsfNVb5iZel1ViJw4-FyVHOF-U3RjIrD_KN6GYPnuWGC8PbQ7nOtlcIku6Shua0dhen6R25YbBiRYhmTk/s1600/one.png" group-title="TV Digital", Sony One
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73987.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fkwnkcXSGW9lc3MyB2Cm4-L90c5MMzmcbtErZqGhyphenhyphenixbtcTtCTQrKCG4FZ1eLmo_hmiYjsjTjKIBEPUPQsBxvo5DkxG9UMb2c0NJTHuOGQDjgI-xqKdNpKISKaz8L_JigtPayMt1UJHojpDsb_orjUxihR5PFN0IcoUGQaH5vQySTHnfb4KBRbKFggY/s1600/tvn.png" group-title="TV Digital", TvN
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73985.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPApWqPp-9wE4NKjK9ZrA0-wYWC5oyMYtzYjVD6b2dniceTbyCllz6BEITZvKIhaUg0NyOLRXfD73-YmmLCek4AmbfahNTqQsb2Pr_AvPoR5loJsdJQdP_ECYYQaNmVT-gTRfi4mDDzXhQmv9D0U7_lI97uys12gJTxPTwkZlJMsTCsaZmcjqBj3HcwTs/s1600/tvn_movies.png" group-title="TV Digital", TvN Movies
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73986.ts
+<=================== CCTV =============================>
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simpang Trikora Banjarbaru
+https://stream-backup.banjarbarukota.go.id/s3_trikora_cempaka/video1_stream.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Trikora Arah Banjarbaru
+https://stream-backup.banjarbarukota.go.id/s3_trikora_arah_bjb/video1_stream.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Arah POM
+https://stream-backup.banjarbarukota.go.id/a1_simpang4_arah_pom/video1_stream.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Banjarbaru Arah Banjarmasin
+https://stream-backup.banjarbarukota.go.id/c2_simpang4_arah_banjarmasin/index.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Banjarbaru Arah QMall
+https://stream-backup.banjarbarukota.go.id/qmall_arah_simpang_empat/video1_stream.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Pos Polisi
+https://stream-backup.banjarbarukota.go.id/c1_simpang4_arah_cempaka/video1_stream.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Taman Minggu Raya
+https://stream.banjarbarukota.go.id/taman_minggu_raya/video1_stream.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Lapangan Murjani
+https://stream-backup.banjarbarukota.go.id/ptz_murjani/video1_stream.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", Simp 4 Arah Sei Ulin
+https://stream-backup.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/video1_stream.m3u8
+
+
+
+
+
+
