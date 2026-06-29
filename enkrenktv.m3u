@@ -11,7 +11,7 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="EVENT 029/JUNI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
-https://banjartv.siar.us/banjartv/live/playlist.m3u8
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 <================>
 
@@ -26,9 +26,6 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 #https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-
-
-
 
 
 <=================== PIALA DUNIA =============================>
@@ -75,7 +72,6 @@ http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJX5DVYj923FOCPi_FRatyfzaGC9EPmZbuAG_Kk9lacxY09ZkLewgW7SALj95Um_BFQJge1VuCLE9wXsyFPaX0-kyQnfuwjxxI8AGhg034s2C8LOlO97c-7sxvmBBoUbGsrTXVinIVfzyRUDbtjG5U00kKdMi1Q-CO7IvUcHDbhV9qD19hYjMMpr8FOz8/s300/RTV.png" group-title="Indonesia Lokal",RTV
 #https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
