@@ -7,7 +7,10 @@
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="EVENT 07/Juli/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
+#EXTINF:-1 group-title="EVENT 08/Juli/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
+#https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
+#EXTINF:-1 group-title="EVENT 09/Juli/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
 #https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 <================>
@@ -24,28 +27,29 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 #https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
-#EXTINF:-1 group-title="EVENT 07/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfu42_3dGPQcmz0kHfzVW4BOoY8u230fAMvnKf4i4T3A&s=10", 19:00 WIB Chinese Taipei vs Philippines
+#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 13:30 WIB Thailand v USA | Week 3 | Women's VNL 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel80.m3u8
+#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 16:00 WIB Ukraine v Italy | Week 3 | Women's VNL 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel80.m3u8
+#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 17:20 WIB Japan v Brazil | Week 3 | Women's VNL 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel84.m3u8
-#EXTINF:-1 group-title="EVENT 07/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfu42_3dGPQcmz0kHfzVW4BOoY8u230fAMvnKf4i4T3A&s=10", 19:00 WIB Korea vs China 
+#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 18:00 WIB France v Netherlands | Week 3 | Women's VNL 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel87.m3u8
+#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 19:30 WIB China v Canada | Week 3 | Women's VNL 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel89.m3u8
+#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 21:30 WIB Czechia v Germany | Week 3 | Women's VNL 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel25.m3u8
+
+#EXTINF:-1 group-title="EVENT 09/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 01:00 WIB Serbia v Bulgaria | Week 3 | Women's VNL 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel85.m3u8
 
-#EXTINF:-1 group-title="EVENT 07/JULI/2026" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:00 WIB Malaysia U-17 vs Indonesia U-17
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#EXTVLCOPT:http-origin=https://lxscore.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-106222.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=18b6a3d86864bfd8d545d3eceb8f43b6
+#EXTINF:-1 group-title="EVENT 09/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54uryfcuBl_NiOy7CWdJaMD8VoltwZbw9kg&s", 00:00 WIB ML Rogachev vs CSU Craiova
+#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 
-#EXTINF:-1 group-title="EVENT 07/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSmxsDW3h6Xv8o364TBJhBkN1lzb3D_75FZk6sym4&s=10", 21:00 WIB Serbia U22 vs Portugal U22
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel82.m3u8
-#EXTINF:-1 group-title="EVENT 07/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSmxsDW3h6Xv8o364TBJhBkN1lzb3D_75FZk6sym4&s=10", 22:00 WIB Ukraina U22 vs Turki U22 
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel83.m3u8
-#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSmxsDW3h6Xv8o364TBJhBkN1lzb3D_75FZk6sym4&s=10", 00:30 WIB Italia U22 vs Polandia U22 
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel80.m3u8
-#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSmxsDW3h6Xv8o364TBJhBkN1lzb3D_75FZk6sym4&s=10", 01:30 WIB Belanda U22 vs Spanyol U22 
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel83.m3u8
-
-#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10", 03:00 WIB Swiss vs Kolombia
-https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
 <=================== PIALA DUNIA =============================>
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png" group-title="LIVE PIALA DUNIA",World Cup ch 1
@@ -348,9 +352,13 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ46zYRtdc7p8_3TEnNd01lCMS_QCdJCh3E5I7H15ORN0FeBbdVu-RmKjjrJUjOwg_oelW8xfZJcUqCpDSbYe0XU9UdHiKrzUDr42Av-6IY7hBs_T1n0_hwZ4q35kMXs5Ecq9kN7iaDnHnRWeyKL6-ALKYAUSXEWoNmiqzA2-3DlNLlkoaKvXIMOAjRO8/s1600/TabalongTV.png" group-title="Daerah",Tabalong TV
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSw4B-rO7E9gxU1my4wqNP3tqMIpELARu1PwbjrF7gJyGmnhAKeSjPsfRfgdk958Kc9hMSXkQVjaCE8QFCudI5OxWY4S-lZOvZu7vmz0Hp6CdBKNXBITakPoak2ewGkzOF85Wwvgvxqh2D8dP0XCwZBb4HNT1yj03Gq-rpfW5EMDDylxbOGUor-YJShL4/s1600/Jowo.png" group-title="Daerah", Jowo Channel
-https://op-flashcon-digdayahd-1.dens.tv/h/h208/01.m3u8
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSw4B-rO7E9gxU1my4wqNP3tqMIpELARu1PwbjrF7gJyGmnhAKeSjPsfRfgdk958Kc9hMSXkQVjaCE8QFCudI5OxWY4S-lZOvZu7vmz0Hp6CdBKNXBITakPoak2ewGkzOF85Wwvgvxqh2D8dP0XCwZBb4HNT1yj03Gq-rpfW5EMDDylxbOGUor-YJShL4/s1600/Jowo.png" group-title="Daerah",JJowo Channel
+https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
