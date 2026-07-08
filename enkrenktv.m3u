@@ -7,10 +7,10 @@
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="EVENT 08/Juli/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
+#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
 #https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
-#EXTINF:-1 group-title="EVENT 09/Juli/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
+#EXTINF:-1 group-title="EVENT 09/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
 #https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 <================>
@@ -27,22 +27,27 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 #https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
-#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 13:30 WIB Thailand v USA | Week 3 | Women's VNL 2026
+#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 13:30 WIB Thailand v USA | Week 3 | Women's VNL 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel80.m3u8
-#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 16:00 WIB Ukraine v Italy | Week 3 | Women's VNL 2026
+
+#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 16:00 WIB Ukraine v Italy | Week 3 | Women's VNL 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel80.m3u8
-#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 17:20 WIB Japan v Brazil | Week 3 | Women's VNL 2026
+
+#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 17:20 WIB Japan v Brazil | Week 3 | Women's VNL 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel84.m3u8
-#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 18:00 WIB France v Netherlands | Week 3 | Women's VNL 2026
+
+#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 18:00 WIB France v Netherlands | Week 3 | Women's VNL 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel87.m3u8
-#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 19:30 WIB China v Canada | Week 3 | Women's VNL 2026
+
+#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 19:30 WIB China v Canada | Week 3 | Women's VNL 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel89.m3u8
-#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 21:30 WIB Czechia v Germany | Week 3 | Women's VNL 2026
+
+#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 21:30 WIB Czechia v Germany | Week 3 | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel25.m3u8
 
-#EXTINF:-1 group-title="EVENT 09/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", 01:00 WIB Serbia v Bulgaria | Week 3 | Women's VNL 2026
+#EXTINF:-1 group-title="EVENT 09/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 01:00 WIB Serbia v Bulgaria | Week 3 | Women's VNL 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel85.m3u8
 
 #EXTINF:-1 group-title="EVENT 09/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54uryfcuBl_NiOy7CWdJaMD8VoltwZbw9kg&s", 00:00 WIB ML Rogachev vs CSU Craiova
@@ -169,13 +174,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-IacHQmUwVtjKY36e7siqYlFQkABdf-OoEBJAsda3Y2J0kQCtRrw8Hdw36OsCzM-O1bPD3QQxXSyPyjew_YQtka-_5CnRcCaJOx7UDdopNLFJJ45BOJ6MFKQh7DEi6yqvJuPsXNLW-t0XPQH-23RXXh25P6o3ZGn1XwOoOu52T-6LVVwcMlrxy1eMm78/s1600/KOMPAS.png" group-title="Berita",KOMPAS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-IacHQmUwVtjKY36e7siqYlFQkABdf-OoEBJAsda3Y2J0kQCtRrw8Hdw36OsCzM-O1bPD3QQxXSyPyjew_YQtka-_5CnRcCaJOx7UDdopNLFJJ45BOJ6MFKQh7DEi6yqvJuPsXNLW-t0XPQH-23RXXh25P6o3ZGn1XwOoOu52T-6LVVwcMlrxy1eMm78/s1600/KOMPAS.png" group-title="Berita",KOMPAS TV
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+#https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFK-aPhAuapuR7HZncuxj0yF-KoqDspPJ364web_WzQMwGDNfo1tVyp72uamrAfYf8rQ0Q9WUD8NIKqOUGs5BLS3Kvxrj3iU54B4jASjiszUuvjcLZLj9FDYdZQ34TN1Rly6n0Lz9088m-wkTzRBfAUNw4lq-UprD9Rk2cKxDUbcUvxDe-4l7f682z37Q/s1600/METRO.png" group-title="Berita",Metro TV
