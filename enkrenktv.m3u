@@ -371,11 +371,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-id="Hanacaraka.TV.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHM5CSxd5UU7bushxSYLsyJa_M9ZC3eprmGwF8p1EmcehE5EqOGunTDNygVONWSYPbyHYDJzkwFf0GY4AYMg1dQZLQ5HWSR9V7_kF876zqnozWapVlqRwaEUmxHpnSm_Djg_OocVxLNLBLyIe5BH0BPP3slCXQtQqcCrkEA5xOpXkc3pwk0D07viqR9iE/s1600/hanacaraka.png" group-title="Daerah",HANACARAKA TV
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-#EXTINF:-1 group-title="Daerah" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLdQTP3Rae4Zv-oa-OzeLZxDIAClV5M7L4fwmf7WmISOatg6iUvdLx2PGwkgRD2EsT0ewN5IHQw5v-UKgew8UaorsRZWt4CpmAXXOGmNvILpdc6IHFcqw5buGUaci0a71oMeVKZu_IXFXXj96N-5RikyO-3Iarq8BubJQxYGolfoV99DXVfVonA9E1aUE/s1600/jtv.png",JTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://ratu77.adptv.workers.dev/index.mpd?id=9713&type=dash
+#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLdQTP3Rae4Zv-oa-OzeLZxDIAClV5M7L4fwmf7WmISOatg6iUvdLx2PGwkgRD2EsT0ewN5IHQw5v-UKgew8UaorsRZWt4CpmAXXOGmNvILpdc6IHFcqw5buGUaci0a71oMeVKZu_IXFXXj96N-5RikyO-3Iarq8BubJQxYGolfoV99DXVfVonA9E1aUE/s1600/jtv.png",JTV
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73627.ts
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHOFCKV7mVO6zd2mbpZZgOUQG8I1CM7pba0iOhHIcEWcJhe-U-bjLvLzU6L-4kXizmrIIECKL7s2zRK441LSbpSi6jZVZ_LxLrAcLg4WiuQgWu9xk2hQD7uOva7D2ZCH3mXrSbA9ytxXXH4FC7MlOaeaqjem7o5qxJDgz8nDnzbOOg4NA7yUIUn-bqPrM/s1600/garudaTV.png" group-title="Daerah",Garuda TV
