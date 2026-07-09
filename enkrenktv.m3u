@@ -383,7 +383,15 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=li
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLdQTP3Rae4Zv-oa-OzeLZxDIAClV5M7L4fwmf7WmISOatg6iUvdLx2PGwkgRD2EsT0ewN5IHQw5v-UKgew8UaorsRZWt4CpmAXXOGmNvILpdc6IHFcqw5buGUaci0a71oMeVKZu_IXFXXj96N-5RikyO-3Iarq8BubJQxYGolfoV99DXVfVonA9E1aUE/s1600/jtv.png" group-title="Daerah",JTV
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73627.ts
+#http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73627.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="jtv" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLdQTP3Rae4Zv-oa-OzeLZxDIAClV5M7L4fwmf7WmISOatg6iUvdLx2PGwkgRD2EsT0ewN5IHQw5v-UKgew8UaorsRZWt4CpmAXXOGmNvILpdc6IHFcqw5buGUaci0a71oMeVKZu_IXFXXj96N-5RikyO-3Iarq8BubJQxYGolfoV99DXVfVonA9E1aUE/s1600/jtv.png" group-title="Daerah",JTV
+https://atemeshield1-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHOFCKV7mVO6zd2mbpZZgOUQG8I1CM7pba0iOhHIcEWcJhe-U-bjLvLzU6L-4kXizmrIIECKL7s2zRK441LSbpSi6jZVZ_LxLrAcLg4WiuQgWu9xk2hQD7uOva7D2ZCH3mXrSbA9ytxXXH4FC7MlOaeaqjem7o5qxJDgz8nDnzbOOg4NA7yUIUn-bqPrM/s1600/garudaTV.png" group-title="Daerah",Garuda TV
