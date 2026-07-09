@@ -233,7 +233,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+#https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwL06BtJ8NBf28vZ9svh-Mu1eyyY9XBTk-i6S0XYEi2rhiVoIlK74UsdPS_2mB-em1mrvzDvDDIDvCRoH0dEegmYWAydi7v8viT_jt3sY6wX34Zb1nHo6Eg4wPg0XUPtAQgGQJnSq5C2rUhyHZEKsIpc7oS6uFec5yF5NEiEo77p-j6KiIEeDnD7gqVOs/s1600/HBO_Signature.png" group-title="Sinema",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -241,7 +242,9 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mp
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+#https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4uFLIGa4MkDshIra3wRqxr7RyZ6tOKdRZ5hVQdg4QiR_P91_VVEf9gq06uhvqW4MPRjNzGpJsodaV1jlpCFM7WZ3-wSvZin34vDNEQTjS_Pvoq6mWflF5fvb6_gmKMNdGmgqWAQkSPXb6fd95czW2LgTzcMPQvk-qqg73sgs1UAdatL3-SijqPuEDS4/s1600/cinemax.png" group-title="Sinema",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -249,7 +252,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+#https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 tvg-id="411.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqupQKZJ-hzdkrq6cgLIj5U65FOdIeSNrUezFWSyJ3xNiLpWvXQul9vebnZnqVU9IHnfGwLZ0dLLghLxayvbjVTo7mSS349WdygvcJqlAFDWkLThNFKNjSshnJJsL68zI4HIMAdTN_nZix2qWUuJYNOrthoOghoyMYe-8wwglGDUEQWkNTc_7BpUDQpF0/s1600/HBO.png" group-title="Sinema",HBO
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
