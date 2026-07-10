@@ -2,7 +2,7 @@
 <===========================================================>
 
 <================>
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="LIVE PIALA DUNIA", 001 ENKRENK TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="PIALA DUNIA", 001 ENKRENK TV
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
@@ -843,39 +843,41 @@ http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73986.ts
 <=================== CCTV =============================>
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simpang Trikora Banjarbaru
-https://stream-backup.banjarbarukota.go.id/s3_trikora_cempaka/video1_stream.m3u8
+https://stream-backup.banjarbarukota.go.id/s3_trikora_cempaka/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Trikora Arah Banjarbaru
-https://stream-backup.banjarbarukota.go.id/s3_trikora_arah_bjb/video1_stream.m3u8
+https://stream-backup.banjarbarukota.go.id/s3_trikora_arah_bjb/video1_stream.m3u8?session=d58f01c8-474e-480c-a5f5-1a4e399e3b10
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Arah POM
-https://stream-backup.banjarbarukota.go.id/a1_simpang4_arah_pom/video1_stream.m3u8
+https://stream-backup.banjarbarukota.go.id/a1_simpang4_arah_pom/video1_stream.m3u8?session=2b3a5717-6814-4c8d-931a-bb871184a40c
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Banjarbaru Arah Banjarmasin
-https://stream-backup.banjarbarukota.go.id/c2_simpang4_arah_banjarmasin/index.m3u8
+https://stream-backup.banjarbarukota.go.id/c2_simpang4_arah_banjarmasin/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Banjarbaru Arah QMall
-https://stream-backup.banjarbarukota.go.id/qmall_arah_simpang_empat/video1_stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", QMall Arah Simpang 4
+https://stream-backup.banjarbarukota.go.id/qmall_arah_simpang_empat/index.m3u8?cookieCheck=1
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Pos Polisi
-https://stream-backup.banjarbarukota.go.id/c1_simpang4_arah_cempaka/video1_stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Pos Arah Cempaka
+https://stream-backup.banjarbarukota.go.id/a3_ptz_simpang4/video1_stream.m3u8?session=39cb027c-3e91-4425-a4b4-895a658ef03d
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Taman Minggu Raya
-https://stream.banjarbarukota.go.id/taman_minggu_raya/video1_stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Bundaran Topi Toga
+https://stream-backup.banjarbarukota.go.id/bundaran_stm/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Lapangan Murjani
-https://stream-backup.banjarbarukota.go.id/ptz_murjani/video1_stream.m3u8
+https://stream-backup.banjarbarukota.go.id/ptz_murjani/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", Simp 4 Arah Sei Ulin
-https://stream-backup.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/video1_stream.m3u8
+https://stream-backup.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/index.m3u8?cookieCheck=1
 
 
 
