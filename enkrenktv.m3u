@@ -29,22 +29,19 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 <=================== PIALA DUNIA =============================>
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png" group-title="LIVE PIALA DUNIA",World Cup ch 0
-http://106.107.177.247:5678/live/stream-14760d6c-b244-42de-8ae4-88233185ada2/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png" group-title="PIALA DUNIA" , World Cup ch 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png" group-title="PIALA DUNIA", World Cup ch 2
+#EXTINF:-1 tvg-name="ITV"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png" group-title="PIALA DUNIA", World Cup ch 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kilat-live.com/
 #EXTVLCOPT:http-origin=https://kilat-live.com
 https://rr4---sn-8pxuuxa-on.tvlivegoogle.vip/UK_ITV_1_TV/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png" group-title="PIALA DUNIA", World Cup ch 3
+#EXTINF:-1 tvg-name="TSN1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun.png" group-title="PIALA DUNIA", World Cup ch 3 (HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
