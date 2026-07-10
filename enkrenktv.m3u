@@ -7,11 +7,11 @@
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="EVENT 08/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
-#https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#EXTINF:-1 group-title="EVENT 10/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
-#EXTINF:-1 group-title="EVENT 09/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
-#https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#EXTINF:-1 group-title="EVENT 11/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 <================>
 
@@ -26,6 +26,22 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 #https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+
+#EXTINF:-1 group-title="EVENT 010/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 11:00 WIB USA v Türkiye | Week 3 | Women's VNL 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel81.m3u8
+#EXTINF:-1 group-title="EVENT 010/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 16:00 WIB Ukraine v Dominican Republic | Week 3 | Women's VNL 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel80.m3u8
+#EXTINF:-1 group-title="EVENT 010/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 17:20 WIB Poland v Brazil | Week 3 | Women's VNL 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel81.m3u8
+#EXTINF:-1 group-title="EVENT 010/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 19:30 WIB Belgium v Italy | Week 3 | Women's VNL 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel82.m3u8
+#EXTINF:-1 group-title="EVENT 010/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 21:30 WIB Bulgaria v Czechia | Week 3 | Women's VNL 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel80.m3u8
+
+#EXTINF:-1 group-title="EVENT 011/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 01:00 WIB Germany v Netherlands | Week 3 | Women's VNL 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel81.m3u8
+
 
 <=================== PIALA DUNIA =============================>
 
