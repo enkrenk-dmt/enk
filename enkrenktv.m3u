@@ -847,11 +847,11 @@ https://stream-backup.banjarbarukota.go.id/s3_trikora_cempaka/index.m3u8?cookieC
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Trikora Arah Banjarbaru
-https://stream-backup.banjarbarukota.go.id/s3_trikora_arah_bjb/video1_stream.m3u8?session=d58f01c8-474e-480c-a5f5-1a4e399e3b10
+https://stream-backup.banjarbarukota.go.id/s3_trikora_arah_bjb/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Arah POM
-https://stream-backup.banjarbarukota.go.id/a1_simpang4_arah_pom/video1_stream.m3u8?session=2b3a5717-6814-4c8d-931a-bb871184a40c
+https://stream-backup.banjarbarukota.go.id/a1_simpang4_arah_pom/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Banjarbaru Arah Banjarmasin
@@ -864,7 +864,7 @@ https://stream-backup.banjarbarukota.go.id/qmall_arah_simpang_empat/index.m3u8?c
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Pos Arah Cempaka
-https://stream-backup.banjarbarukota.go.id/a3_ptz_simpang4/video1_stream.m3u8?session=39cb027c-3e91-4425-a4b4-895a658ef03d
+https://stream-backup.banjarbarukota.go.id/a3_ptz_simpang4/index.m3u8?cookieCheck=1
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -879,8 +879,8 @@ https://stream-backup.banjarbarukota.go.id/ptz_murjani/index.m3u8?cookieCheck=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", Simp 4 Arah Sei Ulin
 https://stream-backup.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/index.m3u8?cookieCheck=1
 
-
-
-
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", RO Ulin
+https://stream-backup.banjarbarukota.go.id/ptz_ro_ulin/index.m3u8?cookieCheck=1
 
 
