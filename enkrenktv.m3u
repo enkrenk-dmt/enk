@@ -1,4 +1,4 @@
-#EXTM3U
+3#EXTM3U
 <===========================================================>
 
 <================>
@@ -17,15 +17,13 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 028/JUNI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitemdOTex0OyqhWOecdWcfGzjOdMspFIHtH5VEGNyHEGktYAIwTiksufh2kwEIXqLuMbCT66qHfyT9Kd61DqxA8iopy2EHAVwEWSaWd_uJPo84vHS1W6ZVJDsPYv01NFqG-LbkKUgKrqi-mHH6S8GoFI1Y6s9GBvq8t29GNH_7kr6Mm5mqBef5lFBgtV8/s1600/volley.png", 17:00 WIB Bahrain vs India
-#https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel80.m3u8
 
-#EXTINF:-1 group-title="EVENT 029/JUNI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdcaqkiKwUGznGHI2gtk_eMurfAOQUajsDFw_QsxsySYphColiSdaudVRU1F_x-PLf9KzZRCrFyzfnrp7C1B_P08ft5uyXUsYaEqiKczgrpTAO5wsOhDCbcS5T22A5hGKfBHqXmPAOb2Rbm0ay-n_iuizGFcrBMHQuQoqUGTeFWwHqn_u5iBhr7mcXCGI/s1600/gp.png", 18:15 MotoGP Race: Tissot Grand Prix of The Netherlands - MotoGP 2026 Round 10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-#https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdcaqkiKwUGznGHI2gtk_eMurfAOQUajsDFw_QsxsySYphColiSdaudVRU1F_x-PLf9KzZRCrFyzfnrp7C1B_P08ft5uyXUsYaEqiKczgrpTAO5wsOhDCbcS5T22A5hGKfBHqXmPAOb2Rbm0ay-n_iuizGFcrBMHQuQoqUGTeFWwHqn_u5iBhr7mcXCGI/s1600/gp.png" group-title="EVENT 10/JULI/2026", Kualifikasi MotoGP
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
 #EXTINF:-1 group-title="EVENT 10/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNgYTHkhr58PTARhHJVgU91M7F0JqVektXpWZJ-czA2B1eMfGZl40vMepyLKRgwE6igALYJcksSbfV8JigvHuGPvcH0of48qARDyxS9_TjS569pCfmwl34UOj9kJxnvoNR7ZNmz7eKZgvJ2i50YIEWcsgMegl50Z7yeFQHuseHU2xJ67l1_UaPdqtWMA/s1600/nvl.png", 11:00 WIB USA v Türkiye | Week 3 | Women's VNL 2026
