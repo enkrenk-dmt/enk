@@ -520,42 +520,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="tsn5" tvg-logo="
-https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjocLei4nXI8XPMoXA1hQpBVFXb27srX35AWHUxUOAt1ZhHhASdAjvWGxLGV8ZQMHlWBc56Z28Tv_PbI2OmZN72uI2y4Eq3UGJaKgEAgEK3CRZFgsZppYUQmq3RPn31xNnIFKKWzi5TImjmAyPmBD50dKIyQkbgWgfhKovcX1m7EBDNEf_xh9D2Y7UrvXg/s1600/tsn5.png" group-title="Olahraga", TSN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
-
-#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjocLei4nXI8XPMoXA1hQpBVFXb27srX35AWHUxUOAt1ZhHhASdAjvWGxLGV8ZQMHlWBc56Z28Tv_PbI2OmZN72uI2y4Eq3UGJaKgEAgEK3CRZFgsZppYUQmq3RPn31xNnIFKKWzi5TImjmAyPmBD50dKIyQkbgWgfhKovcX1m7EBDNEf_xh9D2Y7UrvXg/s1600/tsn5.png" group-title="Olahraga", TSN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tsn5.m3u8
 
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_Ro40it5GeSX_RVV0A0eVCm_d4wYYqvcTZp8C1Z7TIjSkYTwMX92cr-YzRRREfuQjUzt-Dded7ti_r5xEwOFaG2OMuZa6GQAStjlm509kSxjLhkAa72ccWNGHguwxt0Nexsdoh4BOxSRzt-Ed1kzTX6ZRyuJwGrnaNAdFhovzNwRGsi3x8vutpFsrOw/s1600/tsn1.png" group-title="Olahraga", TSN 1
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBCqPGvHMD75KVEvdvGWr4U5BEETFhqo57IyAUyLboqHHq3ecANl4VgOS9lEbpdx2O3Hl8I5Id_twjdn93zYsIK-5dBBJkbM2LFlHSr-y7-T8Uk9rIF9oJwFMzjkOSglQJ-29v2NuW63RPPURklMUz_K4KVkN8LEcHzGD2ZrD3F3_YsbBnypI07Q19oS4/s1600/tsn2.png" group-title="Olahraga", TSN 2
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2k-7P5AEme1lxRSkOWGQ-gGxmN-EbDdrrlsSdZRNWr_VCovnTFhWCgxSETVtdDRS9Mjpx7wIEWxPwSmn3vfY4yWx7edffTF_3tsSFned8xSVNXxaXWyOjFTdnjjr5CF1SpLGJ8SvSfftGiELjZfa09INvHTFYlq9XSPwDJE1ktxh-JUQxfcQiQQY0Q2U/s1600/tsn3.png" group-title="Olahraga", TSN 3
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiwo80qumu9l0OjOkS9Q_EddanUMQLJtb4thjcmqQ4URak3QnWohpwCcmV9cTlROdtaUgXRWG89F8QPXKUYNj93x0lO1m571UxoEYu3UzUSEh-Ga1hkh1GC_5b_mFS7oGwQCYBtPdAtTsVOgNFuXUMzoHGB-Y8flHrNdDGRJ-pzyoqe8NaPTMvArAOwU/s1600/tsn4.png" group-title="Olahraga", TSN 4
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZnaKqlL96y397B8wTV61t2jxaj5UB5EEAPVFwwNcMhtU0urJ1T4ZmOW7ttY6_yvBZjTalvTV7Lh6TAGoWF3oqJpfN8rd1VzK7cuR0-X92GqkjtjigLNq8KAn2eAm5Ijz88CF6-6QU3npmttvOwmtng6ajTrqWxURsAbrnQ7EVfQnjmf8Bg99jK52yDHc/s1600/foxsport.png" group-title="Olahraga", FOX SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
