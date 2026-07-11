@@ -547,11 +547,14 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 
-#EXTINF:-1 group-title="Olahraga", TSN 5
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiwo80qumu9l0OjOkS9Q_EddanUMQLJtb4thjcmqQ4URak3QnWohpwCcmV9cTlROdtaUgXRWG89F8QPXKUYNj93x0lO1m571UxoEYu3UzUSEh-Ga1hkh1GC_5b_mFS7oGwQCYBtPdAtTsVOgNFuXUMzoHGB-Y8flHrNdDGRJ-pzyoqe8NaPTMvArAOwU/s1600/tsn4.png" group-title="Olahraga", TSN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
+
+
 
 
 #EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn5.png" group-title="SPORTS;PIALA DUNIA", TSN 5
