@@ -18,13 +18,19 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 <=================== EVENT 1 =============================>
 
+#EXTINF:-1 group-title="JAPAN OPEN 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXPfRkug3FTGSs8OWXHIAsJvRwFWI-7Jrgjnfe-N7C6JP484Sr2EqKDsJQJyRqXt4T7hKsfJ_x11R-X-A1rvOxrAxxg3EBfihCVGJOX7ND64g5rcqczECb26iIs2jWoLd-LDT2OLvLmxBEdl2XXrisuLuNDETI09Akt8dne5U56iNKhGX7pdAQS1zmseE/s1600/Japan_Open.png", 07:00 WIB Daihatsu Japan Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836024550061_AiSD.m3u8?txSecret=d4a1c24da5304ca2f2f70190627a2b57&txTime=6A5802E0
+#EXTINF:-1 group-title="JAPAN OPEN 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXPfRkug3FTGSs8OWXHIAsJvRwFWI-7Jrgjnfe-N7C6JP484Sr2EqKDsJQJyRqXt4T7hKsfJ_x11R-X-A1rvOxrAxxg3EBfihCVGJOX7ND64g5rcqczECb26iIs2jWoLd-LDT2OLvLmxBEdl2XXrisuLuNDETI09Akt8dne5U56iNKhGX7pdAQS1zmseE/s1600/Japan_Open.png", 07:00 WIB Daihatsu Japan Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836167426061_AiSD.m3u8?txSecret=388522019b44941358b97a7a68954c14&txTime=6A5802E0
+#EXTINF:-1 group-title="JAPAN OPEN 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXPfRkug3FTGSs8OWXHIAsJvRwFWI-7Jrgjnfe-N7C6JP484Sr2EqKDsJQJyRqXt4T7hKsfJ_x11R-X-A1rvOxrAxxg3EBfihCVGJOX7ND64g5rcqczECb26iIs2jWoLd-LDT2OLvLmxBEdl2XXrisuLuNDETI09Akt8dne5U56iNKhGX7pdAQS1zmseE/s1600/Japan_Open.png", 07:00 WIB Daihatsu Japan Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836298806061_AiSD.m3u8?txSecret=ef1a6e1a0ec569613b60e16197a030bf&txTime=6A5802E0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdcaqkiKwUGznGHI2gtk_eMurfAOQUajsDFw_QsxsySYphColiSdaudVRU1F_x-PLf9KzZRCrFyzfnrp7C1B_P08ft5uyXUsYaEqiKczgrpTAO5wsOhDCbcS5T22A5hGKfBHqXmPAOb2Rbm0ay-n_iuizGFcrBMHQuQoqUGTeFWwHqn_u5iBhr7mcXCGI/s1600/gp.png" group-title="EVENT 012/JULI/2026", MotoGP
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 <=================== PIALA DUNIA =============================>
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun", World Cup ch 1
