@@ -833,11 +833,15 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
-#EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii66fKSbVWetQM8ssH3IPObORJUh63hPjjpHTMdciViJ9kwVjepVaukZ-E8eeWHNvk-_A2qAJ8OcvFb_prRBGxeZ5fH9aGm77_1M6oQFON-6dTzFECy3H8DfokRoQ4GPQpoyBl8kCuLvdz1nJ_0td-LjZKU-410XWLZWgPJXz_GTMGmZILFXlYfzp29-Q/s1600/cbbiess.png" group-title="Channel Anak",Cbeebies
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="CBeebies.id" tvg-name="CBeebies HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii66fKSbVWetQM8ssH3IPObORJUh63hPjjpHTMdciViJ9kwVjepVaukZ-E8eeWHNvk-_A2qAJ8OcvFb_prRBGxeZ5fH9aGm77_1M6oQFON-6dTzFECy3H8DfokRoQ4GPQpoyBl8kCuLvdz1nJ_0td-LjZKU-410XWLZWgPJXz_GTMGmZILFXlYfzp29-Q/s1600/cbbiess.png" group-title="Channel Anak",CEEBIES
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+
+
 
 #EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHoYQfQ9Pv0dgkYmJalmIU2JYsV95w5nCiw7sj5YBviegy0u4FCSFJq0W3uCz89PukCDr00izk0LpHWoosTcIZ9C9mmTWX-Y14oA3pEzAj081TnQiDI4ySueI12tFk3F-ExwHzhKEc11FMUXOg74fv2Lb4rlP-WHRn54b6DYF3rLTMryXjl32EBOqkX0/s1600/zomoo.png" group-title="Channel Anak",ZooMoo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
