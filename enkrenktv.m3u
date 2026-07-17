@@ -824,6 +824,22 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3PwQiAODtyNl82wkkdaH0kPAsxa_paia4OsSdCei2mxpPORd_5NF5qA2x5He96R0fIux8CzWjQ2uFAStVC6AsjRxjVhlLA60ZBbWmvM_Ealo-W_6ehagI7LPrfgjtipca07OjP2HFbaTuAPguDyovfhcvPMweYrNAR6oMnc_uEK32upkHmON9Bbvj32s/s1600/nick.png" group-title="Channel Anak",NICKELODEON
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM-kWXGHdtJx68I0uZ7PAEOA9jOp4PRymv_gcFu6BdaIInrIk4n2rXgdYqRD_fFxo4JaGf9ww_PTl-l1wfeY2GVoQjHoS7XvxkFpxqhJRyy_gsNTZ1oaJetZKTSNwm4el1UhvECF3YX7qeS4GB6J9wk6fdfrcHrv5fvmzmbktNeqiIFTtZSh_kiKNRDy4/s1600/nickjr.png" group-title="Channel Anak",NICK JR
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
+
+
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5BldvF5EEnEDZZeDZjVArvq19-KPkr5SIqcf6y4hMCeVt-O1Vr_2RqBxLb_BKRFIYu2jkCzPToRrrg_yNwTmxrOzfh4NddsmzcARgAsr4F407mb_z-bbVqCceA3TMpzxrK3OupXE3p9NkC-0qKWbLzg-ziGl-kUlt27zxyt6aGV4UUnEhdZtYpNZ9Sho/s1600/cinemakids.png" group-title="Channel Anak",Cinemachi Kids
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
