@@ -10,7 +10,7 @@ https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 
 
 #EXTINF:-1 group-title="EVENT 018/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 #EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="JAPAN OPEN 2026",001 ENKRENK TV
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
@@ -26,15 +26,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266837211348061_AiSD.m3u8?txSecret=5357d7cf670347b3186094944ae761ea&txTime=6A5AA5E0
 
 
-#EXTINF:-1 group-title="JAPAN OPEN 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXPfRkug3FTGSs8OWXHIAsJvRwFWI-7Jrgjnfe-N7C6JP484Sr2EqKDsJQJyRqXt4T7hKsfJ_x11R-X-A1rvOxrAxxg3EBfihCVGJOX7ND64g5rcqczECb26iIs2jWoLd-LDT2OLvLmxBEdl2XXrisuLuNDETI09Akt8dne5U56iNKhGX7pdAQS1zmseE/s1600/Japan_Open.png", 07:00 WIB Daihatsu Japan Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266837532714061_AiSD.m3u8?txSecret=bd296f94225a1bf6eaeda7a706c05d5d&txTime=6A5AA5E0
-
-
-
-#EXTINF:-1 group-title="EVENT 018/JULI/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-bts5VoyR0AcjTXhqCPP1xr9SA8JSYdJRws1E1bEoQ&s", 12:00 WIB Indonesia vs Vietnam
+#EXTINF:-1 group-title="JAPAN OPEN 2026" tvg-logo=""https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXPfRkug3FTGSs8OWXHIAsJvRwFWI-7Jrgjnfe-N7C6JP484Sr2EqKDsJQJyRqXt4T7hKsfJ_x11R-X-A1rvOxrAxxg3EBfihCVGJOX7ND64g5rcqczECb26iIs2jWoLd-LDT2OLvLmxBEdl2XXrisuLuNDETI09Akt8dne5U56iNKhGX7pdAQS1zmseE/s1600/Japan_Open.png",Final Daihatsu Japan Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.streambylivepulse.com/live/channel33.m3u8
+https://live1.streambylivepulse.com/live/channel60.m3u8?wsSecret=b25444be06330e06484c2348fc34fbf0&wsABSTime=1784377474
 
 <=================== PIALA DUNIA =============================>
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hJaKk5aOE5qmcRItGOpenPuAL48xOwolMtWhG3J95tna9quIJbcn9KKZjpiy01qjSlF5UnMlhFQEFtE64G9iYFIFDqHr9qfZtRWAU9GhMN0wMf8meJTurSLNS420sof1R0La580iRTmA2KKa1qMO9XivzN_IIPk5O37U27voW28_jIk9aCiMCYnJ5g/s1600/pildun", World Cup ch 1
