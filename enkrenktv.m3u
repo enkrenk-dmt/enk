@@ -134,10 +134,16 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 
 
 <=================== BERITA =============================>
+
+#EXTINF:-1 group-title="Berita" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVDKywGw6jqTSF9vPWMqpwwqW1kRdRdm-WejB_clFPm_Vn3zGFSEtIcfj0qILR-OGdm2qoaD2X4QoL5xrJ0WLHllzlH9ggjD0sVqTK7PTnBKO-6UDgU9OU6kLxoFcv0WOQHz7Cu74JtkG-T8bMt_MO90KMdjJzUsCAaNMq-UH6XAtoF7BZI2TCzNYFt4/s1600/TVONE.png",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
-#EXTINF:-1 tvg-id="TVOne" group-title="Berita" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVDKywGw6jqTSF9vPWMqpwwqW1kRdRdm-WejB_clFPm_Vn3zGFSEtIcfj0qILR-OGdm2qoaD2X4QoL5xrJ0WLHllzlH9ggjD0sVqTK7PTnBKO-6UDgU9OU6kLxoFcv0WOQHz7Cu74JtkG-T8bMt_MO90KMdjJzUsCAaNMq-UH6XAtoF7BZI2TCzNYFt4/s1600/TVONE.png",TVOne
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+#https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+
 
 #EXTINF:-1 group-title="Berita" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2U_cjBk1NPB-xpmIQI3PXHZKB0u7iazi0-NdIzDQkhjoYESmfVsnC-UbcN4khrjXlISXqKnVMHJumsaCDdcV5BDSAeFsoncFimuqGxPUfiQk7kvdSkY91TuulvnZa3_22w7IvkCwlMfq9YDMN4g0bf88B7F-gyV5IHiJVYh6aNmKoOGM1EgV6wlEAoUg/s1600/INEWS.png",iNews
 #EXTVLCOPT:http-user-agent=android-R+
