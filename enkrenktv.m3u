@@ -343,17 +343,15 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSw4B-rO7E9gxU1my4wqNP3tqMIpELARu1PwbjrF7gJyGmnhAKeSjPsfRfgdk958Kc9hMSXkQVjaCE8QFCudI5OxWY4S-lZOvZu7vmz0Hp6CdBKNXBITakPoak2ewGkzOF85Wwvgvxqh2D8dP0XCwZBb4HNT1yj03Gq-rpfW5EMDDylxbOGUor-YJShL4/s1600/Jowo.png" group-title="Daerah",JJowo Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSw4B-rO7E9gxU1my4wqNP3tqMIpELARu1PwbjrF7gJyGmnhAKeSjPsfRfgdk958Kc9hMSXkQVjaCE8QFCudI5OxWY4S-lZOvZu7vmz0Hp6CdBKNXBITakPoak2ewGkzOF85Wwvgvxqh2D8dP0XCwZBb4HNT1yj03Gq-rpfW5EMDDylxbOGUor-YJShL4/s1600/Jowo.png" group-title="Daerah",Jowo Channel
 https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHM5CSxd5UU7bushxSYLsyJa_M9ZC3eprmGwF8p1EmcehE5EqOGunTDNygVONWSYPbyHYDJzkwFf0GY4AYMg1dQZLQ5HWSR9V7_kF876zqnozWapVlqRwaEUmxHpnSm_Djg_OocVxLNLBLyIe5BH0BPP3slCXQtQqcCrkEA5xOpXkc3pwk0D07viqR9iE/s1600/hanacaraka.png" group-title="Daerah",Hanacaraka TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Hanacaraka.TV.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHM5CSxd5UU7bushxSYLsyJa_M9ZC3eprmGwF8p1EmcehE5EqOGunTDNygVONWSYPbyHYDJzkwFf0GY4AYMg1dQZLQ5HWSR9V7_kF876zqnozWapVlqRwaEUmxHpnSm_Djg_OocVxLNLBLyIe5BH0BPP3slCXQtQqcCrkEA5xOpXkc3pwk0D07viqR9iE/s1600/hanacaraka.png" group-title="Daerah",HANACARAKA TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
-
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
