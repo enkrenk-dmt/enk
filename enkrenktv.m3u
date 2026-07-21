@@ -4,11 +4,6 @@
 
 <================>
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png", group-title="PIALA DUNIA", 001 ENKRENK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
-
-
 #EXTINF:-1 group-title="china open 2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png",001 ENKRENK TV
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
@@ -48,13 +43,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-_pOrXMEEFH1cFwYB9V_Wc2Gu74EOe3My59gnQ_a2OtcFDMQo5AScj4mZTLzwjLiT6YjYwGWJOENbzkbOwuSkGzdpNgT9oQmBkIQ6L0POlMNTJKWUfIKflxDtIdP93LV4SZc3qZCB04uo94BGOcokNd6S4FzTZymfz2CfaJJ673P0-pbgI6ICAqONMA/s1600/transtv_logo.png" group-title="Indonesia Lokal", Trans TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXvx5zcfqvlwWh02K6ugj0zp0oElunKj8KZKsWEcbjRvKolKh5ervVyKA6E_1WWmWLJfCD-qNKvBVM1mhlJajyOSdd3lSQy5XoC7NtRzkOKrJdaYLmNZKcnRAQjTW02QeUAYApb88D0hau1jpA7LyL-UMwV0nxDg9dtZ6xY3gaAaKPQwcKSv4Zs2Ho2w/s1600/antv.png" group-title="Indonesia Lokal",ANTV HD
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXvx5zcfqvlwWh02K6ugj0zp0oElunKj8KZKsWEcbjRvKolKh5ervVyKA6E_1WWmWLJfCD-qNKvBVM1mhlJajyOSdd3lSQy5XoC7NtRzkOKrJdaYLmNZKcnRAQjTW02QeUAYApb88D0hau1jpA7LyL-UMwV0nxDg9dtZ6xY3gaAaKPQwcKSv4Zs2Ho2w/s1600/antv.png" group-title="Indonesia Lokal",ANTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -364,6 +352,10 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w521170343_b1128000_s
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 <=================== OLAHRAGA =============================>
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png", group-title="Olahraga", 001 ENKRENK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyhPMq5RJ4m7UvDCgpjdkn_vqviYbVB-u5E12S9fjEiXn3xtWi8caoYSwHxdCN5sMJoDbBKNyyVpZ5Co_5op4PJvmLLfKp7qlvsWNo7r4dhxa9l7W-lJybanKOOv-KpHkBMuRoEu8Z1xtC-hqfCKCUck2jnUp5tnPGR3kbp8o7tekHQrixL52E580SZiA/s1600/motorvision.png" group-title="Olahraga",Mplus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
@@ -373,14 +365,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-id="SPOTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHjZiy7MVYxeCo5kISN7e8qHAj2EMFTSE21RkFXHMlkphslEHcJ0ZkCSmrTXj79V6mWT1lZLpIhovrZrR_JvT6gUCEeotFF6YiP3vwEbyZ0o00NkxE_8wNSstbvjKHnaKCs3-qSAyAccGiaB6EkRXQRXN_dMuw15vOxneYrVtiLrIjUa17dk_kl3Z-uLk/s1600/SPOTV.png" group-title="Olahraga",SpoTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0kY2P57DTm_ljYa8NZ46mAls3Be537gvTIFzceFcm_PiHdWn6lSSpWs7t32XvTMXhfq7ZFAdvpLJNgR8a4Nhl1bKnSv2jsOZWe4pSMXC8_J6vG5PrKQhAP6YAHefcte3RwIqjOJP9-V08nNKnn3O_MNWHStnxk2if7ERoYJTSCHW_qRytlooHX5XhyphenhyphenAg/s1600/SPOTV2.png" group-title="Olahraga",SpoTV 2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
@@ -416,8 +406,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwYEoa18T-ff-3mvOvYiX4mWlLLDpEMV5BUIXFiH0Q6Mov7s9Gha3XoVO6NOHsyMOPiVss0Ocu49X6OPL7fRddVHvytcWpDV-Velpn4HN9u6hTuKVLcEIVJR4L_eOOfGwiPaZ85DVwUsmmSnwwM5VEnC2j5VIdcghUk2Rhkwampus5X8W1eaWI5Qd9oaw/s1600/tvrisport.png" group-title="Olahraga",Tvri Sport
 https://paketmaxstream.ambontv.my.id?code=TVRI-F7V03Q
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -477,7 +465,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-
 EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_Ro40it5GeSX_RVV0A0eVCm_d4wYYqvcTZp8C1Z7TIjSkYTwMX92cr-YzRRREfuQjUzt-Dded7ti_r5xEwOFaG2OMuZa6GQAStjlm509kSxjLhkAa72ccWNGHguwxt0Nexsdoh4BOxSRzt-Ed1kzTX6ZRyuJwGrnaNAdFhovzNwRGsi3x8vutpFsrOw/s1600/tsn1.png" group-title="Olahraga", TSN 1
 #https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tsn1.m3u8
 
@@ -485,8 +472,6 @@ EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://blogger.googleusercontent.com/im
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
------
 
 #EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBCqPGvHMD75KVEvdvGWr4U5BEETFhqo57IyAUyLboqHHq3ecANl4VgOS9lEbpdx2O3Hl8I5Id_twjdn93zYsIK-5dBBJkbM2LFlHSr-y7-T8Uk9rIF9oJwFMzjkOSglQJ-29v2NuW63RPPURklMUz_K4KVkN8LEcHzGD2ZrD3F3_YsbBnypI07Q19oS4/s1600/tsn2.png" group-title="Olahraga", TSN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
@@ -499,7 +484,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1
 #KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiwo80qumu9l0OjOkS9Q_EddanUMQLJtb4thjcmqQ4URak3QnWohpwCcmV9cTlROdtaUgXRWG89F8QPXKUYNj93x0lO1m571UxoEYu3UzUSEh-Ga1hkh1GC_5b_mFS7oGwQCYBtPdAtTsVOgNFuXUMzoHGB-Y8flHrNdDGRJ-pzyoqe8NaPTMvArAOwU/s1600/tsn4.png" group-title="Olahraga", TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tsn4.m3u8
@@ -509,7 +493,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjocLei4nXI8XPMoXA1hQpBVFXb27srX35AWHUxUOAt1ZhHhASdAjvWGxLGV8ZQMHlWBc56Z28Tv_PbI2OmZN72uI2y4Eq3UGJaKgEAgEK3CRZFgsZppYUQmq3RPn31xNnIFKKWzi5TImjmAyPmBD50dKIyQkbgWgfhKovcX1m7EBDNEf_xh9D2Y7UrvXg/s1600/tsn5.png" group-title="Olahraga", TSN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
@@ -553,7 +536,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-
 
 #EXTINF:-1 group-title="Olahraga"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv7fyjRcJ2mUUlrm3cJHvsgyHWvWugIy6mo_QX0PaDN-YZ7k0WMNlxXUYLl1N0nABPKBO85ZqG4FNlR6vVU3O3O6BYrRxS86P9-Fah9mK1AtWUMIiWd6PFATmwhRM-jJF7-G-dpUEF6yGB8HbA6pAn046iB7I6_kkgIuXS29LqBFxsJvEXueRLrHuTz98/s1600/Ctv1.png", Champion TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
