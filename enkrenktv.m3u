@@ -14,12 +14,21 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="china open 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4271152884750061_AiHD.m3u8?txSecret=f00c1ec062e34e3f0b58c109239c37a1&txTime=6A5FEBE0
-#EXTINF:-1 group-title="china open 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4271152999993061_AiHD.m3u8?txSecret=328c0989e8bf8bf7a3d6eb92bc28a773&txTime=6A5FEBE0
-#EXTINF:-1 group-title="china open 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4271153103084061_AiHD.m3u8?txSecret=021b4032be1b3ea219382fc09a198efa&txTime=6A5FEBE0
+
+#EXTINF:-1 group-title="china open 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 01 Court 1
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4271153287374061_AiHD.m3u8?txSecret=157f8b26dd0f594b817166d24ed0d6ae&txTime=6A613D60
+#EXTINF:-1 group-title="china open 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 02 Court 2
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4271153417454061_AiHD.m3u8?txSecret=05f6acde1187b82eefd76eb0598bdc12&txTime=6A613D60
+#EXTINF:-1 group-title="china open 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 03 Court 3
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4271153525847061_AiHD.m3u8?txSecret=4322cda400b57348c9cc2825cf89a935&txTime=6A613D60
+
+#EXTINF:-1 group-title="china open 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", Court 1
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel37.m3u8
+#EXTINF:-1 group-title="china open 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", Court 2
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel38.m3u8
+#EXTINF:-1 group-title="china open 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", Court 3
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel39.m3u8
+
 
 <=================== INDONESIA LOKAL =============================>
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -680,11 +689,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
 
 <=================== CHANNEL ANAK =============================>
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRq6fiZXeGW2Yii93h4mIMe9WZblqQDfNGy2UajaFtPdTjVRX_uCMl904ThbcAUzrkrRK5rQGF0vW-mN2ICDKD-Z8QL8D77cE2vtVM8oRBDTtHmNB5q9finfbUjH_qGcNq-IHbKXMJLUsq7Tg9Wi2sBCyU2dv6C9v7rdwa9fHU6jfyGM_IQ2dwwp3ZwFk/s1600/mentari.png" group-title="Channel Anak",Mentari TV
+
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
+#EXTINF:-1 tvg-id="Mentari TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRq6fiZXeGW2Yii93h4mIMe9WZblqQDfNGy2UajaFtPdTjVRX_uCMl904ThbcAUzrkrRK5rQGF0vW-mN2ICDKD-Z8QL8D77cE2vtVM8oRBDTtHmNB5q9finfbUjH_qGcNq-IHbKXMJLUsq7Tg9Wi2sBCyU2dv6C9v7rdwa9fHU6jfyGM_IQ2dwwp3ZwFk/s1600/mentari.png" group-title="Channel Anak",Mentari TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0FzzWAbIsjBmOJi7uc9VxqL8Uo3JLNnbg1UXTT5amnPF5HpwIVHq_E7OzXVMOwEKfUZNjPZGw_dM88IPtWJn02692fBfoMnk4sMkz5mnLS6yRKiR0D9-TwNJYRig_3HC30pjp45Zy-Aplrg44_lPBJ1sVGjfUA8HgXQFBOmyY1oHAiM9bYcNE2QWqv8/s1600/vtv.png" group-title="Channel Anak",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -695,7 +706,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mykids/mykids-avc1_2500000=7-3277707030000000.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
