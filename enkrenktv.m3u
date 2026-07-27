@@ -130,7 +130,17 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRYQrNXYz0a7D-Z3VgwLAaRKYOgbkbta-7PS-VAsJLP0iU1y1QCNtnnQgK-HlqjdM0a1DJCGpOwJhMAQoI2MHP5EQu5MXjyZFhMj0lr6ixFq9z4anKT_xxzp3iDZIgKq2-k2OaaIJgYsL80iMRNrQQ7e4XDvL-QU3NrdxhDWW-WYyivcH1MyzgO7nfm-Q/s1600/RCTI.png" group-title="Indonesia Lokal",RCTI HD
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRYQrNXYz0a7D-Z3VgwLAaRKYOgbkbta-7PS-VAsJLP0iU1y1QCNtnnQgK-HlqjdM0a1DJCGpOwJhMAQoI2MHP5EQu5MXjyZFhMj0lr6ixFq9z4anKT_xxzp3iDZIgKq2-k2OaaIJgYsL80iMRNrQQ7e4XDvL-QU3NrdxhDWW-WYyivcH1MyzgO7nfm-Q/s1600/RCTI.png" group-title="Indonesia Lokal",RCTI HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFNtuC54kylYhl1g5uaMtvEcT7-1IrkTnfyTZCb9DZ8LzjvbWJ63x2Q2meM4P8KctpfvDNP3deqpCrYDxPYn0SD51RcXvZt75JcpK9zpITt4nXOKyJ8Wm5-I3b5SRu_Fpzw1DSvI-zduRSvyt5P_PTvz8hyCHpQF-2m2Rh-fPo7xC6M2Q_Bk0Cw9HCRdc/s1600/MDTV.png" group-title="Indonesia Lokal",MDTV
@@ -147,17 +157,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=100
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlosEqhhNFeKiVOz-UkOu9B0xDpkmMw4Ukv4zZVZlk2IX2RNjbuWF37JYN6_Vb166fvgM96tjEmUCf3lC2LkLZ3gu2ATZsRiFsMdJEmm2R-JnFS3qhnXTHsRS1dnfhoO5L7J8G4BE1UEUszpR-8W44gCSIIK_9PVPMSGWQXls7L3IVFa3PjU4GfggjsAc/s1600/moji.png" group-title="Indonesia Lokal",MOJI
-#EXTVLCOPT:http-referrer=https://m.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22bd0016090143f795a275629a6e7a0a:cae11accebe3ca7535141d35f4d41a1d
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
-
 
 
 <=================== BERITA =============================>
@@ -186,7 +185,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRTtr2hMlx0EOgei4Humk70VEpOvncC6RUKHkYn9n1ON2fNmPkLnUG8QcCSEwqcdaJpHy2tXaAeGaQU3K5YI-XGxe3Cf_-PQXhlUyOHaUcV2X03v53bkP3fFEoDmOn5yyajar-9hp9vauNDa0w1DKTYkOuT6mjfd3nwzP_PaZthJyXw7tG81lpBy0NuHE/s1600/BERITA1.png" group-title="Berita",Berita Satu
-https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/v1/stream.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h207/S2/mnf.m3u8
 
 #EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghdts3OvqEZ3dCp84pH8LiytTvGM7wIn6EEMxMtQg6WwrQFRR_PE_ea4vyC7tT0bR6NVUqL4vzA-InzmGhLWo52I2w8Q4T4H6S8xlpe53RYvvFyYekYQN3m0G-1LKzTeaG-_kQQk201ppkW4SQjeq3ShzcdtAZcPor1jPAMPMS-l9WlTWTKss31__e6GQ/s1600/CNN.png" group-title="Berita",CNN INDONESIA
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
