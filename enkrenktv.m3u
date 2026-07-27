@@ -140,9 +140,14 @@ http://202.150.161.212:5000/live/channel31/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOtw2LpWjIVkxuX0ePl5mRvlo0CDg7LQ2k3yXACKuX9wdwanHIKf34Pw51aCq7HxhBCIgJ8VCbJtvFCPubklZnIjTxspzud5NUYMGIaC6B4U8B7rXVeJoMk67kyVnW-9VG6xT05N7A_ZsMKOa_dNx6VJf5BecCU2hoEFngcw9rIXCl1H74cunV4xyTN1Q/s300/tvri_world.png" group-title="Indonesia Lokal",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=10002-mp4a_96000=20002.m3u8
 
-#EXTINF:-1 tvg-id="MOJI.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlosEqhhNFeKiVOz-UkOu9B0xDpkmMw4Ukv4zZVZlk2IX2RNjbuWF37JYN6_Vb166fvgM96tjEmUCf3lC2LkLZ3gu2ATZsRiFsMdJEmm2R-JnFS3qhnXTHsRS1dnfhoO5L7J8G4BE1UEUszpR-8W44gCSIIK_9PVPMSGWQXls7L3IVFa3PjU4GfggjsAc/s1600/moji.png" group-title="Indonesia Lokal",MOJI
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlosEqhhNFeKiVOz-UkOu9B0xDpkmMw4Ukv4zZVZlk2IX2RNjbuWF37JYN6_Vb166fvgM96tjEmUCf3lC2LkLZ3gu2ATZsRiFsMdJEmm2R-JnFS3qhnXTHsRS1dnfhoO5L7J8G4BE1UEUszpR-8W44gCSIIK_9PVPMSGWQXls7L3IVFa3PjU4GfggjsAc/s1600/moji.png" group-title="Indonesia Lokal", MOJI TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlosEqhhNFeKiVOz-UkOu9B0xDpkmMw4Ukv4zZVZlk2IX2RNjbuWF37JYN6_Vb166fvgM96tjEmUCf3lC2LkLZ3gu2ATZsRiFsMdJEmm2R-JnFS3qhnXTHsRS1dnfhoO5L7J8G4BE1UEUszpR-8W44gCSIIK_9PVPMSGWQXls7L3IVFa3PjU4GfggjsAc/s1600/moji.png" group-title="Indonesia Lokal",MOJI
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
