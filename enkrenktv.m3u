@@ -273,15 +273,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpOZyHqTGIp6XE7iRaIRe2IrUiuDPZyc4FdWG-UwDV6c_HHOUrVnzo23OptwMhYyuzlDRPaWEVQg2X7mTjcwUB_Ad3JwetsgNtnqxBPJv1Hw-0oWOwxqLoM7o7DQbN-FCuwWdhwypcdrz0yEEYH2aysWx761aCqRHvSUDDN2sk82Rpo3dznmu71FdlW4/s1600/imc.png" group-title="Sinema", IMC
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73869.ts
-
+#http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73869.ts
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpOZyHqTGIp6XE7iRaIRe2IrUiuDPZyc4FdWG-UwDV6c_HHOUrVnzo23OptwMhYyuzlDRPaWEVQg2X7mTjcwUB_Ad3JwetsgNtnqxBPJv1Hw-0oWOwxqLoM7o7DQbN-FCuwWdhwypcdrz0yEEYH2aysWx761aCqRHvSUDDN2sk82Rpo3dznmu71FdlW4/s1600/imc.png" group-title="Sinema",IMC
-#https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
@@ -745,6 +744,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+
+
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRq6fiZXeGW2Yii93h4mIMe9WZblqQDfNGy2UajaFtPdTjVRX_uCMl904ThbcAUzrkrRK5rQGF0vW-mN2ICDKD-Z8QL8D77cE2vtVM8oRBDTtHmNB5q9finfbUjH_qGcNq-IHbKXMJLUsq7Tg9Wi2sBCyU2dv6C9v7rdwa9fHU6jfyGM_IQ2dwwp3ZwFk/s1600/mentari.png" group-title="Channel Anak",Mentari TV
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C80nmAc3kfgfnlJ4q2odTO7M/ts
+
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0FzzWAbIsjBmOJi7uc9VxqL8Uo3JLNnbg1UXTT5amnPF5HpwIVHq_E7OzXVMOwEKfUZNjPZGw_dM88IPtWJn02692fBfoMnk4sMkz5mnLS6yRKiR0D9-TwNJYRig_3HC30pjp45Zy-Aplrg44_lPBJ1sVGjfUA8HgXQFBOmyY1oHAiM9bYcNE2QWqv8/s1600/vtv.png" group-title="Channel Anak",VTV
