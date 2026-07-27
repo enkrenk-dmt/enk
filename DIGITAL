@@ -1,4 +1,4 @@
-3
+
 #EXTM3U
 <===========================================================>
 
@@ -49,14 +49,17 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lit
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzUsJSV2X4g19YJr3IRigTx4Y4HExlGAAluGudQ63eSfkqZASM1EdM-q_xkhU6G5bfEtelpw0TbvLT4uRDxlJGagKh2cNlyfW9pLgK5SXAPhqzgmeKg_Jdo7-OSHez0dptuOno0X6udQtHxRNdzvfLInM3oM93FIW5zWbZiqrvaEfR-bnQmEB6rq_dNIo/s300/TRAN7.png" group-title="Indonesia Lokal", Trans 7
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-_pOrXMEEFH1cFwYB9V_Wc2Gu74EOe3My59gnQ_a2OtcFDMQo5AScj4mZTLzwjLiT6YjYwGWJOENbzkbOwuSkGzdpNgT9oQmBkIQ6L0POlMNTJKWUfIKflxDtIdP93LV4SZc3qZCB04uo94BGOcokNd6S4FzTZymfz2CfaJJ673P0-pbgI6ICAqONMA/s1600/transtv_logo.png" group-title="Indonesia Lokal", Trans TV
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo=""https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzUsJSV2X4g19YJr3IRigTx4Y4HExlGAAluGudQ63eSfkqZASM1EdM-q_xkhU6G5bfEtelpw0TbvLT4uRDxlJGagKh2cNlyfW9pLgK5SXAPhqzgmeKg_Jdo7-OSHez0dptuOno0X6udQtHxRNdzvfLInM3oM93FIW5zWbZiqrvaEfR-bnQmEB6rq_dNIo/s300/TRAN7.png" group-title="Indonesia Lokal", Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo=""https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-_pOrXMEEFH1cFwYB9V_Wc2Gu74EOe3My59gnQ_a2OtcFDMQo5AScj4mZTLzwjLiT6YjYwGWJOENbzkbOwuSkGzdpNgT9oQmBkIQ6L0POlMNTJKWUfIKflxDtIdP93LV4SZc3qZCB04uo94BGOcokNd6S4FzTZymfz2CfaJJ673P0-pbgI6ICAqONMA/s1600/transtv_logo.png" group-title="Indonesia Lokal",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXvx5zcfqvlwWh02K6ugj0zp0oElunKj8KZKsWEcbjRvKolKh5ervVyKA6E_1WWmWLJfCD-qNKvBVM1mhlJajyOSdd3lSQy5XoC7NtRzkOKrJdaYLmNZKcnRAQjTW02QeUAYApb88D0hau1jpA7LyL-UMwV0nxDg9dtZ6xY3gaAaKPQwcKSv4Zs2Ho2w/s1600/antv.png" group-title="Indonesia Lokal",ANTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -125,15 +128,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 
 <=================== BERITA =============================>
 
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 group-title="Berita" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVDKywGw6jqTSF9vPWMqpwwqW1kRdRdm-WejB_clFPm_Vn3zGFSEtIcfj0qILR-OGdm2qoaD2X4QoL5xrJ0WLHllzlH9ggjD0sVqTK7PTnBKO-6UDgU9OU6kLxoFcv0WOQHz7Cu74JtkG-T8bMt_MO90KMdjJzUsCAaNMq-UH6XAtoF7BZI2TCzNYFt4/s1600/TVONE.png",TV ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-#https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-
+http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
 #EXTINF:-1 group-title="Berita" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2U_cjBk1NPB-xpmIQI3PXHZKB0u7iazi0-NdIzDQkhjoYESmfVsnC-UbcN4khrjXlISXqKnVMHJumsaCDdcV5BDSAeFsoncFimuqGxPUfiQk7kvdSkY91TuulvnZa3_22w7IvkCwlMfq9YDMN4g0bf88B7F-gyV5IHiJVYh6aNmKoOGM1EgV6wlEAoUg/s1600/INEWS.png",iNews
 #EXTVLCOPT:http-user-agent=android-R+
@@ -769,8 +766,6 @@ https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_pfoWKuWAZgnHOD467UWkpDdm9jWXWkSoiDPqwpAG1YFeuy3jp_FU0oUJWtCmFB4cmIR-EUjjzDf3Eb-_KNbQCOYgn2QnBCgEFj5UdVNBqXN3enljdkXMZNoGm5NYDJOI1ByLNCBCkpCcZEXTeZxzCDsQxOT_Z64z1VMHm0ODdQ-o9Tkvyfpp81FTGKM/s1600/MQTV.png" group-title="Religi", MQTV
 https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDZLr9D3MKrdaab5flj4Zi5Kt9FTX2oeWwSf4SMQKiI_dr6DFFEdDJLiZUXHggI5SVSsEAjqSi-PuwWnM1eEd7Epx7e-s9jxv8C8VdiJcuz0LPM1K23rAmDgCVEFDve7KAJ0vu2q3nKaNUgQoBxjEL5KI0vLmKoPeqlxbRmtsFslAcXFMLSCep2d-Y5Zs/s1600/makkah.png" group-title="Religi", Live Mekah 🕋 ☪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
@@ -791,38 +786,6 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR54SV4Gv9POM-VCTKMHMyJrdKeaJ1fGLflAuvd1rgdp9CEHU4OWZG1YMvochwh0155QK5_CUbfxD_H7tR5zWz4iohgE0S8MQQmAZRPYL5ndSj-Ur7jUUwdQSVHbi2NZM0N42ofiszb6dp5h6SoqzV8969g7e7qniNvctfUi0Yc7S7CTHz44qYahPobP4/s1600/tvmu.png" group-title="Religi" ,TVMU HD
 https://e.siar.us/live/tvmu.m3u8
 
-<=================== Digital TV =============================>
-#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_FEh_3CYNqE0jM-ryo05C7SG71hyphenhyphenSNrNhl9b55Z9Pgd2-BuS1EC6UGbArbRHv72H7SsWzrkLTitf5tjIiOFRKnqdZSYhv_nJPrIVhFDwiFCcj8tmcVf2w9dTq40HqQpCVVRnHqjNO_eFOiK7E223zEpM9mEIK5mohRV1dCWpWklkapBW-1n-ijOME9Lo/s1600/GTV.png" group-title="TV Digital",GTV HD
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73619.ts
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXvx5zcfqvlwWh02K6ugj0zp0oElunKj8KZKsWEcbjRvKolKh5ervVyKA6E_1WWmWLJfCD-qNKvBVM1mhlJajyOSdd3lSQy5XoC7NtRzkOKrJdaYLmNZKcnRAQjTW02QeUAYApb88D0hau1jpA7LyL-UMwV0nxDg9dtZ6xY3gaAaKPQwcKSv4Zs2Ho2w/s1600/antv.png" group-title="TV Digital", ANTV
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73618.ts
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwDio-4EO0MWXJgXGo9QUuyfarB9dA6i5Gocmkt0j5R8W4DPDu1Gty_nWj4OfJ2oq4J9X0XTF_tXWp4KLOD_OhuNYgm_ZVRFg950I9UGccbBb_jD4bY1CxjM8qwLJZwwinFolU2A5ilE5MWoRrTHtZMaKyivgaIax03DfUlQ28ZQl0z82st3H2xqp-mXw/s1600/INEWS.png" group-title="TV Digital", inewtv
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73605.ts
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRYQrNXYz0a7D-Z3VgwLAaRKYOgbkbta-7PS-VAsJLP0iU1y1QCNtnnQgK-HlqjdM0a1DJCGpOwJhMAQoI2MHP5EQu5MXjyZFhMj0lr6ixFq9z4anKT_xxzp3iDZIgKq2-k2OaaIJgYsL80iMRNrQQ7e4XDvL-QU3NrdxhDWW-WYyivcH1MyzgO7nfm-Q/s1600/RCTI.png" group-title="TV Digital", RCTI
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73606.ts
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4DJSys6sAtggJhotDbH9AgUEeBN9GiWCrL72owVm3mjTM_aMjX3WH_ud5tg_N27igSZzuRKSOjbh6VnC2FCqZoQGkTyjVsIa9J-WmA59s3jU-MHDyawhGz5vsNlE1UYNYc7caTjQZqnHzKsbOUzrzkNsiKmtBodWh6SbtsEkwLOWCuMKDY9V-ahm_6vQ/s1600/SCTV.png" group-title="TV Digital", SCTV
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73607.ts
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3bhQFWbG3sWoeFX5QL3jRFa0nBoaQepoN7ckCleZz7XogoXJ8V8q8RraEgsxo3RNXm7M_iXpnJ8TzYb_VAx5u2kb6AcBObMmb4OQo4SwVUCYmmhvhS82rqZsycVeFye0mnjb73TvSZFt6Lz5w-KuKTM4R89rGMUoR5uzKabL7KYSL_1pYeuGJTrgm90s/s1600/MNC%20TV.png" group-title="TV Digital", MNC TV
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73616.ts
-
-
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOVhHYO36e1moRqJMwjxvi5d-8opXnzzMf-iP9HZlhcYSfuOPT7DpePe0Y2sbrdFv2gFC47Vj858g0Fk9qx_K9UfEOr-VgWUEKzj8XBblH8bNsqViqwJZ5fBFBG1u8DVUIefr8XpHYCbVWxIiBBeGyBo7jM9H012K9SpEkz4i1cD8Z7QW41e3uOMD8fW8/s300/indosiar.png" group-title="TV Digital", Indosiar
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73617.ts
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirZSCHRAFDk1qE7dWKddj_T9kRIgagfCAnxm5uuu0cxlPd5y8Tp1zAzbEOZ8CSB6MiGl1DVmqRrB5k15mIxh4N1momnDlpnAmoFC74hITZX0vsfNVb5iZel1ViJw4-FyVHOF-U3RjIrD_KN6GYPnuWGC8PbQ7nOtlcIku6Shua0dhen6R25YbBiRYhmTk/s1600/one.png" group-title="TV Digital", Sony One
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73987.ts
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fkwnkcXSGW9lc3MyB2Cm4-L90c5MMzmcbtErZqGhyphenhyphenixbtcTtCTQrKCG4FZ1eLmo_hmiYjsjTjKIBEPUPQsBxvo5DkxG9UMb2c0NJTHuOGQDjgI-xqKdNpKISKaz8L_JigtPayMt1UJHojpDsb_orjUxihR5PFN0IcoUGQaH5vQySTHnfb4KBRbKFggY/s1600/tvn.png" group-title="TV Digital", TvN
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73985.ts
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPApWqPp-9wE4NKjK9ZrA0-wYWC5oyMYtzYjVD6b2dniceTbyCllz6BEITZvKIhaUg0NyOLRXfD73-YmmLCek4AmbfahNTqQsb2Pr_AvPoR5loJsdJQdP_ECYYQaNmVT-gTRfi4mDDzXhQmv9D0U7_lI97uys12gJTxPTwkZlJMsTCsaZmcjqBj3HcwTs/s1600/tvn_movies.png" group-title="TV Digital", TvN Movies
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73986.ts
 <=================== CCTV =============================>
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simpang Trikora Banjarbaru
