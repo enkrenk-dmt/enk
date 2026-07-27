@@ -176,8 +176,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-IacHQmUwVtjKY36e7siqYlFQkABdf-OoEBJAsda3Y2J0kQCtRrw8Hdw36OsCzM-O1bPD3QQxXSyPyjew_YQtka-_5CnRcCaJOx7UDdopNLFJJ45BOJ6MFKQh7DEi6yqvJuPsXNLW-t0XPQH-23RXXh25P6o3ZGn1XwOoOu52T-6LVVwcMlrxy1eMm78/s1600/KOMPAS.png" group-title="Berita",KOMPAS TV
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
-#https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-IacHQmUwVtjKY36e7siqYlFQkABdf-OoEBJAsda3Y2J0kQCtRrw8Hdw36OsCzM-O1bPD3QQxXSyPyjew_YQtka-_5CnRcCaJOx7UDdopNLFJJ45BOJ6MFKQh7DEi6yqvJuPsXNLW-t0XPQH-23RXXh25P6o3ZGn1XwOoOu52T-6LVVwcMlrxy1eMm78/s1600/KOMPAS.png" group-title="Berita",KOMPAS TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFK-aPhAuapuR7HZncuxj0yF-KoqDspPJ364web_WzQMwGDNfo1tVyp72uamrAfYf8rQ0Q9WUD8NIKqOUGs5BLS3Kvxrj3iU54B4jASjiszUuvjcLZLj9FDYdZQ34TN1Rly6n0Lz9088m-wkTzRBfAUNw4lq-UprD9Rk2cKxDUbcUvxDe-4l7f682z37Q/s1600/METRO.png" group-title="Berita",Metro TV
