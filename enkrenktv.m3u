@@ -8,35 +8,15 @@
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="EVENT 025/JULI/2026",001 ENKRENK TV
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuE-vtsWShWwzMOZBxcvTioF98qvKrNyBN8cjRH47ga4tN47HsL-8pjm5ViynkiwipfjoUxrF17-nNtct4VkybfV-yWE7PqrPewVfOTmRCdNZi2WgymWr5LpjeUJS6bFpkwa5bZWNkzzwVYwRpfhhId_jWPVRX4QggO2dkPvoVx-4_oROBxwX1xSGFcEo/s1600/2026_ASEAN_Championship_Logo.svg.png", 18:00 WIB Myanmar vs Malaysia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-#EXTINF:-1 group-title="EVENT 025/JULI/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuE-vtsWShWwzMOZBxcvTioF98qvKrNyBN8cjRH47ga4tN47HsL-8pjm5ViynkiwipfjoUxrF17-nNtct4VkybfV-yWE7PqrPewVfOTmRCdNZi2WgymWr5LpjeUJS6bFpkwa5bZWNkzzwVYwRpfhhId_jWPVRX4QggO2dkPvoVx-4_oROBxwX1xSGFcEo/s1600/2026_ASEAN_Championship_Logo.svg.png", 21:00 WIB Laos vs Thailand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-<================>
+#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 <=================== EVENT 1 =============================>
-
-#EXTINF:-1 group-title="China Open 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel61.m3u8
-#EXTINF:-1 group-title="China Open 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_QNJcFDdPjSZSrBLZLkh_XHBuGX4DeK7_1f0oyCoDD3JKf7dutUfCCHg&s=10", 08:00 WIB Victor China Open 2026
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel62.m3u8
-
 
 <=================== INDONESIA LOKAL =============================>
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -44,14 +24,14 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 #EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJX5DVYj923FOCPi_FRatyfzaGC9EPmZbuAG_Kk9lacxY09ZkLewgW7SALj95Um_BFQJge1VuCLE9wXsyFPaX0-kyQnfuwjxxI8AGhg034s2C8LOlO97c-7sxvmBBoUbGsrTXVinIVfzyRUDbtjG5U00kKdMi1Q-CO7IvUcHDbhV9qD19hYjMMpr8FOz8/s300/RTV.png" group-title="Indonesia Lokal",RTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
-#EXTINF:-1 tvg-logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-_pOrXMEEFH1cFwYB9V_Wc2Gu74EOe3My59gnQ_a2OtcFDMQo5AScj4mZTLzwjLiT6YjYwGWJOENbzkbOwuSkGzdpNgT9oQmBkIQ6L0POlMNTJKWUfIKflxDtIdP93LV4SZc3qZCB04uo94BGOcokNd6S4FzTZymfz2CfaJJ673P0-pbgI6ICAqONMA/s1600/transtv_logo.png" group-title="INDONESIA", Trans TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-_pOrXMEEFH1cFwYB9V_Wc2Gu74EOe3My59gnQ_a2OtcFDMQo5AScj4mZTLzwjLiT6YjYwGWJOENbzkbOwuSkGzdpNgT9oQmBkIQ6L0POlMNTJKWUfIKflxDtIdP93LV4SZc3qZCB04uo94BGOcokNd6S4FzTZymfz2CfaJJ673P0-pbgI6ICAqONMA/s1600/transtv_logo.png" group-title="Indonesia Lokal", Trans TV
 #EXTVLCOPT:http-origin=https://20.detik.com/
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzUsJSV2X4g19YJr3IRigTx4Y4HExlGAAluGudQ63eSfkqZASM1EdM-q_xkhU6G5bfEtelpw0TbvLT4uRDxlJGagKh2cNlyfW9pLgK5SXAPhqzgmeKg_Jdo7-OSHez0dptuOno0X6udQtHxRNdzvfLInM3oM93FIW5zWbZiqrvaEfR-bnQmEB6rq_dNIo/s300/TRAN7.png" group-title="INDONESIA", Trans 7
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzUsJSV2X4g19YJr3IRigTx4Y4HExlGAAluGudQ63eSfkqZASM1EdM-q_xkhU6G5bfEtelpw0TbvLT4uRDxlJGagKh2cNlyfW9pLgK5SXAPhqzgmeKg_Jdo7-OSHez0dptuOno0X6udQtHxRNdzvfLInM3oM93FIW5zWbZiqrvaEfR-bnQmEB6rq_dNIo/s300/TRAN7.png" group-title="Indonesia Lokal", Trans 7
 #EXTVLCOPT:http-origin=https://20.detik.com/
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -412,31 +392,37 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 https://paketmaxstream.ambontv.my.id?code=TVRI-F7V03Q
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwHCkfW2dggBH9xU93M5_1elZ8ApN6P1youddJAZpvPaFHT98iBd8gJOSlFOlL1HkxnsUzRuNCpFsl-qv_BfF7D1IeUlQWBvFVbh9zz2fu89JIUzaVaCWY2abtcKUqC0L8hyphenhyphenTTRD0adGvNMI_Ow9TW90ILTUIDKjI3qjrM416YZABIwPci2OeL6ez86I/s1600/BEIN1.png" group-title="Olahraga", beIN Sports ID 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwHCkfW2dggBH9xU93M5_1elZ8ApN6P1youddJAZpvPaFHT98iBd8gJOSlFOlL1HkxnsUzRuNCpFsl-qv_BfF7D1IeUlQWBvFVbh9zz2fu89JIUzaVaCWY2abtcKUqC0L8hyphenhyphenTTRD0adGvNMI_Ow9TW90ILTUIDKjI3qjrM416YZABIwPci2OeL6ez86I/s1600/BEIN1.png" group-title="Olahraga",Bein Sport 1 ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUw4C5n4G7VDJl-qmwCEJRxv_rM3TqHZ202mA3hKw74tFTDw8Hn2Uj_3ADPlZ7bI0Iuf9rKy7lkKdUHB53VyJDPUBYKmKb-Bz9waMh5zqckLR6dJL0oXtYlv3oZ19oMKrcXh2A78lwLkwpItziGsSfz77OFLCRgsKaaw8gdIMTBaNzUatVYKBKodp5vug/s1600/BEIN2.png" group-title="Olahraga", beIN Sports ID 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUw4C5n4G7VDJl-qmwCEJRxv_rM3TqHZ202mA3hKw74tFTDw8Hn2Uj_3ADPlZ7bI0Iuf9rKy7lkKdUHB53VyJDPUBYKmKb-Bz9waMh5zqckLR6dJL0oXtYlv3oZ19oMKrcXh2A78lwLkwpItziGsSfz77OFLCRgsKaaw8gdIMTBaNzUatVYKBKodp5vug/s1600/BEIN2.png" group-title="Olahraga",Bein Sport 2 ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr7PySawpeYyeFrGcNdm1cjOWZTRUdOModqjARha9r5TJ0AQVaqzjBHV_YiILRsLyqBQYUhgs5zpJBGw6Ep_jJE9gQKv3sTChvOrXHG5YlwscGnSROsP86POSXJ2fIF20eRyBFRBKXpf8LLbXHAQ8pThDUNh0_WRdtOjAp8SpIpeq0DV0Oa5kdfxavaJM/s1600/BEIN3.png" group-title="Olahraga", beIN Sports ID 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr7PySawpeYyeFrGcNdm1cjOWZTRUdOModqjARha9r5TJ0AQVaqzjBHV_YiILRsLyqBQYUhgs5zpJBGw6Ep_jJE9gQKv3sTChvOrXHG5YlwscGnSROsP86POSXJ2fIF20eRyBFRBKXpf8LLbXHAQ8pThDUNh0_WRdtOjAp8SpIpeq0DV0Oa5kdfxavaJM/s1600/BEIN3.png" group-title="Olahraga",Bein Sport 3 ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdgtmAJnufKCHz5PlfEE8eynplhwu2e44JcOKxIjhpncmpKeJuG2PMx7hglzlFKT5LQsYrtHSfLlqlxDPjemA2jSuHISjnVi7pGIrCr3708G6TQ7_67di3cuHjxKi2qUk9PGTQoZRbkf9OFinAjTFnj3VqImVRD1vdShefG4XkJRiscUu-UIkmWh7UtB0/s1600/prima1.png" group-title="Olahraga" ,Prima Sport 1 
-#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
+#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 
 #EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJEAWi3PRULWtL7p6fEoFwK3gutZ9Vw_tZ51IXxJ0JWWh3qcQCjmj0bPmdvccl9prCGKob-eOQ1hKTDd80Vf71R7sPOQZ6tJHUc8r6RNGmG4NZWYFIjJIjG7RWsQImU1cuk4E-Wg8mK2QqI15SRz4Oeoil7OwXR9XmxDZAW5vn3MRE5jrIerHm8QPuzKM/s1600/prima2.png" group-title="Olahraga" ,Prima Sport 2 
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
