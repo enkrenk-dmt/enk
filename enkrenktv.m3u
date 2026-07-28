@@ -518,7 +518,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_Ro40it5GeSX_RVV0A0eVCm_d4wYYqvcTZp8C1Z7TIjSkYTwMX92cr-YzRRREfuQjUzt-Dded7ti_r5xEwOFaG2OMuZa6GQAStjlm509kSxjLhkAa72ccWNGHguwxt0Nexsdoh4BOxSRzt-Ed1kzTX6ZRyuJwGrnaNAdFhovzNwRGsi3x8vutpFsrOw/s1600/tsn1.png" group-title="Olahraga", TSN 1
 #https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tsn1.m3u8
@@ -592,87 +592,12 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 group-title="Olahraga"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv7fyjRcJ2mUUlrm3cJHvsgyHWvWugIy6mo_QX0PaDN-YZ7k0WMNlxXUYLl1N0nABPKBO85ZqG4FNlR6vVU3O3O6BYrRxS86P9-Fah9mK1AtWUMIiWd6PFATmwhRM-jJF7-G-dpUEF6yGB8HbA6pAn046iB7I6_kkgIuXS29LqBFxsJvEXueRLrHuTz98/s1600/Ctv1.png", Champion TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=dash
-#https://pidio.becek.workers.dev/17938.mpd
-#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17938&type=dash
-#https://aspaltvpasti.top/11111/17938.mpd
-
-#EXTINF:-1 group-title="Olahraga"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg003Iffswy2mawv2ZEzzI4IU58WeZ3RxyptOQOE6jr3yQyJ6U-WEYuXbp_bf3b6tVzJ_Q6Cjwdyo-9JT-pGsjnMk2RmXGIWS5Rz1nNNx09bmdEfZtZs2qy32rdWNNf5UBDU8aOeVX6-dpBfD5hhKVkfLp9s8Iv7Cv-Qo39WLba_B1KsMM_g8oZi3OcZvg/s1600/Ctv2.png", Champion TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=dash
-#https://pidio.becek.workers.dev/6686.mpd
-#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=6686&type=dash
-#https://aspaltvpasti.top/11111/6686.mpd
-
-#EXTINF:-1 group-title="Olahraga"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNlGlv71L8HD2fbksgvuKTNynzzsukkv2s3V-BdPncQhF5Yt-K5pmo2cB9GHzW2MfP38QUG9eitKxz6vMQhMGdtIM6ypHQ-VxtPobKK66cE5QVnir_mx8b2odpX5jJgBkmKaDEP5bPil_6yV0uBpP7htNRTj2ZF35eVglKQY-tZQkpn6c8xFJAR7ms7uI/s1600/Ctv3.png", Champion TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=drm
-#https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
-#https://pidio.becek.workers.dev/19404.mpd
-#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=19404&type=dash
-https://aspaltvpasti.top/11111/19404.mpd
-
-#EXTINF:-1 group-title="Olahraga"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSembFZNgzxHKGBEMdgV9oDRL-BybW6h6rKHULQKOdOEViwXYzUJiYugDnUJCrU2b3jYzwbemgdf0Jt_t86vv7X6-CwLEsrnlQE50uhnqp6Jaoou1jriVEJdtToKgf-rOZW2Ucv3rnN-Sppnhe9v1myLpZG8iOPJzNPBcvck4h5M4rsbZW_RARjcO5abY/s1600/Ctv5.png", Champion TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
-#https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
-#https://pidio.becek.workers.dev/9182.mpd
-https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9182&type=dash
-#https://aspaltvpasti.top/11111/9182.mpd
-
-#EXTINF:-1 group-title="Olahraga"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKxlHBMwGjZ2NkC5PFELNktghpoVJOtjn6KG_E2paKKrupcVm5X1qiq9GaSy3PrRIktwPXhps4nfZXOVFIkf1lTLU1sjvwH7lg5adge-_ZGxs4AMjHUCE5T7kbGnmWIwkCKpGSZexWleSb3YaLlS8KzSXXVlN7tJk7kekji8jEnLOQxftpPDQ6xGuPtIs/s1600/Ctv6.png", Champion TV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
-#https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
-https://pidio.becek.workers.dev/9183.mpd
-#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9183&type=dash
-#https://aspaltvpasti.top/11111/9183.mpd
 
 #EXTINF:-1 group-title="Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieSA8aF_hO9K5WIC4HRstwx0fYpQLCpf3CiNpEBqCI7AETQJVdPrhe9yhZFyl5ZjMbefHjLTJEDVpJXE5pUN5WfGoZNWDskYFodHiDvWleXm-fi_0FtpQpJpUljKyqrcJ7NEXsDQuajJpJPnBBPRBF6oDFLX6emNDP2fRH3E3MwyAynU2o_0_Msep8-oo/s1600/TIPIK.png",Tipik 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-
-#EXTINF:-1 group-title="Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieSA8aF_hO9K5WIC4HRstwx0fYpQLCpf3CiNpEBqCI7AETQJVdPrhe9yhZFyl5ZjMbefHjLTJEDVpJXE5pUN5WfGoZNWDskYFodHiDvWleXm-fi_0FtpQpJpUljKyqrcJ7NEXsDQuajJpJPnBBPRBF6oDFLX6emNDP2fRH3E3MwyAynU2o_0_Msep8-oo/s1600/TIPIK.png",Tipik 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c736e5c8f5a4d1a8eb8af1e63aa2005:d1729111efdfb7727ee3e6fcbc7586e1
-#https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
 
 <=================== PENGETAHUAN =============================>
 
