@@ -434,10 +434,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTINF:-1 tvg-id="Sportstars" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgANtmCh-j7MB-s6wfrn6B3LrcnLI85MvEeMCPtLloHdVJDlAbFpaGD-BpNkzTL7sXYNolkJMB5Nfrtc04URj-HHVT0DXYo8ksVzskLLv8VCZUXRjQfYFu9Q1nS5cARrbKZOCaHMaC2sIRHY7mvc0XgfAxcLPaNB1arH2KrZGjGnQ09n1I0nhRnsSSruHU/s1600/sportstar.png" group-title="Olahraga",Sportstarsᴴᴰ
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTINF:-1 tvg-id="Sportstars 2" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidZsVgp01qfOEJWIvle8MyZpGAzj7XbVu39RXxNDI_G0N1bu9z1qg-puqNhG2-MZ3cqoCqDTv6V23nx4r374mMyQ59PS-mzg4HJ3yUz4mq7PSMjlBKq4dIzn0aBuJ-EcLPoZRPdiaqSQwjNFKfoYmnszpsV9g3Br7LcoCPQ_NfuD2jQtplx598VkI8yyY/s1600/sportstar2.png" group-title="Olahraga",Sportstars 2ᴴᴰ
-https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-id="Sportstars 2" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidZsVgp01qfOEJWIvle8MyZpGAzj7XbVu39RXxNDI_G0N1bu9z1qg-puqNhG2-MZ3cqoCqDTv6V23nx4r374mMyQ59PS-mzg4HJ3yUz4mq7PSMjlBKq4dIzn0aBuJ-EcLPoZRPdiaqSQwjNFKfoYmnszpsV9g3Br7LcoCPQ_NfuD2jQtplx598VkI8yyY/s1600/sportstar2.png" group-title="Olahraga",Sportstars 2ᴴᴰ
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
