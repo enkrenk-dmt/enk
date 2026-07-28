@@ -5,17 +5,17 @@
 #EXTINF:-1 tvg-logo=”LINK LOGO IPTV” group-title=”enkrenktv”, donasi
 https://drive.google.com/file/d/1xeq5r0M_OO0kv-4oaPM-01yU0XvlXrs4/view?alt=median&key=AIzaSyAEA2weSiuOquFe9b5fp679cpt3PKY8iAI
 
-#EXTINF:0, - 🔘 Adult 1 (USA) (+18) (🇺🇸)
+#EXTINF:-1, tvg-logo=”LINK LOGO IPTV” group-title=”enkrenktv”, 1
 http://143.244.63.87/adult1/index.m3u8
-#EXTINF:0, - 🔘 Adult 2 (USA) (+18) (🇺🇸)
+#EXTINF:-1, tvg-logo=”LINK LOGO IPTV” group-title=”enkrenktv”, 2
 http://143.244.63.87/adult2/index.m3u8
-#EXTINF:0, - 🔘 Adult Swim (España) (🇪🇸🇲🇽🇨🇴🇦🇷🇵🇪🇨🇱)
+#EXTINF:-1, tvg-logo=”LINK LOGO IPTV” group-title=”enkrenktv”, 3
 http://200.115.120.1:8000/play/ca081/index.m3u8
-#EXTINF:0, - 🔘 Gangbang (USA) (+18) (🇺🇸)
+#EXTINF:-1, tvg-logo=”LINK LOGO IPTV” group-title=”enkrenktv”, 4
 https://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:0, - 🔘 Russian (USA) (+18) (🇺🇸)
+#EXTINF:-1, tvg-logo=”LINK LOGO IPTV” group-title=”enkrenktv”, 5
 https://cdn.adultiptv.net/russian.m3u8
-#EXTINF:0, - 🔘 Russkaya Noch (Rusia) (+18) (🇷🇺)
+#EXTINF:-1, tvg-logo=”LINK LOGO IPTV” group-title=”enkrenktv”, 6
 http://88b9da48.kazmazpaz.ru:80/iptv/CRKBTYRXLLNSEF/147/manifest.m3u8
-#EXTINF:0, - 🔘 Teen (USA) (+18) (🇺🇸)
+#EXTINF:-1, tvg-logo=”LINK LOGO IPTV” group-title=”enkrenktv”, 7
 https://cdn.adultiptv.net/teen.m3u8
