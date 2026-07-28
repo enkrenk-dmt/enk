@@ -630,10 +630,10 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
+#https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
 #https://pidio.becek.workers.dev/19404.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=19404&type=dash
-#https://aspaltvpasti.top/11111/19404.mpd
+https://aspaltvpasti.top/11111/19404.mpd
 
 #EXTINF:-1 group-title="Olahraga"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSembFZNgzxHKGBEMdgV9oDRL-BybW6h6rKHULQKOdOEViwXYzUJiYugDnUJCrU2b3jYzwbemgdf0Jt_t86vv7X6-CwLEsrnlQE50uhnqp6Jaoou1jriVEJdtToKgf-rOZW2Ucv3rnN-Sppnhe9v1myLpZG8iOPJzNPBcvck4h5M4rsbZW_RARjcO5abY/s1600/Ctv5.png", Champion TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -644,9 +644,9 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
+#https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
 #https://pidio.becek.workers.dev/9182.mpd
-#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9182&type=dash
+https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9182&type=dash
 #https://aspaltvpasti.top/11111/9182.mpd
 
 #EXTINF:-1 group-title="Olahraga"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKxlHBMwGjZ2NkC5PFELNktghpoVJOtjn6KG_E2paKKrupcVm5X1qiq9GaSy3PrRIktwPXhps4nfZXOVFIkf1lTLU1sjvwH7lg5adge-_ZGxs4AMjHUCE5T7kbGnmWIwkCKpGSZexWleSb3YaLlS8KzSXXVlN7tJk7kekji8jEnLOQxftpPDQ6xGuPtIs/s1600/Ctv6.png", Champion TV 6
@@ -658,8 +658,8 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
-#https://pidio.becek.workers.dev/9183.mpd
+#https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
+https://pidio.becek.workers.dev/9183.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9183&type=dash
 #https://aspaltvpasti.top/11111/9183.mpd
 
@@ -748,11 +748,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
 #EXTINF:-1 tvg-id="Mentari TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRq6fiZXeGW2Yii93h4mIMe9WZblqQDfNGy2UajaFtPdTjVRX_uCMl904ThbcAUzrkrRK5rQGF0vW-mN2ICDKD-Z8QL8D77cE2vtVM8oRBDTtHmNB5q9finfbUjH_qGcNq-IHbKXMJLUsq7Tg9Wi2sBCyU2dv6C9v7rdwa9fHU6jfyGM_IQ2dwwp3ZwFk/s1600/mentari.png" group-title="Channel Anak",Mentari TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRq6fiZXeGW2Yii93h4mIMe9WZblqQDfNGy2UajaFtPdTjVRX_uCMl904ThbcAUzrkrRK5rQGF0vW-mN2ICDKD-Z8QL8D77cE2vtVM8oRBDTtHmNB5q9finfbUjH_qGcNq-IHbKXMJLUsq7Tg9Wi2sBCyU2dv6C9v7rdwa9fHU6jfyGM_IQ2dwwp3ZwFk/s1600/mentari.png" group-title="Channel Anak",Mentari TV
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C80nmAc3kfgfnlJ4q2odTO7M/ts
-
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0FzzWAbIsjBmOJi7uc9VxqL8Uo3JLNnbg1UXTT5amnPF5HpwIVHq_E7OzXVMOwEKfUZNjPZGw_dM88IPtWJn02692fBfoMnk4sMkz5mnLS6yRKiR0D9-TwNJYRig_3HC30pjp45Zy-Aplrg44_lPBJ1sVGjfUA8HgXQFBOmyY1oHAiM9bYcNE2QWqv8/s1600/vtv.png" group-title="Channel Anak",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
@@ -787,15 +782,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="CBeebies.id" tvg-name="CBeebies HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii66fKSbVWetQM8ssH3IPObORJUh63hPjjpHTMdciViJ9kwVjepVaukZ-E8eeWHNvk-_A2qAJ8OcvFb_prRBGxeZ5fH9aGm77_1M6oQFON-6dTzFECy3H8DfokRoQ4GPQpoyBl8kCuLvdz1nJ_0td-LjZKU-410XWLZWgPJXz_GTMGmZILFXlYfzp29-Q/s1600/cbbiess.png" group-title="Channel Anak",CEEBIES
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
-
-
 
 #EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHoYQfQ9Pv0dgkYmJalmIU2JYsV95w5nCiw7sj5YBviegy0u4FCSFJq0W3uCz89PukCDr00izk0LpHWoosTcIZ9C9mmTWX-Y14oA3pEzAj081TnQiDI4ySueI12tFk3F-ExwHzhKEc11FMUXOg74fv2Lb4rlP-WHRn54b6DYF3rLTMryXjl32EBOqkX0/s1600/zomoo.png" group-title="Channel Anak",ZooMoo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -804,7 +796,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
-
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1vEXD5SXlrUEiVBKs88kKWw992uSS3RnwZDgLPsiRYXdGQFC50alRHSgaD0GRpn5qy8_Eo3IoJZ9-qp1JWi86Y7nXpT5im7yqBRqi_K-Q2zHJ0PzzQFlKQwiMYT7MWtKRW-ozS8JnxaQy3v5ELLbT6BLk3SLyaPV1IO4D-CLlKnVVCwF3tV0I3pjBQMY/s1600/moonbug.png" group-title="Channel Anak",MOONBUG
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
