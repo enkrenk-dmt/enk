@@ -259,8 +259,8 @@ https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN Asia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWv9Gj9dAwX_yiGJtC7UrCKK9xS6dqJnbZkWTDuPXdyNRiCHnOT07r4UTAdBLk12U0IJNI19obLG5RKP8Se2hNZJSu1gju0ccUdF3dOgbQg9vuee7D2h1God3nr1wJI9NXzprP62Vnh1UhAlCyKPN-aFk21IRBcDaJ3xBc37ChN6pg7doNN5XCWOdbdlc/s1600/axn.png" group-title="Sinema", AXN
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
-#https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
@@ -271,25 +271,23 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSY03z9ezoY0gUeVpsW0qecDhnGOJtzDulEIG43NheatZ9aX-Sx0E9hhtge8gEGKnjFOA1D_dLeRfm-Qx_T4Ffchc-KiE9HAAzyIrpdW4c9bBNyCoVzFdpXSjz1IpQ2SkLTXKeuJQrJUD9mS1qusrAmrHKrgKoFlGtRyeKDfwK6ghx3j4X3g88Xt5GxCU/s1600/mce.png" group-title="Sinema",MCE
-https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpOZyHqTGIp6XE7iRaIRe2IrUiuDPZyc4FdWG-UwDV6c_HHOUrVnzo23OptwMhYyuzlDRPaWEVQg2X7mTjcwUB_Ad3JwetsgNtnqxBPJv1Hw-0oWOwxqLoM7o7DQbN-FCuwWdhwypcdrz0yEEYH2aysWx761aCqRHvSUDDN2sk82Rpo3dznmu71FdlW4/s1600/imc.png" group-title="Sinema", IMC
-#http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73869.ts
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpOZyHqTGIp6XE7iRaIRe2IrUiuDPZyc4FdWG-UwDV6c_HHOUrVnzo23OptwMhYyuzlDRPaWEVQg2X7mTjcwUB_Ad3JwetsgNtnqxBPJv1Hw-0oWOwxqLoM7o7DQbN-FCuwWdhwypcdrz0yEEYH2aysWx761aCqRHvSUDDN2sk82Rpo3dznmu71FdlW4/s1600/imc.png" group-title="Sinema", IMC
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/21013.ts
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpOZyHqTGIp6XE7iRaIRe2IrUiuDPZyc4FdWG-UwDV6c_HHOUrVnzo23OptwMhYyuzlDRPaWEVQg2X7mTjcwUB_Ad3JwetsgNtnqxBPJv1Hw-0oWOwxqLoM7o7DQbN-FCuwWdhwypcdrz0yEEYH2aysWx761aCqRHvSUDDN2sk82Rpo3dznmu71FdlW4/s1600/imc.png" group-title="Sinema",IMC
-https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+#https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuUY-9LVgc1jExAoWxP6Zddu3kuyY8d-skd9vTI7fQMYVBtrTpMkf-671R5N7HBkxgIc6UADRtCcOMcRlxUhT6iJaYJnj8JQ3wgZO1XJqcsVX8FvjjVhTpA5nS707T3CZf9jjgzyskEpDt2gbGBNk_pS_U005PJRfSMm6O56WBgDy3No85Y35XB8a-UXA/s1600/Kix.png" group-title="Sinema",KIX
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+
+#EXTINF:-1 group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuUY-9LVgc1jExAoWxP6Zddu3kuyY8d-skd9vTI7fQMYVBtrTpMkf-671R5N7HBkxgIc6UADRtCcOMcRlxUhT6iJaYJnj8JQ3wgZO1XJqcsVX8FvjjVhTpA5nS707T3CZf9jjgzyskEpDt2gbGBNk_pS_U005PJRfSMm6O56WBgDy3No85Y35XB8a-UXA/s1600/Kix.png" ,MyTime Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -310,26 +308,19 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
 https://live-channel4-cdn.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRWtrOv1P_R-nmruiUf7N9QHt00E3-Bc_X4g7sP-ziYvkIBUR0MwyxGNZNif_Y-eX93BP6t5k_68bvVniL59SckUMpHzKBPTe3SN2FHlTZMtcFU6FkLvRyxoXFEfrgBgKgQT4x5zr4zESEaE1huWoa1ayjzUeeIJKRp8JKpqBzsGZB-ER_7SHOzizHE2A/s1600/superrix.png" group-title="Sinema",SUPERRIX HD 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+
+#EXTINF:-1 group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRWtrOv1P_R-nmruiUf7N9QHt00E3-Bc_X4g7sP-ziYvkIBUR0MwyxGNZNif_Y-eX93BP6t5k_68bvVniL59SckUMpHzKBPTe3SN2FHlTZMtcFU6FkLvRyxoXFEfrgBgKgQT4x5zr4zESEaE1huWoa1ayjzUeeIJKRp8JKpqBzsGZB-ER_7SHOzizHE2A/s1600/superrix.png" ,Action hollywood
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA7YVZyaRYZJkraOCn7MFGRd7E16-cNsZs7QCaJ-8R1H95jUWKDDvE5KTcoLLXD_Rep33LtpL4nld2-M6nVHweBZ5ek_9YpNB0m9kzyFM0nMOucm98-on-5McIlj8_zqwn3FpxGvSlokO_qmQex9FiqtxMFOv20BIZ3HZQjdwvymB6hVCHSMz_K0C9L0M/s1600/FILEM_MANTAP.png" group-title="Sinema",FILEM MANTAP
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
-d
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
-#EXTINF:-1 group-title="Sinema" tvg-id="Galaxy" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLvIYFyNuB6npxoL-mHfqa28Z6N5e-GLJNCY6VnuJV3btxBt11BcnZQnE0jEmpyur4gxn-DM0eGQRWF8-O_LFsV9ptgwx79_LFT1zMQMj_fz526xnIPEHF1zL4AX0fi8f2eYNs2aLPi8VcOren7HlfTHHTcWoSmAWBVsuwg71MlKCvHyfVifiS2kapE9g/s1600/Galaxy.png",Galaxy
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+#EXTINF:-1 group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLvIYFyNuB6npxoL-mHfqa28Z6N5e-GLJNCY6VnuJV3btxBt11BcnZQnE0jEmpyur4gxn-DM0eGQRWF8-O_LFsV9ptgwx79_LFT1zMQMj_fz526xnIPEHF1zL4AX0fi8f2eYNs2aLPi8VcOren7HlfTHHTcWoSmAWBVsuwg71MlKCvHyfVifiS2kapE9g/s1600/Galaxy.png" ,MoviesPlex
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1829.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
-#EXTINF:-1 group-title="Sinema" tvg-id="Galaxy Premium" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimKRapS1uk16AfsjB8gfA0FN57fRPbwb5dIPqR_Bi5RrwURTsblQXFSrozXg6BwwvylA0QWYvu5jdFB-0_AD9p1-qBXNZv5MOEItPfK1UxlP99iHzXccHIyc7aKWSkjpUQH_vbHb0lC2-WHw3niGImYfiFlZKuVmwSQWrknaPk3NU6NEv8qZ4Q8Oix0BA/s1600/Galaxy_Premium.png",Galaxy Premium
-https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+#EXTINF:-1 group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimKRapS1uk16AfsjB8gfA0FN57fRPbwb5dIPqR_Bi5RrwURTsblQXFSrozXg6BwwvylA0QWYvu5jdFB-0_AD9p1-qBXNZv5MOEItPfK1UxlP99iHzXccHIyc7aKWSkjpUQH_vbHb0lC2-WHw3niGImYfiFlZKuVmwSQWrknaPk3NU6NEv8qZ4Q8Oix0BA/s1600/Galaxy_Premium.png" tvg-id="My Cinema" ,Showtime
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/46214.ts
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
@@ -341,10 +332,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg06tE7yHStzhWp7j6tHOfnGLePr4mUZbyNWBKsJI85mftLvrlbfplWdvuP0IJ6h-6Rd7_kbZXsbuVrejuhjJpIq1Rll9IliDusbh0Iszy0f2S2qvE0CKQ7IB31xa9lec_pd7TTTJuft1umVJrOVzUK5_OGQ80fbumywykOf6RP53jA1UF3ib3TUhZpL10/s1600/&amp;Picture.png" group-title="Sinema",&PICTURES HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
-#EXTINF:-1 tvg-id="ROCKAction.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4wWZapoEPdHZ5qq0EaVIkkMSFty7U4hmFjccEVxmEART0Kfgp5RPJuPkyTMPml4QaGpWcFBdfOlmD7ZUIzIh1lKNb6_gzTSE43XqvWq345qCU1HAgW7boCEvoGlvdlkaHY0CGb_spfDAXofAtuYlmW9wH0lSEONk9VWsFHW2IwMcR90LreNVmyYR4mzc/s1600/Rock_Action.png" group-title="Sinema",Rock Action
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+#EXTINF:-1 group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4wWZapoEPdHZ5qq0EaVIkkMSFty7U4hmFjccEVxmEART0Kfgp5RPJuPkyTMPml4QaGpWcFBdfOlmD7ZUIzIh1lKNb6_gzTSE43XqvWq345qCU1HAgW7boCEvoGlvdlkaHY0CGb_spfDAXofAtuYlmW9wH0lSEONk9VWsFHW2IwMcR90LreNVmyYR4mzc/s1600/Rock_Action.png" ,SONY MOVIE
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
 
 
 <=================== DAERAH =============================>
