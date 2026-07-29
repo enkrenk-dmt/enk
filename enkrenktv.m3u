@@ -672,10 +672,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
 #EXTINF:-1 tvg-id="Mentari TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRq6fiZXeGW2Yii93h4mIMe9WZblqQDfNGy2UajaFtPdTjVRX_uCMl904ThbcAUzrkrRK5rQGF0vW-mN2ICDKD-Z8QL8D77cE2vtVM8oRBDTtHmNB5q9finfbUjH_qGcNq-IHbKXMJLUsq7Tg9Wi2sBCyU2dv6C9v7rdwa9fHU6jfyGM_IQ2dwwp3ZwFk/s1600/mentari.png" group-title="Channel Anak",Mentari TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
-#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://object-streamo.emonaja.com/img/mentaritv.png" group-title="Kids Channel",Mentari TV
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0FzzWAbIsjBmOJi7uc9VxqL8Uo3JLNnbg1UXTT5amnPF5HpwIVHq_E7OzXVMOwEKfUZNjPZGw_dM88IPtWJn02692fBfoMnk4sMkz5mnLS6yRKiR0D9-TwNJYRig_3HC30pjp45Zy-Aplrg44_lPBJ1sVGjfUA8HgXQFBOmyY1oHAiM9bYcNE2QWqv8/s1600/vtv.png" group-title="Channel Anak",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
@@ -717,13 +713,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 #EXTINF:-1 tvg-id="CBeebies.id" tvg-name="CBeebies HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii66fKSbVWetQM8ssH3IPObORJUh63hPjjpHTMdciViJ9kwVjepVaukZ-E8eeWHNvk-_A2qAJ8OcvFb_prRBGxeZ5fH9aGm77_1M6oQFON-6dTzFECy3H8DfokRoQ4GPQpoyBl8kCuLvdz1nJ_0td-LjZKU-410XWLZWgPJXz_GTMGmZILFXlYfzp29-Q/s1600/cbbiess.png" group-title="Channel Anak",CEEBIES
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
-#EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHoYQfQ9Pv0dgkYmJalmIU2JYsV95w5nCiw7sj5YBviegy0u4FCSFJq0W3uCz89PukCDr00izk0LpHWoosTcIZ9C9mmTWX-Y14oA3pEzAj081TnQiDI4ySueI12tFk3F-ExwHzhKEc11FMUXOg74fv2Lb4rlP-WHRn54b6DYF3rLTMryXjl32EBOqkX0/s1600/zomoo.png" group-title="Channel Anak",ZooMoo
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+#EXTINF:-1 group-title="Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHoYQfQ9Pv0dgkYmJalmIU2JYsV95w5nCiw7sj5YBviegy0u4FCSFJq0W3uCz89PukCDr00izk0LpHWoosTcIZ9C9mmTWX-Y14oA3pEzAj081TnQiDI4ySueI12tFk3F-ExwHzhKEc11FMUXOg74fv2Lb4rlP-WHRn54b6DYF3rLTMryXjl32EBOqkX0/s1600/zomoo.png" group-title="Channel Anak",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1vEXD5SXlrUEiVBKs88kKWw992uSS3RnwZDgLPsiRYXdGQFC50alRHSgaD0GRpn5qy8_Eo3IoJZ9-qp1JWi86Y7nXpT5im7yqBRqi_K-Q2zHJ0PzzQFlKQwiMYT7MWtKRW-ozS8JnxaQy3v5ELLbT6BLk3SLyaPV1IO4D-CLlKnVVCwF3tV0I3pjBQMY/s1600/moonbug.png" group-title="Channel Anak",MOONBUG
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -798,4 +789,34 @@ https://stream-backup.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/index.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", RO Ulin
 https://stream-backup.banjarbarukota.go.id/ptz_ro_ulin/index.m3u8?cookieCheck=1
 
+#EXTINF:-1 group-title="📺 | MOVIES" tvg-logo="https://github.com/Qingtvnew/test/raw/main/galaxy.png" ,Galaxy
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd|license_type=clearkey&license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36&User-Agent=referrer=https://www.visionplus.id/
 
+#EXTINF:-1 group-title="📺 | MOVIES" tvg-logo="https://github.com/Qingtvnew/test/raw/main/galaxy-premium.png" ,Galaxy Premium
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd|license_type=clearkey&license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0&User-Agent=referrer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="📺 | MOVIES" tvg-logo="https://bit.ly/3jPj9HC" ,Rock Action
+https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd|license_type=clearkey&license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d&User-Agent=referrer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="📺 | MOVIES" tvg-logo="https://bit.ly/3GDKsO7" ,Rock Entertainment
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd|User-Agent=referrer=https://www.indihometv.com/
+
+#EXTINF:-1 group-title="📺 | MOVIES" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg" ,MY CINEMA ASIA
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia|User-Agent=referrer=http://dens.tv/
+
+#EXTINF:-1 group-title="📺 | MOVIES" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" ,MY CINEMA EUROPE
+https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD|User-Agent=referrer=http://dens.tv/
+
+#EXTINF:-1 group-title="📺 | MOVIES" tvg-logo="https://github.com/Qingtvnew/test/raw/main/axn.png" ,AXN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+
+#EXTINF:-1 group-title="📺 | MOVIES" tvg-logo="https://github.com/Qingtvnew/test/raw/main/Thrill.png" ,Thrill
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd|license_type=clearkey&license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17&User-Agent=referrer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="📺 | MOVIES" tvg-logo="https://github.com/Qingtvnew/test/raw/main/kix.png" ,KIX
+https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd|User-Agent=referrer=https://www.indihometv.com/
+#EXTINF:-1 group-title="📺 | MOVIES" tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/Rock_Action.png" ,ROCK ACTION
+https://cutt.ly/jtypTaYG|license_type=clearkey&license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02&User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#EXTINF:-1 group-title="📺 | MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" tvg-id="GALAXY.id" tvg-name="GALAXY" ,Galaxy 🔵
+https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd|license_type=org.w3.clearkey&license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36&User-Agent=referrer=https://www.visionplus.id/
