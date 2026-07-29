@@ -263,17 +263,13 @@ https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.
 https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
 
-#EXTINF:-1 group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUK5kZpNYrXg8e_jZBbWEiA878LbHVC5WujMtst5h2jk8AvHS9VV-G4Sra0WDK-f53e852ZQQK2KAWKLuCWtD051MpuFh0LZi53wpTgNjS0mxOFvMow9FBMCHerLkS7Sn5r1DL_zuQeNFsjirKwLRjLyHvVuGygPqcKL5cuZ7t6wBGiOOfucn9FlEbV2U/s1600/eniques.png" tvg-id="Uniques.id" tvg-name="Uniques" ,UNIQUES
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd|license_type=org.w3.clearkey&license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e&User-Agent=referrer=https://www.visionplus.id/
-
-
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSY03z9ezoY0gUeVpsW0qecDhnGOJtzDulEIG43NheatZ9aX-Sx0E9hhtge8gEGKnjFOA1D_dLeRfm-Qx_T4Ffchc-KiE9HAAzyIrpdW4c9bBNyCoVzFdpXSjz1IpQ2SkLTXKeuJQrJUD9mS1qusrAmrHKrgKoFlGtRyeKDfwK6ghx3j4X3g88Xt5GxCU/s1600/mce.png" group-title="Sinema",MCE
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpOZyHqTGIp6XE7iRaIRe2IrUiuDPZyc4FdWG-UwDV6c_HHOUrVnzo23OptwMhYyuzlDRPaWEVQg2X7mTjcwUB_Ad3JwetsgNtnqxBPJv1Hw-0oWOwxqLoM7o7DQbN-FCuwWdhwypcdrz0yEEYH2aysWx761aCqRHvSUDDN2sk82Rpo3dznmu71FdlW4/s1600/imc.png" group-title="Sinema",FLIK
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd|license_type=org.w3.clearkey&license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
+#EXTINF:-1 group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpOZyHqTGIp6XE7iRaIRe2IrUiuDPZyc4FdWG-UwDV6c_HHOUrVnzo23OptwMhYyuzlDRPaWEVQg2X7mTjcwUB_Ad3JwetsgNtnqxBPJv1Hw-0oWOwxqLoM7o7DQbN-FCuwWdhwypcdrz0yEEYH2aysWx761aCqRHvSUDDN2sk82Rpo3dznmu71FdlW4/s1600/imc.png" ,MovieDome Family
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuUY-9LVgc1jExAoWxP6Zddu3kuyY8d-skd9vTI7fQMYVBtrTpMkf-671R5N7HBkxgIc6UADRtCcOMcRlxUhT6iJaYJnj8JQ3wgZO1XJqcsVX8FvjjVhTpA5nS707T3CZf9jjgzyskEpDt2gbGBNk_pS_U005PJRfSMm6O56WBgDy3No85Y35XB8a-UXA/s1600/Kix.png" ,MyTime Movie Network
@@ -503,11 +499,13 @@ EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://blogger.googleusercontent.com/im
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
+
 #EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBCqPGvHMD75KVEvdvGWr4U5BEETFhqo57IyAUyLboqHHq3ecANl4VgOS9lEbpdx2O3Hl8I5Id_twjdn93zYsIK-5dBBJkbM2LFlHSr-y7-T8Uk9rIF9oJwFMzjkOSglQJ-29v2NuW63RPPURklMUz_K4KVkN8LEcHzGD2ZrD3F3_YsbBnypI07Q19oS4/s1600/tsn2.png" group-title="Olahraga", TSN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd|license_type=clearkey&license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 
 #EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2k-7P5AEme1lxRSkOWGQ-gGxmN-EbDdrrlsSdZRNWr_VCovnTFhWCgxSETVtdDRS9Mjpx7wIEWxPwSmn3vfY4yWx7edffTF_3tsSFned8xSVNXxaXWyOjFTdnjjr5CF1SpLGJ8SvSfftGiELjZfa09INvHTFYlq9XSPwDJE1ktxh-JUQxfcQiQQY0Q2U/s1600/tsn3.png" group-title="Olahraga", TSN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
