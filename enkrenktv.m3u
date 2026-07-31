@@ -737,5 +737,4 @@ https://stream-backup.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8?c
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", Sumberadi
-https://stream-backup.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8?cookieCheck=1
 https://stream-backup.banjarbarukota.go.id/pertigaan_ambulung/index.m3u8?cookieCheck=1
