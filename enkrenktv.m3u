@@ -629,7 +629,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://cdnbal1.indihometv.com/atm/DASH/mykids/mykids-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-logo=""https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtT8tweB4UBK87xnl0IjtJcTtqtP4W9hTgHxChNwhtE-C1rGnVK8hnNVfzeX3B2fD8WrYwymLvc_Vp0jR3To7miK7RsYePZUa3kAtr0kN567B765InoAxoH1Cze4-K8MXcAqV-OixGxriiRG9kVIou5apZFzqYFqRZuiOzqtcuTupRZnSIoxgpxRZitE/s1600/kids.png" group-title="Channel Anak" tvg-id="KidsTV.id" tvg-name="Kids TV - [Channel 46].id", KIDS TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtT8tweB4UBK87xnl0IjtJcTtqtP4W9hTgHxChNwhtE-C1rGnVK8hnNVfzeX3B2fD8WrYwymLvc_Vp0jR3To7miK7RsYePZUa3kAtr0kN567B765InoAxoH1Cze4-K8MXcAqV-OixGxriiRG9kVIou5apZFzqYFqRZuiOzqtcuTupRZnSIoxgpxRZitE/s1600/kids.png" group-title="Channel Anak" tvg-id="KidsTV.id" tvg-name="Kids TV - [Channel 46].id", KIDS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -732,6 +732,10 @@ https://stream-backup.banjarbarukota.go.id/ptz_murjani/index.m3u8?cookieCheck=1
 https://stream-backup.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", RO Ulin
-https://stream-backup.banjarbarukota.go.id/ptz_ro_ulin/index.m3u8?cookieCheck=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", Bundaran Palm
+https://stream-backup.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8?cookieCheck=1
 
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", Sumberadi
+https://stream-backup.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8?cookieCheck=1
+https://stream-backup.banjarbarukota.go.id/pertigaan_ambulung/index.m3u8?cookieCheck=1
