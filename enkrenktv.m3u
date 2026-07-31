@@ -622,12 +622,20 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtT8tweB4UBK87xnl0IjtJcTtqtP4W9hTgHxChNwhtE-C1rGnVK8hnNVfzeX3B2fD8WrYwymLvc_Vp0jR3To7miK7RsYePZUa3kAtr0kN567B765InoAxoH1Cze4-K8MXcAqV-OixGxriiRG9kVIou5apZFzqYFqRZuiOzqtcuTupRZnSIoxgpxRZitE/s1600/kids.png" group-title="Channel Anak" tvg-id="KidsTV.id" tvg-name="Kids TV - [Channel 46].id",KidsTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5BldvF5EEnEDZZeDZjVArvq19-KPkr5SIqcf6y4hMCeVt-O1Vr_2RqBxLb_BKRFIYu2jkCzPToRrrg_yNwTmxrOzfh4NddsmzcARgAsr4F407mb_z-bbVqCceA3TMpzxrK3OupXE3p9NkC-0qKWbLzg-ziGl-kUlt27zxyt6aGV4UUnEhdZtYpNZ9Sho/s1600/cinemakids.png" group-title="Channel Anak" tvg-id="KidsTV.id" tvg-name="Kids TV - [Channel 46].id",MY KIDS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://cdnbal1.indihometv.com/atm/DASH/mykids/mykids-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-logo=""https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtT8tweB4UBK87xnl0IjtJcTtqtP4W9hTgHxChNwhtE-C1rGnVK8hnNVfzeX3B2fD8WrYwymLvc_Vp0jR3To7miK7RsYePZUa3kAtr0kN567B765InoAxoH1Cze4-K8MXcAqV-OixGxriiRG9kVIou5apZFzqYFqRZuiOzqtcuTupRZnSIoxgpxRZitE/s1600/kids.png" group-title="Channel Anak" tvg-id="KidsTV.id" tvg-name="Kids TV - [Channel 46].id", KIDS TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -643,14 +651,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM-kWXGHdtJx68I0uZ7PAEOA9jOp4PRymv_gcFu6BdaIInrIk4n2rXgdYqRD_fFxo4JaGf9ww_PTl-l1wfeY2GVoQjHoS7XvxkFpxqhJRyy_gsNTZ1oaJetZKTSNwm4el1UhvECF3YX7qeS4GB6J9wk6fdfrcHrv5fvmzmbktNeqiIFTtZSh_kiKNRDy4/s1600/nickjr.png" group-title="Channel Anak",NICK JR
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5BldvF5EEnEDZZeDZjVArvq19-KPkr5SIqcf6y4hMCeVt-O1Vr_2RqBxLb_BKRFIYu2jkCzPToRrrg_yNwTmxrOzfh4NddsmzcARgAsr4F407mb_z-bbVqCceA3TMpzxrK3OupXE3p9NkC-0qKWbLzg-ziGl-kUlt27zxyt6aGV4UUnEhdZtYpNZ9Sho/s1600/cinemakids.png" group-title="Channel Anak",Cinemachi Kids
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
