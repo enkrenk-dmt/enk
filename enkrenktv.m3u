@@ -30,13 +30,7 @@ https://live2.streambylivepulse.com/live/channel6.m3u8
 https://live2.streambylivepulse.com/live/channel1.m3u8
 
 
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRYQrNXYz0a7D-Z3VgwLAaRKYOgbkbta-7PS-VAsJLP0iU1y1QCNtnnQgK-HlqjdM0a1DJCGpOwJhMAQoI2MHP5EQu5MXjyZFhMj0lr6ixFq9z4anKT_xxzp3iDZIgKq2-k2OaaIJgYsL80iMRNrQQ7e4XDvL-QU3NrdxhDWW-WYyivcH1MyzgO7nfm-Q/s1600/RCTI.png" group-title="ASEAN CUP 2026",RCTI HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti" group-title="Indonesia Lokal",RCTI HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10" group-title="Indonesia Lokal",RCTI HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
