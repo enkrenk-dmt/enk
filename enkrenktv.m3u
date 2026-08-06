@@ -51,20 +51,17 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzUsJSV2X4g19YJr3IRigTx4Y4HExlGAAluGudQ63eSfkqZASM1EdM-q_xkhU6G5bfEtelpw0TbvLT4uRDxlJGagKh2cNlyfW9pLgK5SXAPhqzgmeKg_Jdo7-OSHez0dptuOno0X6udQtHxRNdzvfLInM3oM93FIW5zWbZiqrvaEfR-bnQmEB6rq_dNIo/s300/TRAN7.png" group-title="Indonesia Lokal", Trans 7
 #EXTVLCOPT:http-origin=https://20.detik.com/
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Indonesia Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXvx5zcfqvlwWh02K6ugj0zp0oElunKj8KZKsWEcbjRvKolKh5ervVyKA6E_1WWmWLJfCD-qNKvBVM1mhlJajyOSdd3lSQy5XoC7NtRzkOKrJdaYLmNZKcnRAQjTW02QeUAYApb88D0hau1jpA7LyL-UMwV0nxDg9dtZ6xY3gaAaKPQwcKSv4Zs2Ho2w/s1600/antv.png", ANTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tv.canal86.my.id/emtekhd/stream.m3u8?id=782&type=hls&e=1785997374&s=abfe76cd0c6b165ab143d68ff888a6e417368813b03c287d26ff4e9a145ca649
-
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOVhHYO36e1moRqJMwjxvi5d-8opXnzzMf-iP9HZlhcYSfuOPT7DpePe0Y2sbrdFv2gFC47Vj858g0Fk9qx_K9UfEOr-VgWUEKzj8XBblH8bNsqViqwJZ5fBFBG1u8DVUIefr8XpHYCbVWxIiBBeGyBo7jM9H012K9SpEkz4i1cD8Z7QW41e3uOMD8fW8/s300/indosiar.png" group-title="Indonesia Lokal",INDOSIAR ID
 #https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
@@ -77,19 +74,17 @@ https://tv.canal86.my.id/emtekhd/stream.m3u8?id=782&type=hls&e=1785997374&s=abfe
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
-
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4DJSys6sAtggJhotDbH9AgUEeBN9GiWCrL72owVm3mjTM_aMjX3WH_ud5tg_N27igSZzuRKSOjbh6VnC2FCqZoQGkTyjVsIa9J-WmA59s3jU-MHDyawhGz5vsNlE1UYNYc7caTjQZqnHzKsbOUzrzkNsiKmtBodWh6SbtsEkwLOWCuMKDY9V-ahm_6vQ/s1600/SCTV.png" group-title="Indonesia Lokal",SCTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
-
-#EXTINF:-1 group-title="Indonesia Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4DJSys6sAtggJhotDbH9AgUEeBN9GiWCrL72owVm3mjTM_aMjX3WH_ud5tg_N27igSZzuRKSOjbh6VnC2FCqZoQGkTyjVsIa9J-WmA59s3jU-MHDyawhGz5vsNlE1UYNYc7caTjQZqnHzKsbOUzrzkNsiKmtBodWh6SbtsEkwLOWCuMKDY9V-ahm_6vQ/s1600/SCTV.png", SCTV HD
+#EXTINF:-1 group-title="Indonesia Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4DJSys6sAtggJhotDbH9AgUEeBN9GiWCrL72owVm3mjTM_aMjX3WH_ud5tg_N27igSZzuRKSOjbh6VnC2FCqZoQGkTyjVsIa9J-WmA59s3jU-MHDyawhGz5vsNlE1UYNYc7caTjQZqnHzKsbOUzrzkNsiKmtBodWh6SbtsEkwLOWCuMKDY9V-ahm_6vQ/s1600/SCTV.png", SCTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#https://tv.canal86.my.id/emtekhd/stream.m3u8?id=204&type=hls&e=1785997374&s=02e188b9b25a456d655be90878b4890b7847e8e0490e35abe730e2f50077e668
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=204&type=hls&e=1785997374&s=02e188b9b25a456d655be90878b4890b7847e8e0490e35abe730e2f50077e668
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
@@ -122,8 +117,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
-
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFNtuC54kylYhl1g5uaMtvEcT7-1IrkTnfyTZCb9DZ8LzjvbWJ63x2Q2meM4P8KctpfvDNP3deqpCrYDxPYn0SD51RcXvZt75JcpK9zpITt4nXOKyJ8Wm5-I3b5SRu_Fpzw1DSvI-zduRSvyt5P_PTvz8hyCHpQF-2m2Rh-fPo7xC6M2Q_Bk0Cw9HCRdc/s1600/MDTV.png" group-title="Indonesia Lokal",MDTV
