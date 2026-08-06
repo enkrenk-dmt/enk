@@ -337,17 +337,19 @@ https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyhPMq5RJ4m7UvDCgpjdkn_vqviYbVB-u5E12S9fjEiXn3xtWi8caoYSwHxdCN5sMJoDbBKNyyVpZ5Co_5op4PJvmLLfKp7qlvsWNo7r4dhxa9l7W-lJybanKOOv-KpHkBMuRoEu8Z1xtC-hqfCKCUck2jnUp5tnPGR3kbp8o7tekHQrixL52E580SZiA/s1600/motorvision.png" group-title="Olahraga",Mplus
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
+#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHjZiy7MVYxeCo5kISN7e8qHAj2EMFTSE21RkFXHMlkphslEHcJ0ZkCSmrTXj79V6mWT1lZLpIhovrZrR_JvT6gUCEeotFF6YiP3vwEbyZ0o00NkxE_8wNSstbvjKHnaKCs3-qSAyAccGiaB6EkRXQRXN_dMuw15vOxneYrVtiLrIjUa17dk_kl3Z-uLk/s1600/SPOTV.png" group-title="Olahraga",SpoTV 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTINF:-1 tvg-id="SPOTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHjZiy7MVYxeCo5kISN7e8qHAj2EMFTSE21RkFXHMlkphslEHcJ0ZkCSmrTXj79V6mWT1lZLpIhovrZrR_JvT6gUCEeotFF6YiP3vwEbyZ0o00NkxE_8wNSstbvjKHnaKCs3-qSAyAccGiaB6EkRXQRXN_dMuw15vOxneYrVtiLrIjUa17dk_kl3Z-uLk/s1600/SPOTV.png" group-title="Olahraga",SpoTV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0kY2P57DTm_ljYa8NZ46mAls3Be537gvTIFzceFcm_PiHdWn6lSSpWs7t32XvTMXhfq7ZFAdvpLJNgR8a4Nhl1bKnSv2jsOZWe4pSMXC8_J6vG5PrKQhAP6YAHefcte3RwIqjOJP9-V08nNKnn3O_MNWHStnxk2if7ERoYJTSCHW_qRytlooHX5XhyphenhyphenAg/s1600/SPOTV2.png" group-title="Olahraga", SpoTV 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0kY2P57DTm_ljYa8NZ46mAls3Be537gvTIFzceFcm_PiHdWn6lSSpWs7t32XvTMXhfq7ZFAdvpLJNgR8a4Nhl1bKnSv2jsOZWe4pSMXC8_J6vG5PrKQhAP6YAHefcte3RwIqjOJP9-V08nNKnn3O_MNWHStnxk2if7ERoYJTSCHW_qRytlooHX5XhyphenhyphenAg/s1600/SPOTV2.png" group-title="Olahraga",SpoTV 2
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
@@ -357,12 +359,12 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTINF:-1 tvg-id="Soccer Channel" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIdKIIaF7qppwQbCbrqvUxO0v1nDo6EzfT6sqlaGlDJHfCrxKICQ28f239xM4hgNSoKCcKGg7kliy3AGgzuJTCzlKwpMyEc5PVnwdMhvPaqDtQLGxXuDlciWCBa7TaU3-AzsWAC__KmxtMnR_rSUy9mrEwXFke6TKh_iFqjxU0nOXXAhiUws5kMajcpQg/s1600/Soccer.png" group-title="Olahraga",Soccer Channel
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTINF:-1 tvg-id="Sportstars" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgANtmCh-j7MB-s6wfrn6B3LrcnLI85MvEeMCPtLloHdVJDlAbFpaGD-BpNkzTL7sXYNolkJMB5Nfrtc04URj-HHVT0DXYo8ksVzskLLv8VCZUXRjQfYFu9Q1nS5cARrbKZOCaHMaC2sIRHY7mvc0XgfAxcLPaNB1arH2KrZGjGnQ09n1I0nhRnsSSruHU/s1600/sportstar.png" group-title="Olahraga",Sportstarsᴴᴰ
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -370,41 +372,37 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTINF:-1 tvg-id="Sportstars 2" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidZsVgp01qfOEJWIvle8MyZpGAzj7XbVu39RXxNDI_G0N1bu9z1qg-puqNhG2-MZ3cqoCqDTv6V23nx4r374mMyQ59PS-mzg4HJ3yUz4mq7PSMjlBKq4dIzn0aBuJ-EcLPoZRPdiaqSQwjNFKfoYmnszpsV9g3Br7LcoCPQ_NfuD2jQtplx598VkI8yyY/s1600/sportstar2.png" group-title="Olahraga",Sportstars 2ᴴᴰ
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
 #EXTINF:-1 tvg-id="Sportstars 3" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB8KF5Mm4ik8y6R1cT7cJRhOog0KjoISAyP5e0BsWQLkpWaKXnr_2XzW2VCDm8yRn-tZTr9eArZ7uEeUXKXieuKLHrro22UtNERJfkMJ9j6qzTDMLhbxMU9AsUY7uQ3utmfJGJV-g4y5gpsZMrs_7ootP8CvSAZ2mnnMq_WQTMLBwcCsD3Fs9SUxNyCJ8/s1600/sportstar3.png" group-title="Olahraga",Sportstars 3ᴴᴰ
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
   
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTINF:-1 tvg-id="Sportstars 4"  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWan6tuJ0J3zQ9ujMuQKbVbRBZPyMzROCWnkntdZFda4YMHiDECYp7ZkZMkd1hJ4Y9QmRh9y7rbg8Nzt6ObFlAzxA1QeRlplah8d7dzFm2ygRtjOdDq9x6-NEa0KoYsjmw_4DK6DTTokcFrW3H6tCgu_tcUGfAbcmI_PxFOJ6MVieXIIozUw6eee7TAsg/s1600/sportstar4.png" group-title="Olahraga", Sportstars 4ᴴᴰ
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwYEoa18T-ff-3mvOvYiX4mWlLLDpEMV5BUIXFiH0Q6Mov7s9Gha3XoVO6NOHsyMOPiVss0Ocu49X6OPL7fRddVHvytcWpDV-Velpn4HN9u6hTuKVLcEIVJR4L_eOOfGwiPaZ85DVwUsmmSnwwM5VEnC2j5VIdcghUk2Rhkwampus5X8W1eaWI5Qd9oaw/s1600/tvrisport.png" group-title="Olahraga",Tvri Sport
 https://paketmaxstream.ambontv.my.id?code=TVRI-F7V03Q
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwHCkfW2dggBH9xU93M5_1elZ8ApN6P1youddJAZpvPaFHT98iBd8gJOSlFOlL1HkxnsUzRuNCpFsl-qv_BfF7D1IeUlQWBvFVbh9zz2fu89JIUzaVaCWY2abtcKUqC0L8hyphenhyphenTTRD0adGvNMI_Ow9TW90ILTUIDKjI3qjrM416YZABIwPci2OeL6ez86I/s1600/BEIN1.png" group-title="Olahraga", beIN Sports ID 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="bein1uk" tvg-name="BeIN Sports 1 UK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwHCkfW2dggBH9xU93M5_1elZ8ApN6P1youddJAZpvPaFHT98iBd8gJOSlFOlL1HkxnsUzRuNCpFsl-qv_BfF7D1IeUlQWBvFVbh9zz2fu89JIUzaVaCWY2abtcKUqC0L8hyphenhyphenTTRD0adGvNMI_Ow9TW90ILTUIDKjI3qjrM416YZABIwPci2OeL6ez86I/s1600/BEIN1.png" group-title="v",BeIN Sports AU 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUw4C5n4G7VDJl-qmwCEJRxv_rM3TqHZ202mA3hKw74tFTDw8Hn2Uj_3ADPlZ7bI0Iuf9rKy7lkKdUHB53VyJDPUBYKmKb-Bz9waMh5zqckLR6dJL0oXtYlv3oZ19oMKrcXh2A78lwLkwpItziGsSfz77OFLCRgsKaaw8gdIMTBaNzUatVYKBKodp5vug/s1600/BEIN2.png" group-title="Olahraga", beIN Sports ID 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="bein2uk" tvg-name="BeIN Sports 2 UK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUw4C5n4G7VDJl-qmwCEJRxv_rM3TqHZ202mA3hKw74tFTDw8Hn2Uj_3ADPlZ7bI0Iuf9rKy7lkKdUHB53VyJDPUBYKmKb-Bz9waMh5zqckLR6dJL0oXtYlv3oZ19oMKrcXh2A78lwLkwpItziGsSfz77OFLCRgsKaaw8gdIMTBaNzUatVYKBKodp5vug/s1600/BEIN2.png" group-title="v",BeIN Sports AU 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr7PySawpeYyeFrGcNdm1cjOWZTRUdOModqjARha9r5TJ0AQVaqzjBHV_YiILRsLyqBQYUhgs5zpJBGw6Ep_jJE9gQKv3sTChvOrXHG5YlwscGnSROsP86POSXJ2fIF20eRyBFRBKXpf8LLbXHAQ8pThDUNh0_WRdtOjAp8SpIpeq0DV0Oa5kdfxavaJM/s1600/BEIN3.png" group-title="Olahraga", beIN Sports ID 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -413,7 +411,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
 
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdgtmAJnufKCHz5PlfEE8eynplhwu2e44JcOKxIjhpncmpKeJuG2PMx7hglzlFKT5LQsYrtHSfLlqlxDPjemA2jSuHISjnVi7pGIrCr3708G6TQ7_67di3cuHjxKi2qUk9PGTQoZRbkf9OFinAjTFnj3VqImVRD1vdShefG4XkJRiscUu-UIkmWh7UtB0/s1600/prima1.png" group-title="Olahraga" ,Prima Sport 1 
 #EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
@@ -460,19 +457,17 @@ EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://blogger.googleusercontent.com/im
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-
-#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBCqPGvHMD75KVEvdvGWr4U5BEETFhqo57IyAUyLboqHHq3ecANl4VgOS9lEbpdx2O3Hl8I5Id_twjdn93zYsIK-5dBBJkbM2LFlHSr-y7-T8Uk9rIF9oJwFMzjkOSglQJ-29v2NuW63RPPURklMUz_K4KVkN8LEcHzGD2ZrD3F3_YsbBnypI07Q19oS4/s1600/tsn2.png" group-title="Olahraga", TSN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBCqPGvHMD75KVEvdvGWr4U5BEETFhqo57IyAUyLboqHHq3ecANl4VgOS9lEbpdx2O3Hl8I5Id_twjdn93zYsIK-5dBBJkbM2LFlHSr-y7-T8Uk9rIF9oJwFMzjkOSglQJ-29v2NuW63RPPURklMUz_K4KVkN8LEcHzGD2ZrD3F3_YsbBnypI07Q19oS4/s1600/tsn2.pngg" group-title="Olahraga",TSN  2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd|license_type=clearkey&license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
 #EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2k-7P5AEme1lxRSkOWGQ-gGxmN-EbDdrrlsSdZRNWr_VCovnTFhWCgxSETVtdDRS9Mjpx7wIEWxPwSmn3vfY4yWx7edffTF_3tsSFned8xSVNXxaXWyOjFTdnjjr5CF1SpLGJ8SvSfftGiELjZfa09INvHTFYlq9XSPwDJE1ktxh-JUQxfcQiQQY0Q2U/s1600/tsn3.png" group-title="Olahraga", TSN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="tsn4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiwo80qumu9l0OjOkS9Q_EddanUMQLJtb4thjcmqQ4URak3QnWohpwCcmV9cTlROdtaUgXRWG89F8QPXKUYNj93x0lO1m571UxoEYu3UzUSEh-Ga1hkh1GC_5b_mFS7oGwQCYBtPdAtTsVOgNFuXUMzoHGB-Y8flHrNdDGRJ-pzyoqe8NaPTMvArAOwU/s1600/tsn4.png" group-title="Olahraga", TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
