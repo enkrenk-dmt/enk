@@ -145,13 +145,10 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-IacHQmUwVtjKY36e7siqYlFQkABdf-OoEBJAsda3Y2J0kQCtRrw8Hdw36OsCzM-O1bPD3QQxXSyPyjew_YQtka-_5CnRcCaJOx7UDdopNLFJJ45BOJ6MFKQh7DEi6yqvJuPsXNLW-t0XPQH-23RXXh25P6o3ZGn1XwOoOu52T-6LVVwcMlrxy1eMm78/s1600/KOMPAS.png" group-title="Berita",KOMPAS TV
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
-
+#EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-IacHQmUwVtjKY36e7siqYlFQkABdf-OoEBJAsda3Y2J0kQCtRrw8Hdw36OsCzM-O1bPD3QQxXSyPyjew_YQtka-_5CnRcCaJOx7UDdopNLFJJ45BOJ6MFKQh7DEi6yqvJuPsXNLW-t0XPQH-23RXXh25P6o3ZGn1XwOoOu52T-6LVVwcMlrxy1eMm78/s1600/KOMPAS.png" group-title="Berita,KOMPAS TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h241/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFK-aPhAuapuR7HZncuxj0yF-KoqDspPJ364web_WzQMwGDNfo1tVyp72uamrAfYf8rQ0Q9WUD8NIKqOUGs5BLS3Kvxrj3iU54B4jASjiszUuvjcLZLj9FDYdZQ34TN1Rly6n0Lz9088m-wkTzRBfAUNw4lq-UprD9Rk2cKxDUbcUvxDe-4l7f682z37Q/s1600/METRO.png" group-title="Berita",Metro TV
@@ -394,14 +391,14 @@ https://paketmaxstream.ambontv.my.id?code=TVRI-F7V03Q
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="bein1uk" tvg-name="BeIN Sports 1 UK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwHCkfW2dggBH9xU93M5_1elZ8ApN6P1youddJAZpvPaFHT98iBd8gJOSlFOlL1HkxnsUzRuNCpFsl-qv_BfF7D1IeUlQWBvFVbh9zz2fu89JIUzaVaCWY2abtcKUqC0L8hyphenhyphenTTRD0adGvNMI_Ow9TW90ILTUIDKjI3qjrM416YZABIwPci2OeL6ez86I/s1600/BEIN1.png" group-title="v",BeIN Sports AU 1
+#EXTINF:-1 tvg-id="bein1uk" tvg-name="BeIN Sports 1 UK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwHCkfW2dggBH9xU93M5_1elZ8ApN6P1youddJAZpvPaFHT98iBd8gJOSlFOlL1HkxnsUzRuNCpFsl-qv_BfF7D1IeUlQWBvFVbh9zz2fu89JIUzaVaCWY2abtcKUqC0L8hyphenhyphenTTRD0adGvNMI_Ow9TW90ILTUIDKjI3qjrM416YZABIwPci2OeL6ez86I/s1600/BEIN1.png" group-title="Olahraga",BeIN Sports AU 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="bein2uk" tvg-name="BeIN Sports 2 UK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUw4C5n4G7VDJl-qmwCEJRxv_rM3TqHZ202mA3hKw74tFTDw8Hn2Uj_3ADPlZ7bI0Iuf9rKy7lkKdUHB53VyJDPUBYKmKb-Bz9waMh5zqckLR6dJL0oXtYlv3oZ19oMKrcXh2A78lwLkwpItziGsSfz77OFLCRgsKaaw8gdIMTBaNzUatVYKBKodp5vug/s1600/BEIN2.png" group-title="v",BeIN Sports AU 2
+#EXTINF:-1 tvg-id="bein2uk" tvg-name="BeIN Sports 2 UK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUw4C5n4G7VDJl-qmwCEJRxv_rM3TqHZ202mA3hKw74tFTDw8Hn2Uj_3ADPlZ7bI0Iuf9rKy7lkKdUHB53VyJDPUBYKmKb-Bz9waMh5zqckLR6dJL0oXtYlv3oZ19oMKrcXh2A78lwLkwpItziGsSfz77OFLCRgsKaaw8gdIMTBaNzUatVYKBKodp5vug/s1600/BEIN2.png" group-title="Olahraga",BeIN Sports AU 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr7PySawpeYyeFrGcNdm1cjOWZTRUdOModqjARha9r5TJ0AQVaqzjBHV_YiILRsLyqBQYUhgs5zpJBGw6Ep_jJE9gQKv3sTChvOrXHG5YlwscGnSROsP86POSXJ2fIF20eRyBFRBKXpf8LLbXHAQ8pThDUNh0_WRdtOjAp8SpIpeq0DV0Oa5kdfxavaJM/s1600/BEIN3.png" group-title="Olahraga", beIN Sports ID 3
