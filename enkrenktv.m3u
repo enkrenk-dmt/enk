@@ -171,6 +171,55 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1634510766_b
 https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
 
 <=================== Sinema =============================>
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSY03z9ezoY0gUeVpsW0qecDhnGOJtzDulEIG43NheatZ9aX-Sx0E9hhtge8gEGKnjFOA1D_dLeRfm-Qx_T4Ffchc-KiE9HAAzyIrpdW4c9bBNyCoVzFdpXSjz1IpQ2SkLTXKeuJQrJUD9mS1qusrAmrHKrgKoFlGtRyeKDfwK6ghx3j4X3g88Xt5GxCU/s1600/mce.png" group-title="Sinema",MyCinema 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpOZyHqTGIp6XE7iRaIRe2IrUiuDPZyc4FdWG-UwDV6c_HHOUrVnzo23OptwMhYyuzlDRPaWEVQg2X7mTjcwUB_Ad3JwetsgNtnqxBPJv1Hw-0oWOwxqLoM7o7DQbN-FCuwWdhwypcdrz0yEEYH2aysWx761aCqRHvSUDDN2sk82Rpo3dznmu71FdlW4/s1600/imc.png" group-title="Sinema",IMC
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLvIYFyNuB6npxoL-mHfqa28Z6N5e-GLJNCY6VnuJV3btxBt11BcnZQnE0jEmpyur4gxn-DM0eGQRWF8-O_LFsV9ptgwx79_LFT1zMQMj_fz526xnIPEHF1zL4AX0fi8f2eYNs2aLPi8VcOren7HlfTHHTcWoSmAWBVsuwg71MlKCvHyfVifiS2kapE9g/s1600/Galaxy.png" group-title="Sinema",GALAXY
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimKRapS1uk16AfsjB8gfA0FN57fRPbwb5dIPqR_Bi5RrwURTsblQXFSrozXg6BwwvylA0QWYvu5jdFB-0_AD9p1-qBXNZv5MOEItPfK1UxlP99iHzXccHIyc7aKWSkjpUQH_vbHb0lC2-WHw3niGImYfiFlZKuVmwSQWrknaPk3NU6NEv8qZ4Q8Oix0BA/s1600/Galaxy_Premium.png" group-title="Sinema",GALAXY PREMIUM
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4wWZapoEPdHZ5qq0EaVIkkMSFty7U4hmFjccEVxmEART0Kfgp5RPJuPkyTMPml4QaGpWcFBdfOlmD7ZUIzIh1lKNb6_gzTSE43XqvWq345qCU1HAgW7boCEvoGlvdlkaHY0CGb_spfDAXofAtuYlmW9wH0lSEONk9VWsFHW2IwMcR90LreNVmyYR4mzc/s1600/Rock_Action.png" group-title="Sinema",ROCK ACTION
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRWtrOv1P_R-nmruiUf7N9QHt00E3-Bc_X4g7sP-ziYvkIBUR0MwyxGNZNif_Y-eX93BP6t5k_68bvVniL59SckUMpHzKBPTe3SN2FHlTZMtcFU6FkLvRyxoXFEfrgBgKgQT4x5zr4zESEaE1huWoa1ayjzUeeIJKRp8JKpqBzsGZB-ER_7SHOzizHE2A/s1600/superrix.png" group-title="Sinema",SUPERRIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUK5kZpNYrXg8e_jZBbWEiA878LbHVC5WujMtst5h2jk8AvHS9VV-G4Sra0WDK-f53e852ZQQK2KAWKLuCWtD051MpuFh0LZi53wpTgNjS0mxOFvMow9FBMCHerLkS7Sn5r1DL_zuQeNFsjirKwLRjLyHvVuGygPqcKL5cuZ7t6wBGiOOfucn9FlEbV2U/s1600/eniques.png" group-title="Sinema",UNIQUES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrlc_n7tj9oeivHRXNDMpebFp9OVV4IHryubsKmjZavcuDCilCwF9u2yWETz0WnzVZpIi_X3cMJNno4oKiQvwiX6S6DSSBzdUrZ_j7dRU4YdKBezax_xtLYcegbIFSXKFnI0_1JND-4deT6yb_QorJVFS1QptUzGSr-BmX0Ph6STGp8mxw8bOmi9I2ZQw/s1600/we-do.png" group-title="Sinema",We Do TV Movies
 https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedomoviesasia-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fee15f42df39a0b90140c07d40fa83439fd401e987dc5e8347d373a3459f9bf1dfd546848cb9599106f224365623709cf215f9a366b7ca8a56379d7c2d7b44298cc986ed712c944e555dfbe6b9d10f9328db9a1a91723ead019b56b96af601c008b7f171a2b8b5db4e444bcaae375a26b0f59f88ee3b37b163c6f885b711758c84721223f264cd1f7156fa9ec71990b172fcd31889b97d2062aefb269f94b6f188dae871982ccefaaef657214a6d1070e137c7a169d53de022dfa47b285a4c7bb98345c1f4b23459594680814acd031e8481f9e9ba0d34da701a28810abe600663dc246d41bf4193f8356ffb4060e10e34f8656fee289fad3ef9d5bc8f6300a0cccb7fa52d85d80bc2e63dba79334b078ce73e53373d17bfd5671d2046d051ebc1cfde621b0cd1ad8194b25037092d125c18b4eeee669e9dd43b1817cc21500a002b14990ac26cd114760c27df1bc0b81b71840b1c7794cd5a5a5f6284cdc3e8edb1f143b071c1cac06341513a64ad23774104b68d8a49ed05110e1039870b7451cf6f3024d192cdf58bbd348ef608ad3c72065cc6ff19520c5c67117af1fe53d05af28122ba94c44fc9e1992f1ff356c406008eefcf65fc9feaad263497ba4726749ed71a9f0747a11ed03f91c275aada3f6e2735445cdb9e51c26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea82260881247c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aed50df57dfde922e2af1c1c419357f56aaaa12b529e2fde11a9db4/158/1280x720_3329040/index.m3u8
@@ -562,12 +611,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 
 <=================== HIBURAN =============================>
 
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
-#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiD5d_3vQrlSa6MImN0lkRfbEiGX8SZaDNkFwqNQS4m-aB0zV9_jsCrfV7Ajz2GlI-Xa0B1VJ6rDSiIg2SC_Vz5ebkKWDOjd1bRVjp2D6er-gH9jSxO4CG-ilLDKLW7uNiwLevAbRHoUJ8i0sYkZ8adm8BszC8ptq9QEIjYre8kmQUGWmqKfAahQ96fXg/s1600/rock_enterteintment.png" group-title="Hiburan",Rock Entertainment (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiD5d_3vQrlSa6MImN0lkRfbEiGX8SZaDNkFwqNQS4m-aB0zV9_jsCrfV7Ajz2GlI-Xa0B1VJ6rDSiIg2SC_Vz5ebkKWDOjd1bRVjp2D6er-gH9jSxO4CG-ilLDKLW7uNiwLevAbRHoUJ8i0sYkZ8adm8BszC8ptq9QEIjYre8kmQUGWmqKfAahQ96fXg/s1600/rock_enterteintment.png" group-title="Hiburan", ROCK ENTERTAINMENT
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
