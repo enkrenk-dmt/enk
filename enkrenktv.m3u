@@ -129,18 +129,18 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9DGEGou.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="511" tvg-name="AXN HD", AXN HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWv9Gj9dAwX_yiGJtC7UrCKK9xS6dqJnbZkWTDuPXdyNRiCHnOT07r4UTAdBLk12U0IJNI19obLG5RKP8Se2hNZJSu1gju0ccUdF3dOgbQg9vuee7D2h1God3nr1wJI9NXzprP62Vnh1UhAlCyKPN-aFk21IRBcDaJ3xBc37ChN6pg7doNN5XCWOdbdlc/s1600/axn.png" group-title="Sinema",AXN HD
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jEuIgGn.png?v=1.0.0.1" group-title="Movies" group-logo="https://i.imgur.com/OS6EMiX.png?v=1.0.0.1" tvg-id="869" tvg-name="CCM", CCM
+#EXTINF:-1 tvg-logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUlq0J5y7F7UNk2jIp9cO8Ttc5_DYBSvVqVXFOqOVJ5cQjWNYEHZNMUyOZfMQ6aHg8Vn3nxMvc2VwdSmJwtijTIcMV8iZYgHfw9GK_TcxGP4DR5L3yGT1xdcRJcnMnBaE0w1XixNCT6anVDZUd8dNw3VeqnUGKIClU4GtcsWmVhIL_IXmiGnYJ-I2WiCQ/s1600/CCM.png" group-title="Sinema", CCM
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/puD2me6.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="KIX.id" tvg-name="KIX", KIX
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuUY-9LVgc1jExAoWxP6Zddu3kuyY8d-skd9vTI7fQMYVBtrTpMkf-671R5N7HBkxgIc6UADRtCcOMcRlxUhT6iJaYJnj8JQ3wgZO1XJqcsVX8FvjjVhTpA5nS707T3CZf9jjgzyskEpDt2gbGBNk_pS_U005PJRfSMm6O56WBgDy3No85Y35XB8a-UXA/s1600/Kix.png" group-title="Sinema", KIX
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd|Referer=https://www.visionplus.id
 
 
