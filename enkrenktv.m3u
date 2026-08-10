@@ -8,18 +8,8 @@
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="EVENT 02/AGUSTUS/2026",001 ENKRENK TV
-#EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
-#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-
 <=================== EVENT 1 =============================>
-
-
 
 <=================== INDONESIA LOKAL =============================>
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -298,13 +288,11 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ46zYRtdc7p8_3TEnNd01lCMS_QCdJCh3E5I7H15ORN0FeBbdVu-RmKjjrJUjOwg_oelW8xfZJcUqCpDSbYe0XU9UdHiKrzUDr42Av-6IY7hBs_T1n0_hwZ4q35kMXs5Ecq9kN7iaDnHnRWeyKL6-ALKYAUSXEWoNmiqzA2-3DlNLlkoaKvXIMOAjRO8/s1600/TabalongTV.png" group-title="Daerah",Tabalong TV
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSw4B-rO7E9gxU1my4wqNP3tqMIpELARu1PwbjrF7gJyGmnhAKeSjPsfRfgdk958Kc9hMSXkQVjaCE8QFCudI5OxWY4S-lZOvZu7vmz0Hp6CdBKNXBITakPoak2ewGkzOF85Wwvgvxqh2D8dP0XCwZBb4HNT1yj03Gq-rpfW5EMDDylxbOGUor-YJShL4/s1600/Jowo.png" group-title="Daerah",Jowo Channel
-https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo=" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSw4B-rO7E9gxU1my4wqNP3tqMIpELARu1PwbjrF7gJyGmnhAKeSjPsfRfgdk958Kc9hMSXkQVjaCE8QFCudI5OxWY4S-lZOvZu7vmz0Hp6CdBKNXBITakPoak2ewGkzOF85Wwvgvxqh2D8dP0XCwZBb4HNT1yj03Gq-rpfW5EMDDylxbOGUor-YJShL4/s1600/Jowo.png" group-title="Daerah" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id",Jowo Channel
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHM5CSxd5UU7bushxSYLsyJa_M9ZC3eprmGwF8p1EmcehE5EqOGunTDNygVONWSYPbyHYDJzkwFf0GY4AYMg1dQZLQ5HWSR9V7_kF876zqnozWapVlqRwaEUmxHpnSm_Djg_OocVxLNLBLyIe5BH0BPP3slCXQtQqcCrkEA5xOpXkc3pwk0D07viqR9iE/s1600/hanacaraka.png" group-title="Daerah",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
