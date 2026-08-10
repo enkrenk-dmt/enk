@@ -135,7 +135,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUlq0J5y7F7UNk2jIp9cO8Ttc5_DYBSvVqVXFOqOVJ5cQjWNYEHZNMUyOZfMQ6aHg8Vn3nxMvc2VwdSmJwtijTIcMV8iZYgHfw9GK_TcxGP4DR5L3yGT1xdcRJcnMnBaE0w1XixNCT6anVDZUd8dNw3VeqnUGKIClU4GtcsWmVhIL_IXmiGnYJ-I2WiCQ/s1600/CCM.png" group-title="Sinema", CCM
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUlq0J5y7F7UNk2jIp9cO8Ttc5_DYBSvVqVXFOqOVJ5cQjWNYEHZNMUyOZfMQ6aHg8Vn3nxMvc2VwdSmJwtijTIcMV8iZYgHfw9GK_TcxGP4DR5L3yGT1xdcRJcnMnBaE0w1XixNCT6anVDZUd8dNw3VeqnUGKIClU4GtcsWmVhIL_IXmiGnYJ-I2WiCQ/s1600/CCM.png" group-title="Sinema", CCM
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
@@ -263,14 +263,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
 #EXTINF:-1 tvg-id="HITS Movies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrhbbvlJRMDVEv8Dyo98RoYv35LefT0XZiZjgyAROykwI8F-sjvoSVhFbhJ4fn8pNpuNgZQhomptiQNmpU8pFCzuKdEyuBIel27MSJ_qB5SDWtQRWybuzO8IBrtqxkL5bUSXVgjn_GBlfz87tXL6Iew-stV_8dvBL21IZTurDzkSSPHj-WnxVpkIgCeEo/s1600/Hits_movies.png" group-title="Sinema",HitsMovies
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUlq0J5y7F7UNk2jIp9cO8Ttc5_DYBSvVqVXFOqOVJ5cQjWNYEHZNMUyOZfMQ6aHg8Vn3nxMvc2VwdSmJwtijTIcMV8iZYgHfw9GK_TcxGP4DR5L3yGT1xdcRJcnMnBaE0w1XixNCT6anVDZUd8dNw3VeqnUGKIClU4GtcsWmVhIL_IXmiGnYJ-I2WiCQ/s1600/CCM.png" group-title="Sinema", Celestial Classic Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
-https://live-channel4-cdn.visionplus.id/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
-
 
 #EXTINF:-1 group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEqMNNzUFyZHbzD0dZd_1XTbbOlUngxueYN-fbHQBRmCAMHJmVNKK4FyC-zMYB2LeItcS4Bt2Ryz6Pfn1N33Px-27rITtMMPtIfT2_Jkb0jZx1EoniV4HaFtXEJUUyi-gh7nJYfr76ALzOkAQGakmHfXYeSmPJvaQsfH5YY4qCiuTwrdeXWIWA56FGVo/s1600/hollywood.png" ,Action hollywood
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
