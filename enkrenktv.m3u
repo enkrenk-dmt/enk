@@ -238,14 +238,6 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN Asia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWv9Gj9dAwX_yiGJtC7UrCKK9xS6dqJnbZkWTDuPXdyNRiCHnOT07r4UTAdBLk12U0IJNI19obLG5RKP8Se2hNZJSu1gju0ccUdF3dOgbQg9vuee7D2h1God3nr1wJI9NXzprP62Vnh1UhAlCyKPN-aFk21IRBcDaJ3xBc37ChN6pg7doNN5XCWOdbdlc/s1600/axn.png" group-title="Sinema", AXN
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
-
 #EXTINF:-1 group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwLzplln63vNXUIwtWnP4abUmwbE_NKq0wnI0l_q9dP2ZJrxTvzZM4twsxp5Rozt3FirgGQ1um8sRvL4d23JmMQ9sY9MGEiHVA8UtEdRJw7eC2m0U_9KFORrWQHWRmiLMhtSlVtfeUdAHhbQzhacE6cuoYr5zpgUXzDyRImWe0Ddoe0jS55WriajZzCeg/s1600/moviedome.png" ,Movie Dome Family
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
 
