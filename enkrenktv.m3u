@@ -21,7 +21,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lit
 #EXTVLCOPT:http-origin=https://20.detik.com/
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzUsJSV2X4g19YJr3IRigTx4Y4HExlGAAluGudQ63eSfkqZASM1EdM-q_xkhU6G5bfEtelpw0TbvLT4uRDxlJGagKh2cNlyfW9pLgK5SXAPhqzgmeKg_Jdo7-OSHez0dptuOno0X6udQtHxRNdzvfLInM3oM93FIW5zWbZiqrvaEfR-bnQmEB6rq_dNIo/s300/TRAN7.png" group-title="Indonesia Lokal", Trans 7
 #EXTVLCOPT:http-origin=https://20.detik.com/
@@ -29,8 +30,6 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #https://video.detik.com/20detik/smil:20detik-live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TRANS7 FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzUsJSV2X4g19YJr3IRigTx4Y4HExlGAAluGudQ63eSfkqZASM1EdM-q_xkhU6G5bfEtelpw0TbvLT4uRDxlJGagKh2cNlyfW9pLgK5SXAPhqzgmeKg_Jdo7-OSHez0dptuOno0X6udQtHxRNdzvfLInM3oM93FIW5zWbZiqrvaEfR-bnQmEB6rq_dNIo/s300/TRAN7.png" group-title="Indonesia Lokal", Trans 7
-https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/9.ts
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXvx5zcfqvlwWh02K6ugj0zp0oElunKj8KZKsWEcbjRvKolKh5ervVyKA6E_1WWmWLJfCD-qNKvBVM1mhlJajyOSdd3lSQy5XoC7NtRzkOKrJdaYLmNZKcnRAQjTW02QeUAYApb88D0hau1jpA7LyL-UMwV0nxDg9dtZ6xY3gaAaKPQwcKSv4Zs2Ho2w/s1600/antv.png" group-title="Indonesia Lokal",ANTV
