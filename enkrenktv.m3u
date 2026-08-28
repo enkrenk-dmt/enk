@@ -44,22 +44,22 @@ https://tvratu.my.id/vid/index.m3u8?id=782&type=hls
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4DJSys6sAtggJhotDbH9AgUEeBN9GiWCrL72owVm3mjTM_aMjX3WH_ud5tg_N27igSZzuRKSOjbh6VnC2FCqZoQGkTyjVsIa9J-WmA59s3jU-MHDyawhGz5vsNlE1UYNYc7caTjQZqnHzKsbOUzrzkNsiKmtBodWh6SbtsEkwLOWCuMKDY9V-ahm_6vQ/s1600/SCTV.png" group-title="Indonesia Lokal",SCTV
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4DJSys6sAtggJhotDbH9AgUEeBN9GiWCrL72owVm3mjTM_aMjX3WH_ud5tg_N27igSZzuRKSOjbh6VnC2FCqZoQGkTyjVsIa9J-WmA59s3jU-MHDyawhGz5vsNlE1UYNYc7caTjQZqnHzKsbOUzrzkNsiKmtBodWh6SbtsEkwLOWCuMKDY9V-ahm_6vQ/s1600/SCTV.png" group-title="Indonesia Lokal",SCTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+#http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOVhHYO36e1moRqJMwjxvi5d-8opXnzzMf-iP9HZlhcYSfuOPT7DpePe0Y2sbrdFv2gFC47Vj858g0Fk9qx_K9UfEOr-VgWUEKzj8XBblH8bNsqViqwJZ5fBFBG1u8DVUIefr8XpHYCbVWxIiBBeGyBo7jM9H012K9SpEkz4i1cD8Z7QW41e3uOMD8fW8/s300/indosiar.png" group-title="Indonesia Lokal",INDOSIAR
-#https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOVhHYO36e1moRqJMwjxvi5d-8opXnzzMf-iP9HZlhcYSfuOPT7DpePe0Y2sbrdFv2gFC47Vj858g0Fk9qx_K9UfEOr-VgWUEKzj8XBblH8bNsqViqwJZ5fBFBG1u8DVUIefr8XpHYCbVWxIiBBeGyBo7jM9H012K9SpEkz4i1cD8Z7QW41e3uOMD8fW8/s300/indosiar.png" group-title="Indonesia Lokal",INDOSIAR
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+#http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_FEh_3CYNqE0jM-ryo05C7SG71hyphenhyphenSNrNhl9b55Z9Pgd2-BuS1EC6UGbArbRHv72H7SsWzrkLTitf5tjIiOFRKnqdZSYhv_nJPrIVhFDwiFCcj8tmcVf2w9dTq40HqQpCVVRnHqjNO_eFOiK7E223zEpM9mEIK5mohRV1dCWpWklkapBW-1n-ijOME9Lo/s1600/GTV.png" group-title="Indonesia Lokal",GTV
