@@ -22,13 +22,14 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=6&type=fitnah
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+https://video.detik.com/20detik/smil:20detik-live.smil/chunklist_w1512764136_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzUsJSV2X4g19YJr3IRigTx4Y4HExlGAAluGudQ63eSfkqZASM1EdM-q_xkhU6G5bfEtelpw0TbvLT4uRDxlJGagKh2cNlyfW9pLgK5SXAPhqzgmeKg_Jdo7-OSHez0dptuOno0X6udQtHxRNdzvfLInM3oM93FIW5zWbZiqrvaEfR-bnQmEB6rq_dNIo/s300/TRAN7.png" group-title="Indonesia Lokal", Trans 7
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.eu-north-1a.cf.dmcdn.net/sec2(njtiqKqxk52ivswQ4NHnyzZof4hn-w9yNYOOYVvfp0oM0Dg2oiFWA5bRiEOIRzc9x-4SLybNplGDPNIRYXFlp3cQeHv9rlCn3OmYF39bxFiPKGuZCQlIOXsNxFljVnqE)/dm/3/x8qckyq/d/live-720.m3u8
+#https://live.eu-north-1a.cf.dmcdn.net/sec2(njtiqKqxk52ivswQ4NHnyzZof4hn-w9yNYOOYVvfp0oM0Dg2oiFWA5bRiEOIRzc9x-4SLybNplGDPNIRYXFlp3cQeHv9rlCn3OmYF39bxFiPKGuZCQlIOXsNxFljVnqE)/dm/3/x8qckyq/d/live-720.m3u8
+https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w2135955022_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioXvx5zcfqvlwWh02K6ugj0zp0oElunKj8KZKsWEcbjRvKolKh5ervVyKA6E_1WWmWLJfCD-qNKvBVM1mhlJajyOSdd3lSQy5XoC7NtRzkOKrJdaYLmNZKcnRAQjTW02QeUAYApb88D0hau1jpA7LyL-UMwV0nxDg9dtZ6xY3gaAaKPQwcKSv4Zs2Ho2w/s1600/antv.png" group-title="Indonesia Lokal", ANTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -646,15 +647,10 @@ https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
 https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
 
 #EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDZLr9D3MKrdaab5flj4Zi5Kt9FTX2oeWwSf4SMQKiI_dr6DFFEdDJLiZUXHggI5SVSsEAjqSi-PuwWnM1eEd7Epx7e-s9jxv8C8VdiJcuz0LPM1K23rAmDgCVEFDve7KAJ0vu2q3nKaNUgQoBxjEL5KI0vLmKoPeqlxbRmtsFslAcXFMLSCep2d-Y5Zs/s1600/makkah.png" group-title="Religi", Live Mekah 🕋 ☪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/01.m3u8
 
 #EXTINF:-1   tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnGEiddBHwnUcJDTO6jTJbAQDxyC6TO0fuozDIpq4bPJ4Zd0jiLIV-LfwEInFg1PF1JEuySQRfMO07qNPmmtNCalCYd5JyiCPoOIDk_uFSr6xbFXXDuEpVn8tL0b5KKG7HccW4_aAmBYP2TENTj4B9P-7FMzThknxrcIdqPbEmTvYHtFgUzPc-QQztHGA/s1600/madinah.png" group-title="Religi", Live Madinah ☪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd
-
+https://op-flashcon-digdayahd-1.dens.tv/h/h38/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jjj0G3Tr8NDIVLdrGKN9b1ovMex17VY7CSnsBIMl3O5rMXo2JrzJ4EwkkQ6AWEE7daVhtTINGpr__PHOpV6uJFIcfvSiYMHjgEE9ZXz4Rpqcij40nURd95YVksfsHlFe0Vp66NEGRz4bvW7RIthvCNlcFGVEQnqxJ7HuXEoC7U3aUaj6SzuP_yQi4Vg/s1600/tv10.png" group-title="Religi" ,TV 10 HD
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
@@ -713,7 +709,7 @@ https://stream-backup.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/index.m3
 https://stream-backup.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", Sumberadi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", Ambulung
 https://stream-backup.banjarbarukota.go.id/pertigaan_ambulung/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
