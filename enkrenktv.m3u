@@ -55,6 +55,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lit
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-_pOrXMEEFH1cFwYB9V_Wc2Gu74EOe3My59gnQ_a2OtcFDMQo5AScj4mZTLzwjLiT6YjYwGWJOENbzkbOwuSkGzdpNgT9oQmBkIQ6L0POlMNTJKWUfIKflxDtIdP93LV4SZc3qZCB04uo94BGOcokNd6S4FzTZymfz2CfaJJ673P0-pbgI6ICAqONMA/s1600/transtv_logo.png" group-title="Indonesia Lokal", Trans TV HD
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
@@ -167,8 +168,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w1288696532_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODkwMTU5OTkxMzUmd293emF0b2tlbmhhc2g9THo1NncwUGpsWmhlLUFWQ1ZIOUo2dGZLbzZrSWUtMVF5ZUY5ZkFuaTFiTT0=.m3u8
-
+https://live.cnnindonesia.com/cnntv/smil:cnnindonesia/chunklist_w781477127_b384000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEgO33gnyA2wAZKF02nRQ6JEZoKzUK1sur49f60iMlbjrMCLG0SPO5PNlCOiS7qn2_NtfugK63QxV5s4aTdLKZL8-vRf_gZoPD3iLwuaGG7FgvJNzRXFvsiSrchDBIaq0xALjVeMsQzlcRWCqQLI_PGaVZ6LNV9Ec9rNOEiwilYHFiE80Q_ZzAesfZm7I/s1600/CNBC.png" group-title="Berita", CNBC Indonesia
