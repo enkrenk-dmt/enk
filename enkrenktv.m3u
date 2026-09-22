@@ -182,7 +182,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWv9Gj9dAwX_yiGJtC7UrCKK9xS6dqJnbZkWTDuPXdyNRiCHnOT07r4UTAdBLk12U0IJNI19obLG5RKP8Se2hNZJSu1gju0ccUdF3dOgbQg9vuee7D2h1God3nr1wJI9NXzprP62Vnh1UhAlCyKPN-aFk21IRBcDaJ3xBc37ChN6pg7doNN5XCWOdbdlc/s1600/axn.png" group-title="Sinema",AXN HD
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd|Referer=https://www.visionplus.id
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
@@ -213,14 +213,14 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLvIYFyNuB6npxoL-mHfqa28Z6N5e-GLJNCY6VnuJV3btxBt11BcnZQnE0jEmpyur4gxn-DM0eGQRWF8-O_LFsV9ptgwx79_LFT1zMQMj_fz526xnIPEHF1zL4AX0fi8f2eYNs2aLPi8VcOren7HlfTHHTcWoSmAWBVsuwg71MlKCvHyfVifiS2kapE9g/s1600/Galaxy.png" group-title="Sinema",GALAXY
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimKRapS1uk16AfsjB8gfA0FN57fRPbwb5dIPqR_Bi5RrwURTsblQXFSrozXg6BwwvylA0QWYvu5jdFB-0_AD9p1-qBXNZv5MOEItPfK1UxlP99iHzXccHIyc7aKWSkjpUQH_vbHb0lC2-WHw3niGImYfiFlZKuVmwSQWrknaPk3NU6NEv8qZ4Q8Oix0BA/s1600/Galaxy_Premium.png" group-title="Sinema",GALAXY PREMIUM
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -235,13 +235,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUK5kZpNYrXg8e_jZBbWEiA878LbHVC5WujMtst5h2jk8AvHS9VV-G4Sra0WDK-f53e852ZQQK2KAWKLuCWtD051MpuFh0LZi53wpTgNjS0mxOFvMow9FBMCHerLkS7Sn5r1DL_zuQeNFsjirKwLRjLyHvVuGygPqcKL5cuZ7t6wBGiOOfucn9FlEbV2U/s1600/eniques.png" group-title="Sinema",UNIQUES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -251,7 +251,7 @@ https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/ts-eu-w1-n2/
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Hits" group-title="HBO Group" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb3w5_DLrpJZD1zYt4Y4nFePkANzkvwUm9xO_rhMuCkhLZdP0q0Q_IPof_3KPYMz8U5OGz73deDGBzG0qa8OBcLzWC5ysi1jWfiuQtS44aXGO_0cWxmEJwCpf4VwvZpUh0BubYpOlTMFJcV-HRCDG-9dp0fjRabqDSJZrAEyK2PiOLgh2kQgz7hFzgEdQ/s1600/HBO_Hits.png" group-title="Sinema",HBO Hits
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="414.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig0ACq6jg0OKWmyznFHJvbmCw0m85aBErsZUYAqxbw-nPWPtxEXXxX0LBe2i7RHg0wq8wSG6v06qdEiLWKRsg5awW0yeTNhXiJj0STcxraVIRYGp-G0RGwB1mWfqmP009P6P1AAM-DGDcjnyp3QjLzoZTh7zj5nmVW9nPVkcXhar1V6AiS8lyN8K_jN7w/s1600/HBO_Family.png" group-title="Sinema",HBO Family
@@ -260,7 +260,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 #https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwL06BtJ8NBf28vZ9svh-Mu1eyyY9XBTk-i6S0XYEi2rhiVoIlK74UsdPS_2mB-em1mrvzDvDDIDvCRoH0dEegmYWAydi7v8viT_jt3sY6wX34Zb1nHo6Eg4wPg0XUPtAQgGQJnSq5C2rUhyHZEKsIpc7oS6uFec5yF5NEiEo77p-j6KiIEeDnD7gqVOs/s1600/HBO_Signature.png" group-title="Sinema",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -269,8 +269,15 @@ https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 #https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqupQKZJ-hzdkrq6cgLIj5U65FOdIeSNrUezFWSyJ3xNiLpWvXQul9vebnZnqVU9IHnfGwLZ0dLLghLxayvbjVTo7mSS349WdygvcJqlAFDWkLThNFKNjSshnJJsL68zI4HIMAdTN_nZix2qWUuJYNOrthoOghoyMYe-8wwglGDUEQWkNTc_7BpUDQpF0/s1600/HBO.png" group-title="Sinema",HBO
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4uFLIGa4MkDshIra3wRqxr7RyZ6tOKdRZ5hVQdg4QiR_P91_VVEf9gq06uhvqW4MPRjNzGpJsodaV1jlpCFM7WZ3-wSvZin34vDNEQTjS_Pvoq6mWflF5fvb6_gmKMNdGmgqWAQkSPXb6fd95czW2LgTzcMPQvk-qqg73sgs1UAdatL3-SijqPuEDS4/s1600/cinemax.png" group-title="Sinema",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -279,15 +286,26 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 #https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
-https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqupQKZJ-hzdkrq6cgLIj5U65FOdIeSNrUezFWSyJ3xNiLpWvXQul9vebnZnqVU9IHnfGwLZ0dLLghLxayvbjVTo7mSS349WdygvcJqlAFDWkLThNFKNjSshnJJsL68zI4HIMAdTN_nZix2qWUuJYNOrthoOghoyMYe-8wwglGDUEQWkNTc_7BpUDQpF0/s1600/HBO.png" group-title="Sinema",HBO
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
+<================================HBO GROUB=====================================>
+#EXTINF:-1 tvg-id="HBO" group-title="Sinema" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqupQKZJ-hzdkrq6cgLIj5U65FOdIeSNrUezFWSyJ3xNiLpWvXQul9vebnZnqVU9IHnfGwLZ0dLLghLxayvbjVTo7mSS349WdygvcJqlAFDWkLThNFKNjSshnJJsL68zI4HIMAdTN_nZix2qWUuJYNOrthoOghoyMYe-8wwglGDUEQWkNTc_7BpUDQpF0/s1600/HBO.png",HBO 2
+http://185.227.34.179:8080/hbo-2-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO" group-title="Sinema" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqupQKZJ-hzdkrq6cgLIj5U65FOdIeSNrUezFWSyJ3xNiLpWvXQul9vebnZnqVU9IHnfGwLZ0dLLghLxayvbjVTo7mSS349WdygvcJqlAFDWkLThNFKNjSshnJJsL68zI4HIMAdTN_nZix2qWUuJYNOrthoOghoyMYe-8wwglGDUEQWkNTc_7BpUDQpF0/s1600/HBO.png",HBO 3
+http://185.227.34.179:8080/hbo-3-hd/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO" group-title="Sinema" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqupQKZJ-hzdkrq6cgLIj5U65FOdIeSNrUezFWSyJ3xNiLpWvXQul9vebnZnqVU9IHnfGwLZ0dLLghLxayvbjVTo7mSS349WdygvcJqlAFDWkLThNFKNjSshnJJsL68zI4HIMAdTN_nZix2qWUuJYNOrthoOghoyMYe-8wwglGDUEQWkNTc_7BpUDQpF0/s1600/HBO.png",HBO
+http://141.94.193.53/HBO_HD/index.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#EXTINF:-1 tvg-id="CINEMAX" group-title="Sinema" tvg-url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4uFLIGa4MkDshIra3wRqxr7RyZ6tOKdRZ5hVQdg4QiR_P91_VVEf9gq06uhvqW4MPRjNzGpJsodaV1jlpCFM7WZ3-wSvZin34vDNEQTjS_Pvoq6mWflF5fvb6_gmKMNdGmgqWAQkSPXb6fd95czW2LgTzcMPQvk-qqg73sgs1UAdatL3-SijqPuEDS4/s1600/cinemax.png",Cinemax
+http://141.94.193.53/Cinemax_HD/index.m3u8
+
 
 #EXTINF:-1 group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwLzplln63vNXUIwtWnP4abUmwbE_NKq0wnI0l_q9dP2ZJrxTvzZM4twsxp5Rozt3FirgGQ1um8sRvL4d23JmMQ9sY9MGEiHVA8UtEdRJw7eC2m0U_9KFORrWQHWRmiLMhtSlVtfeUdAHhbQzhacE6cuoYr5zpgUXzDyRImWe0Ddoe0jS55WriajZzCeg/s1600/moviedome.png" ,Movie Dome Family
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
@@ -301,12 +319,12 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyUPc-_AfBORfQxMYl8tKZnzGeN9LX7fTPkW-rUvu820So3uiT9eX2DY8CrMsPW3kcBnIUPANN1uLyBHEj48OCfbXJ6usxVUiViWrsQfoYwa4sC3iN5S-BBndfQt5vsdzN0qP2Zkw3q5Z6yLCxI7FqKIc20fLffU_Ccgsh9Bk9jyEJY7LnXZWBnGYovuE/s1600/thrill.png" group-title="Sinema", THRILL
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
 #EXTINF:-1 tvg-id="HITS Movies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrhbbvlJRMDVEv8Dyo98RoYv35LefT0XZiZjgyAROykwI8F-sjvoSVhFbhJ4fn8pNpuNgZQhomptiQNmpU8pFCzuKdEyuBIel27MSJ_qB5SDWtQRWybuzO8IBrtqxkL5bUSXVgjn_GBlfz87tXL6Iew-stV_8dvBL21IZTurDzkSSPHj-WnxVpkIgCeEo/s1600/Hits_movies.png" group-title="Sinema",HitsMovies
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd 
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd 
 
 #EXTINF:-1 group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEqMNNzUFyZHbzD0dZd_1XTbbOlUngxueYN-fbHQBRmCAMHJmVNKK4FyC-zMYB2LeItcS4Bt2Ryz6Pfn1N33Px-27rITtMMPtIfT2_Jkb0jZx1EoniV4HaFtXEJUUyi-gh7nJYfr76ALzOkAQGakmHfXYeSmPJvaQsfH5YY4qCiuTwrdeXWIWA56FGVo/s1600/hollywood.png" ,Action hollywood
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
