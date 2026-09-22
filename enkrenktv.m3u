@@ -303,7 +303,7 @@ http://141.94.193.53/HBO_HD/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
-#EXTINF:-1 tvg-id="CINEMAX" group-title="Sinema" tvg-url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4uFLIGa4MkDshIra3wRqxr7RyZ6tOKdRZ5hVQdg4QiR_P91_VVEf9gq06uhvqW4MPRjNzGpJsodaV1jlpCFM7WZ3-wSvZin34vDNEQTjS_Pvoq6mWflF5fvb6_gmKMNdGmgqWAQkSPXb6fd95czW2LgTzcMPQvk-qqg73sgs1UAdatL3-SijqPuEDS4/s1600/cinemax.png",Cinemax
+#EXTINF:-1 tvg-id="CINEMAX" group-title="Sinema" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4uFLIGa4MkDshIra3wRqxr7RyZ6tOKdRZ5hVQdg4QiR_P91_VVEf9gq06uhvqW4MPRjNzGpJsodaV1jlpCFM7WZ3-wSvZin34vDNEQTjS_Pvoq6mWflF5fvb6_gmKMNdGmgqWAQkSPXb6fd95czW2LgTzcMPQvk-qqg73sgs1UAdatL3-SijqPuEDS4/s1600/cinemax.png",Cinemax
 http://141.94.193.53/Cinemax_HD/index.m3u8
 
 
