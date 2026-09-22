@@ -55,7 +55,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lit
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-_pOrXMEEFH1cFwYB9V_Wc2Gu74EOe3My59gnQ_a2OtcFDMQo5AScj4mZTLzwjLiT6YjYwGWJOENbzkbOwuSkGzdpNgT9oQmBkIQ6L0POlMNTJKWUfIKflxDtIdP93LV4SZc3qZCB04uo94BGOcokNd6S4FzTZymfz2CfaJJ673P0-pbgI6ICAqONMA/s1600/transtv_logo.png" group-title="Indonesia Lokal", Trans TV HD
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
@@ -167,12 +166,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-https://live.cnnindonesia.com/cnntv/smil:cnnindonesia/chunklist_w781477127_b384000_sleng.m3u8
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEgO33gnyA2wAZKF02nRQ6JEZoKzUK1sur49f60iMlbjrMCLG0SPO5PNlCOiS7qn2_NtfugK63QxV5s4aTdLKZL8-vRf_gZoPD3iLwuaGG7FgvJNzRXFvsiSrchDBIaq0xALjVeMsQzlcRWCqQLI_PGaVZ6LNV9Ec9rNOEiwilYHFiE80Q_ZzAesfZm7I/s1600/CNBC.png" group-title="Berita", CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1634510766_b280000_sleng.m3u8
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiZoh83KauPaeW6-wJTKfy4esyFrqfjO4qcuoSAFib_09aC4H3BGzYCK1XCcE1ge8dIsJVf3hE4seNjnRu1qwSIi9dqZbzA69QpmRlp7qaW0hmc7ICX5pUNOxGrSNVa2gfpibhYhREjFxozdLAv5IODJ-Mad6UGyY3-3wVsGs8BZujRYjnpklLxsAfdRE/s1600/TVRI.png" group-title="Berita",TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
