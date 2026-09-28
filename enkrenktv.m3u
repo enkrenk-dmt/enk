@@ -10,32 +10,10 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 <=================== EVENT 1 =============================>
-#EXTINF:-1 group-title="EVENT 027/SEPTEMBER/2026" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB Indonesia vs Thailand
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
-
-#EXTINF:-1 group-title="EVENT 027/SEPTEMBER/2026" tvg-logo="https://shorter.me/32-EQ", 14:00 WIB India vs Vietnam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel33.m3u8
-
-#EXTINF:-1 group-title="EVENT 027/SEPTEMBER/2026" tvg-logo="https://shorter.me/32-EQ", 17:00 WIB China vs Taiwan
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
-
-#EXTINF:-1 group-title="EVENT 027/SEPTEMBER/2026" tvg-logo="https://shorter.me/32-EQ", 17:20 WIB Jepang vs Uzbekistan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel33.m3u8
-#EXTINF:-1 group-title="EVENT 027/SEPTEMBER/2026" tvg-logo="https://shorter.me/yKOXu", 14:00 WIB Kamboja vs Myanmar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel5.m3u8
-
-#EXTINF:-1 group-title="EVENT 027/SEPTEMBER/2026" tvg-logo="https://shorter.me/yKOXu", 17:00 WIB Hong Kong vs Laos
+#EXTINF:-1 group-title="EVENT 028/SEPTEMBER/2026" tvg-logo="https://shorter.me/yKOXu", 18:30 WIB Indonesia vs Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 https://live2.zundrixmediapipeline.com/live/channel1.m3u8
-
-
 
 
 
