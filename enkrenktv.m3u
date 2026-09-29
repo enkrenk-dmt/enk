@@ -153,12 +153,12 @@ http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_FEh_3CYNqE0jM-ryo05C7SG71hyphenhyphenSNrNhl9b55Z9Pgd2-BuS1EC6UGbArbRHv72H7SsWzrkLTitf5tjIiOFRKnqdZSYhv_nJPrIVhFDwiFCcj8tmcVf2w9dTq40HqQpCVVRnHqjNO_eFOiK7E223zEpM9mEIK5mohRV1dCWpWklkapBW-1n-ijOME9Lo/s1600/GTV.png" group-title="Indonesia Lokal",GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3bhQFWbG3sWoeFX5QL3jRFa0nBoaQepoN7ckCleZz7XogoXJ8V8q8RraEgsxo3RNXm7M_iXpnJ8TzYb_VAx5u2kb6AcBObMmb4OQo4SwVUCYmmhvhS82rqZsycVeFye0mnjb73TvSZFt6Lz5w-KuKTM4R89rGMUoR5uzKabL7KYSL_1pYeuGJTrgm90s/s1600/MNC%20TV.png" group-title="Indonesia Lokal",MNC TV HD
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -173,7 +173,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFNtuC54kylYhl1g5uaMtvEcT7-1IrkTnfyTZCb9DZ8LzjvbWJ63x2Q2meM4P8KctpfvDNP3deqpCrYDxPYn0SD51RcXvZt75JcpK9zpITt4nXOKyJ8Wm5-I3b5SRu_Fpzw1DSvI-zduRSvyt5P_PTvz8hyCHpQF-2m2Rh-fPo7xC6M2Q_Bk0Cw9HCRdc/s1600/MDTV.png" group-title="Indonesia Lokal",MDTV
@@ -200,7 +200,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 group-title="Berita" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2U_cjBk1NPB-xpmIQI3PXHZKB0u7iazi0-NdIzDQkhjoYESmfVsnC-UbcN4khrjXlISXqKnVMHJumsaCDdcV5BDSAeFsoncFimuqGxPUfiQk7kvdSkY91TuulvnZa3_22w7IvkCwlMfq9YDMN4g0bf88B7F-gyV5IHiJVYh6aNmKoOGM1EgV6wlEAoUg/s1600/INEWS.png",iNews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 #EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-IacHQmUwVtjKY36e7siqYlFQkABdf-OoEBJAsda3Y2J0kQCtRrw8Hdw36OsCzM-O1bPD3QQxXSyPyjew_YQtka-_5CnRcCaJOx7UDdopNLFJJ45BOJ6MFKQh7DEi6yqvJuPsXNLW-t0XPQH-23RXXh25P6o3ZGn1XwOoOu52T-6LVVwcMlrxy1eMm78/s1600/KOMPAS.png" group-title="Berita",KOMPAS TV
 https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
