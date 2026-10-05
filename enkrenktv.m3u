@@ -8,17 +8,17 @@
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
+#https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 <=================== EVENT 1 =============================>
-#EXTINF:-1 group-title="FIFA ASEAN CUP" tvg-logo="https://shorter.me/yKOXu", 16:00 WIB Malaysia vs Vietnam
+#EXTINF:-1 group-title="EVENT 05/OKTOBER/2026" tvg-logo="https://shorter.me/yKOXu", 20:00 WIB Indonesia vs Thailand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1 group-title="FIFA ASEAN CUP" tvg-logo="https://shorter.me/yKOXu", 20:00 WIB Indonesia vs Thailand
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+#EXTINF:-1 group-title="EVENT 05/OKTOBER/2026" tvg-logo="https://shorter.me/yKOXu", 20:00 WIB Indonesia vs Thailand
+https://pul-tenm.gkykp.com/live/hd-en-1-4652619.m3u8?txSecret=7fb7dc7d245013cc51dfcca3fbca4600&txTime=6AC4ED10
+#EXTINF:-1 group-title="EVENT 05/OKTOBER/2026" tvg-logo="https://shorter.me/yKOXu", 20:00 WIB Indonesia vs Thailand
+https://pull.streamviewk7x.click/livesp/sd-6MxjJn9qRpH5VmLoog_hd.m3u8?txSecret=26b8e5673c133fe00c34082eeb00aeee&txTime=6AC4F0D0
 
 <=================== INDONESIA LOKAL =============================>
 
