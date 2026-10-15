@@ -11,12 +11,12 @@
 #https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdcaqkiKwUGznGHI2gtk_eMurfAOQUajsDFw_QsxsySYphColiSdaudVRU1F_x-PLf9KzZRCrFyzfnrp7C1B_P08ft5uyXUsYaEqiKczgrpTAO5wsOhDCbcS5T22A5hGKfBHqXmPAOb2Rbm0ay-n_iuizGFcrBMHQuQoqUGTeFWwHqn_u5iBhr7mcXCGI/s1600/gp.png" group-title="event 11/10/2026",GP Mandalika
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
+#EXTINF:-1 group-title="DENMARK OPEN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_KS28gUCltOUap4i057vrCoJovrWjRSyYdii6BuzSBxUTbbYUzLi-eJDaYNUoU9nWfvUPYm3-o63KTD5ex5B5HiM9cFtCOQLPzCvMqciZnxGFhrKPCQaTo8AnaVmIJr6hIWTq3jIAv5Y3u3vCIMYPntAniIu6Sr9gLvsZYll7irD3H30bHU76LYfcTZM/s1600/Denmark-Open_pos.png", 14:00 WIB VICTOR Denmark Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel61.m3u8
+#EXTINF:-1 group-title="DENMARK OPEN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_KS28gUCltOUap4i057vrCoJovrWjRSyYdii6BuzSBxUTbbYUzLi-eJDaYNUoU9nWfvUPYm3-o63KTD5ex5B5HiM9cFtCOQLPzCvMqciZnxGFhrKPCQaTo8AnaVmIJr6hIWTq3jIAv5Y3u3vCIMYPntAniIu6Sr9gLvsZYll7irD3H30bHU76LYfcTZM/s1600/Denmark-Open_pos.png", 14:00 WIB VICTOR Denmark Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel62.m3u8
+#EXTINF:-1 group-title="DENMARK OPEN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_KS28gUCltOUap4i057vrCoJovrWjRSyYdii6BuzSBxUTbbYUzLi-eJDaYNUoU9nWfvUPYm3-o63KTD5ex5B5HiM9cFtCOQLPzCvMqciZnxGFhrKPCQaTo8AnaVmIJr6hIWTq3jIAv5Y3u3vCIMYPntAniIu6Sr9gLvsZYll7irD3H30bHU76LYfcTZM/s1600/Denmark-Open_pos.png", 14:00 WIB VICTOR Denmark Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel63.m3u8
 <=================== INDONESIA LOKAL =============================>
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -173,25 +173,25 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUlq0J5y7F7UNk2jIp9cO8Ttc5_DYBSvVqVXFOqOVJ5cQjWNYEHZNMUyOZfMQ6aHg8Vn3nxMvc2VwdSmJwtijTIcMV8iZYgHfw9GK_TcxGP4DR5L3yGT1xdcRJcnMnBaE0w1XixNCT6anVDZUd8dNw3VeqnUGKIClU4GtcsWmVhIL_IXmiGnYJ-I2WiCQ/s1600/CCM.png" group-title="Sinema", CCM
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd|Referer=https://www.visionplus.id
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuUY-9LVgc1jExAoWxP6Zddu3kuyY8d-skd9vTI7fQMYVBtrTpMkf-671R5N7HBkxgIc6UADRtCcOMcRlxUhT6iJaYJnj8JQ3wgZO1XJqcsVX8FvjjVhTpA5nS707T3CZf9jjgzyskEpDt2gbGBNk_pS_U005PJRfSMm6O56WBgDy3No85Y35XB8a-UXA/s1600/Kix.png" group-title="Sinema", KIX
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd|Referer=https://www.visionplus.id
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd|Referer=https://www.visionplus.id
 
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSY03z9ezoY0gUeVpsW0qecDhnGOJtzDulEIG43NheatZ9aX-Sx0E9hhtge8gEGKnjFOA1D_dLeRfm-Qx_T4Ffchc-KiE9HAAzyIrpdW4c9bBNyCoVzFdpXSjz1IpQ2SkLTXKeuJQrJUD9mS1qusrAmrHKrgKoFlGtRyeKDfwK6ghx3j4X3g88Xt5GxCU/s1600/mce.png" group-title="Sinema",MyCinema 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
+#https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpOZyHqTGIp6XE7iRaIRe2IrUiuDPZyc4FdWG-UwDV6c_HHOUrVnzo23OptwMhYyuzlDRPaWEVQg2X7mTjcwUB_Ad3JwetsgNtnqxBPJv1Hw-0oWOwxqLoM7o7DQbN-FCuwWdhwypcdrz0yEEYH2aysWx761aCqRHvSUDDN2sk82Rpo3dznmu71FdlW4/s1600/imc.png" group-title="Sinema",IMC
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -213,7 +213,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4wWZapoEPdHZ5qq0EaVIkkMSFty7U4hmFjccEVxmEART0Kfgp5RPJuPkyTMPml4QaGpWcFBdfOlmD7ZUIzIh1lKNb6_gzTSE43XqvWq345qCU1HAgW7boCEvoGlvdlkaHY0CGb_spfDAXofAtuYlmW9wH0lSEONk9VWsFHW2IwMcR90LreNVmyYR4mzc/s1600/Rock_Action.png" group-title="Sinema",ROCK ACTION
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRWtrOv1P_R-nmruiUf7N9QHt00E3-Bc_X4g7sP-ziYvkIBUR0MwyxGNZNif_Y-eX93BP6t5k_68bvVniL59SckUMpHzKBPTe3SN2FHlTZMtcFU6FkLvRyxoXFEfrgBgKgQT4x5zr4zESEaE1huWoa1ayjzUeeIJKRp8JKpqBzsGZB-ER_7SHOzizHE2A/s1600/superrix.png" group-title="Sinema",SUPERRIX HD
