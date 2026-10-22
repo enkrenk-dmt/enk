@@ -141,13 +141,23 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 group-title="Berita" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnVDKywGw6jqTSF9vPWMqpwwqW1kRdRdm-WejB_clFPm_Vn3zGFSEtIcfj0qILR-OGdm2qoaD2X4QoL5xrJ0WLHllzlH9ggjD0sVqTK7PTnBKO-6UDgU9OU6kLxoFcv0WOQHz7Cu74JtkG-T8bMt_MO90KMdjJzUsCAaNMq-UH6XAtoF7BZI2TCzNYFt4/s1600/TVONE.png",TV ONE
 http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
-#EXTINF:-1 group-title="Berita" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2U_cjBk1NPB-xpmIQI3PXHZKB0u7iazi0-NdIzDQkhjoYESmfVsnC-UbcN4khrjXlISXqKnVMHJumsaCDdcV5BDSAeFsoncFimuqGxPUfiQk7kvdSkY91TuulvnZa3_22w7IvkCwlMfq9YDMN4g0bf88B7F-gyV5IHiJVYh6aNmKoOGM1EgV6wlEAoUg/s1600/INEWS.png",iNews
+
+#EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-IacHQmUwVtjKY36e7siqYlFQkABdf-OoEBJAsda3Y2J0kQCtRrw8Hdw36OsCzM-O1bPD3QQxXSyPyjew_YQtka-_5CnRcCaJOx7UDdopNLFJJ45BOJ6MFKQh7DEi6yqvJuPsXNLW-t0XPQH-23RXXh25P6o3ZGn1XwOoOu52T-6LVVwcMlrxy1eMm78/s1600/KOMPAS.png" group-title="Channel Indonesia",KOMPAS TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
+
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2U_cjBk1NPB-xpmIQI3PXHZKB0u7iazi0-NdIzDQkhjoYESmfVsnC-UbcN4khrjXlISXqKnVMHJumsaCDdcV5BDSAeFsoncFimuqGxPUfiQk7kvdSkY91TuulvnZa3_22w7IvkCwlMfq9YDMN4g0bf88B7F-gyV5IHiJVYh6aNmKoOGM1EgV6wlEAoUg/s1600/INEWS.png" group-title="Channel Indonesia", iNews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=4
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
-#EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-IacHQmUwVtjKY36e7siqYlFQkABdf-OoEBJAsda3Y2J0kQCtRrw8Hdw36OsCzM-O1bPD3QQxXSyPyjew_YQtka-_5CnRcCaJOx7UDdopNLFJJ45BOJ6MFKQh7DEi6yqvJuPsXNLW-t0XPQH-23RXXh25P6o3ZGn1XwOoOu52T-6LVVwcMlrxy1eMm78/s1600/KOMPAS.png" group-title="Berita",KOMPAS TV
-https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFK-aPhAuapuR7HZncuxj0yF-KoqDspPJ364web_WzQMwGDNfo1tVyp72uamrAfYf8rQ0Q9WUD8NIKqOUGs5BLS3Kvxrj3iU54B4jASjiszUuvjcLZLj9FDYdZQ34TN1Rly6n0Lz9088m-wkTzRBfAUNw4lq-UprD9Rk2cKxDUbcUvxDe-4l7f682z37Q/s1600/METRO.png" group-title="Berita",Metro TV
