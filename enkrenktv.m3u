@@ -93,6 +93,16 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 
+EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOVhHYO36e1moRqJMwjxvi5d-8opXnzzMf-iP9HZlhcYSfuOPT7DpePe0Y2sbrdFv2gFC47Vj858g0Fk9qx_K9UfEOr-VgWUEKzj8XBblH8bNsqViqwJZ5fBFBG1u8DVUIefr8XpHYCbVWxIiBBeGyBo7jM9H012K9SpEkz4i1cD8Z7QW41e3uOMD8fW8/s300/indosiar.png" group-title="Indonesia Lokal",Indosiar HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+
+
+
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOVhHYO36e1moRqJMwjxvi5d-8opXnzzMf-iP9HZlhcYSfuOPT7DpePe0Y2sbrdFv2gFC47Vj858g0Fk9qx_K9UfEOr-VgWUEKzj8XBblH8bNsqViqwJZ5fBFBG1u8DVUIefr8XpHYCbVWxIiBBeGyBo7jM9H012K9SpEkz4i1cD8Z7QW41e3uOMD8fW8/s300/indosiar.png" group-title="Indonesia Lokal",INDOSIAR
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
