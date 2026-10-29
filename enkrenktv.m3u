@@ -447,6 +447,7 @@ https://paketmaxstream.ambontv.my.id?code=TVRI-F7V03Q
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=112
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
+
 #EXTINF:-1 tvg-id="Sportstars.2.id" tvg-name="Sportstars 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidZsVgp01qfOEJWIvle8MyZpGAzj7XbVu39RXxNDI_G0N1bu9z1qg-puqNhG2-MZ3cqoCqDTv6V23nx4r374mMyQ59PS-mzg4HJ3yUz4mq7PSMjlBKq4dIzn0aBuJ-EcLPoZRPdiaqSQwjNFKfoYmnszpsV9g3Br7LcoCPQ_NfuD2jQtplx598VkI8yyY/s1600/sportstar2.png" group-title="Olahraga",SPORTSTARS 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -461,7 +462,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=114
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars.4.id" tvg-name="Sportstars 4" tvg-logo="hhttps://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWan6tuJ0J3zQ9ujMuQKbVbRBZPyMzROCWnkntdZFda4YMHiDECYp7ZkZMkd1hJ4Y9QmRh9y7rbg8Nzt6ObFlAzxA1QeRlplah8d7dzFm2ygRtjOdDq9x6-NEa0KoYsjmw_4DK6DTTokcFrW3H6tCgu_tcUGfAbcmI_PxFOJ6MVieXIIozUw6eee7TAsg/s1600/sportstar4.png" group-title="Olahraga",SPORTSTARS 4 
+#EXTINF:-1 tvg-id="Sportstars.4.id" tvg-name="Sportstars 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWan6tuJ0J3zQ9ujMuQKbVbRBZPyMzROCWnkntdZFda4YMHiDECYp7ZkZMkd1hJ4Y9QmRh9y7rbg8Nzt6ObFlAzxA1QeRlplah8d7dzFm2ygRtjOdDq9x6-NEa0KoYsjmw_4DK6DTTokcFrW3H6tCgu_tcUGfAbcmI_PxFOJ6MVieXIIozUw6eee7TAsg/s1600/sportstar4.png" group-title="Olahraga",SPORTSTARS 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
