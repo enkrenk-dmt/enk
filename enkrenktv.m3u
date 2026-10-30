@@ -123,7 +123,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFNtuC54kylYhl1g5uaMtvEcT7-1IrkTnfyTZCb9DZ8LzjvbWJ63x2Q2meM4P8KctpfvDNP3deqpCrYDxPYn0SD51RcXvZt75JcpK9zpITt4nXOKyJ8Wm5-I3b5SRu_Fpzw1DSvI-zduRSvyt5P_PTvz8hyCHpQF-2m2Rh-fPo7xC6M2Q_Bk0Cw9HCRdc/s1600/MDTV.png" group-title="Indonesia Lokal",MDTV
-http://202.150.161.212:5000/live/channel31/playlist.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOtw2LpWjIVkxuX0ePl5mRvlo0CDg7LQ2k3yXACKuX9wdwanHIKf34Pw51aCq7HxhBCIgJ8VCbJtvFCPubklZnIjTxspzud5NUYMGIaC6B4U8B7rXVeJoMk67kyVnW-9VG6xT05N7A_ZsMKOa_dNx6VJf5BecCU2hoEFngcw9rIXCl1H74cunV4xyTN1Q/s300/tvri_world.png" group-title="Indonesia Lokal",TVRI World
@@ -433,11 +433,11 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=121
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwYEoa18T-ff-3mvOvYiX4mWlLLDpEMV5BUIXFiH0Q6Mov7s9Gha3XoVO6NOHsyMOPiVss0Ocu49X6OPL7fRddVHvytcWpDV-Velpn4HN9u6hTuKVLcEIVJR4L_eOOfGwiPaZ85DVwUsmmSnwwM5VEnC2j5VIdcghUk2Rhkwampus5X8W1eaWI5Qd9oaw/s1600/tvrisport.png" group-title="Olahraga",Tvri Sport
 https://paketmaxstream.ambontv.my.id?code=TVRI-F7V03Q
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
 #EXTINF:-1 tvg-id="Sportstars.id" tvg-name="Sportstars 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgANtmCh-j7MB-s6wfrn6B3LrcnLI85MvEeMCPtLloHdVJDlAbFpaGD-BpNkzTL7sXYNolkJMB5Nfrtc04URj-HHVT0DXYo8ksVzskLLv8VCZUXRjQfYFu9Q1nS5cARrbKZOCaHMaC2sIRHY7mvc0XgfAxcLPaNB1arH2KrZGjGnQ09n1I0nhRnsSSruHU/s1600/sportstar.png" group-title="Olahraga",SPORTSTARS
@@ -445,7 +445,7 @@ https://paketmaxstream.ambontv.my.id?code=TVRI-F7V03Q
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=112
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
 #EXTINF:-1 tvg-id="Sportstars.2.id" tvg-name="Sportstars 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidZsVgp01qfOEJWIvle8MyZpGAzj7XbVu39RXxNDI_G0N1bu9z1qg-puqNhG2-MZ3cqoCqDTv6V23nx4r374mMyQ59PS-mzg4HJ3yUz4mq7PSMjlBKq4dIzn0aBuJ-EcLPoZRPdiaqSQwjNFKfoYmnszpsV9g3Br7LcoCPQ_NfuD2jQtplx598VkI8yyY/s1600/sportstar2.png" group-title="Olahraga",SPORTSTARS 2 
@@ -453,28 +453,28 @@ https://paketmaxstream.ambontv.my.id?code=TVRI-F7V03Q
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=113
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-id="Sportstars.3.id" tvg-name="Sportstars 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB8KF5Mm4ik8y6R1cT7cJRhOog0KjoISAyP5e0BsWQLkpWaKXnr_2XzW2VCDm8yRn-tZTr9eArZ7uEeUXKXieuKLHrro22UtNERJfkMJ9j6qzTDMLhbxMU9AsUY7uQ3utmfJGJV-g4y5gpsZMrs_7ootP8CvSAZ2mnnMq_WQTMLBwcCsD3Fs9SUxNyCJ8/s1600/sportstar3.png" group-title="Olahraga",SPORTSTARS 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=114
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-id="Sportstars.4.id" tvg-name="Sportstars 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWan6tuJ0J3zQ9ujMuQKbVbRBZPyMzROCWnkntdZFda4YMHiDECYp7ZkZMkd1hJ4Y9QmRh9y7rbg8Nzt6ObFlAzxA1QeRlplah8d7dzFm2ygRtjOdDq9x6-NEa0KoYsjmw_4DK6DTTokcFrW3H6tCgu_tcUGfAbcmI_PxFOJ6MVieXIIozUw6eee7TAsg/s1600/sportstar4.png" group-title="Olahraga",SPORTSTARS 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=205
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-name="Soccer Channel" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIdKIIaF7qppwQbCbrqvUxO0v1nDo6EzfT6sqlaGlDJHfCrxKICQ28f239xM4hgNSoKCcKGg7kliy3AGgzuJTCzlKwpMyEc5PVnwdMhvPaqDtQLGxXuDlciWCBa7TaU3-AzsWAC__KmxtMnR_rSUy9mrEwXFke6TKh_iFqjxU0nOXXAhiUws5kMajcpQg/s1600/Soccer.png" group-title="Olahraga",SOCCER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=115
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -687,7 +687,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0FzzWAbIsjBmOJi7uc9VxqL8Uo3JLNnbg1UXTT5amnPF5HpwIVHq_E7OzXVMOwEKfUZNjPZGw_dM88IPtWJn02692fBfoMnk4sMkz5mnLS6yRKiR0D9-TwNJYRig_3HC30pjp45Zy-Aplrg44_lPBJ1sVGjfUA8HgXQFBOmyY1oHAiM9bYcNE2QWqv8/s1600/vtv.pngg" group-title="Channel Anak",VTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="Channel Anak",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
