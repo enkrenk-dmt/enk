@@ -524,6 +524,33 @@ https://pu1se1.xn--ukq5h.shop/puk4/usergendx3j2x4tqrnd.m3u8
 #EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
 https://pu1se1.xn--ukq5h.shop/puk5/usergen0grnd8l2y6gw.m3u8
 
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxOqLypieJFoAgUlP_Ka4CVuyymaNB_lECAKxkYz93njDQ2h-vX0YVrWcTj8iIgL8Tc3MAHh3DO0uv_jBEX-sTKuub4NLI1wmfIkN0UfhZmBjQMuhNCjyQBZHgEknRSZDh-rXUxREiTMz8wIQpc-Ycg0MBQp_TxjeQeqX6c1s_9JQg-kTnHHUXggWh2bM/s1600/Tntsports1.png" group-title="Olahraga",TNT SPORTS 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9RDfEZWWAHW2x5uVUaHj22KcygEMEPBTw_CQ0Y-APnNDWLgzeh-QupBqy03otDRKdvd7QMyV-BVADfMjPOVN-OMLQ4dARlEXAjHWa8dgmZmYYHZqN7z5KWZhVtC8QglEe24VjhfRE8Tyap7oDA-gSxvyiPZKvnnp51QCqOa0-PMGiJlxONrKeLhdVc0U/s1600/Tntsports2.png" group-title="Olahraga",TNT SPORTS 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYgi7hxrXkkFRH4cGHOYZAlqXCuPG3UfZmmFZTt7ZuUYyZiSnl_ogV2t-J3i4HxK2NniRjGvJHIJOq9jxDYrwDqHvgkEtQp3A7fWXgf8fOF8KC4P6v7-7nbxKUD8KH7wyXjIpNv92bc5YvQkjJEbraeNCanrU-UBKxDHWowJRd2wPrcc40cSlF-JW5bEU/s1600/Tntsports3.png" group-title="Olahraga",TNT SPORTS 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAZfw0i8dQj9nbUPR5veObDevLxfrmq2kWir7YlTymNDNlQL23a_VDnCqdIXGK7nnN-gVqgorwpi7Z1kVUdhed0vgsDFlDcdxLM7Vvp1TlMV5BjiYqNMbRlUKAEBR7fCR_q9VoK_-_Q35IAidF1oPXXeyULaAlSuub1losQ8jTVhCkjZklrAt9ZhVR2Co/s1600/Tntsports4.png" group-title="Olahraga",TNT SPORTS 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+
+
+
 #EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIk9OyhXV-vb3Vxx5InT2UnRxH0kOMIaK_we1HwYQqMU9cXgQjXJ8_6DG6DoWHE3hei0k5KXTeX1vbJVb5UqtI-Lrumjkf40IIrxQAcTBNhSuQauQzr3N3ZfytSqXv3PtNSRu8JSgjfOGv9lqv_d2ymqDePi1M2UGxsClPm_H7rIq13Ll1a9hU1dBaMNU/s1600/Fubo_Sports.png" group-title="Olahraga", FUBO SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
