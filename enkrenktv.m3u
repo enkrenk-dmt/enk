@@ -10,6 +10,22 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 <=================== EVENT 1 =============================>
+#EXTINF:-1 group-title="KOREA OPEN" tvg-logo="https://shorter.me/mfdOq", 08:00 WIB YEOSU Victor Korea Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=b89e43d11d35eac48e64cfd7f91e0993&wsABSTime=1793895795
+
+#EXTINF:-1 group-title="KOREA OPEN" tvg-logo="https://shorter.me/mfdOq", 08:00 WIB YEOSU Victor Korea Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=b48ccb9c0e7e05bf19ba18f749180c66&wsABSTime=1793895686
+
+#EXTINF:-1 group-title="KOREA OPEN" tvg-logo="https://shorter.me/mfdOq", 08:00 WIB YEOSU Victor Korea Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel62.flv?wsSecret=7136388c34f6a3eb8ac1c4b6f929dd17&wsABSTime=1793895860
+
+
 <=================== INDONESIA LOKAL =============================>
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -711,7 +727,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="Channel Anak",VTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="Channel Anak",ENKRENK TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
