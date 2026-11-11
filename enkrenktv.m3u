@@ -4,27 +4,38 @@
 
 <================>
 
-#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="EVENT 022/OKTOBER/2026",001 ENKRENK TV
+#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="EVENT 011/NOVEMBER/2026",001 ENKRENK TV
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 <=================== EVENT 1 =============================>
-#EXTINF:-1 group-title="KOREA OPEN" tvg-logo="https://shorter.me/mfdOq", 08:00 WIB YEOSU Victor Korea Open 2026
+#EXTINF:-1 group-title="EVENT 011/NOVEMBER/2026" tvg-logo="https://shorter.me/Ea8Hm", 15:30 WIB Philippines U17 vs Indonesia U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=b89e43d11d35eac48e64cfd7f91e0993&wsABSTime=1793895795
+https://live2.jorvakstreamcache.com/live/channel14.m3u8
 
-#EXTINF:-1 group-title="KOREA OPEN" tvg-logo="https://shorter.me/mfdOq", 08:00 WIB YEOSU Victor Korea Open 2026
+
+
+#EXTINF:-1 group-title="JAPAN OPEN" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=b48ccb9c0e7e05bf19ba18f749180c66&wsABSTime=1793895686
+https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=9e42854ab5fa11f549cbe2eb694d09f1&wsABSTime=1794414263
 
-#EXTINF:-1 group-title="KOREA OPEN" tvg-logo="https://shorter.me/mfdOq", 08:00 WIB YEOSU Victor Korea Open 2026
+#EXTINF:-1 group-title="JAPAN OPEN" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel62.flv?wsSecret=7136388c34f6a3eb8ac1c4b6f929dd17&wsABSTime=1793895860
+https://live1.quickscoreboardz.com/live/channel61.flv?wsSecret=dff878600f53ccaceb01b742dea13387&wsABSTime=1794415759
 
+#EXTINF:-1 group-title="JAPAN OPEN" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=c1817b1932a16e57078d312ce27f5f64&wsABSTime=1794414498
+
+#EXTINF:-1 group-title="JAPAN OPEN" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f2b9f6da4c59b98d8c310f0625386b33&wsABSTime=1794414455
 
 <=================== INDONESIA LOKAL =============================>
 
