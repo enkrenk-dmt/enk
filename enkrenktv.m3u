@@ -16,27 +16,6 @@
 https://live2.jorvakstreamcache.com/live/channel14.m3u8
 
 
-
-#EXTINF:-1 group-title="JAPAN OPEN" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=9e42854ab5fa11f549cbe2eb694d09f1&wsABSTime=1794414263
-
-#EXTINF:-1 group-title="JAPAN OPEN" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel61.flv?wsSecret=dff878600f53ccaceb01b742dea13387&wsABSTime=1794415759
-
-#EXTINF:-1 group-title="JAPAN OPEN" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=c1817b1932a16e57078d312ce27f5f64&wsABSTime=1794414498
-
-#EXTINF:-1 group-title="JAPAN OPEN" tvg-logo="https://shorter.me/TmD2e", 07:00 WIB Kumamoto Masters Japan 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f2b9f6da4c59b98d8c310f0625386b33&wsABSTime=1794414455
-
 <=================== INDONESIA LOKAL =============================>
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
