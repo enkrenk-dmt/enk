@@ -10,7 +10,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 <=================== EVENT 1 =============================>
-#EXTINF:-1 group-title="EVENT 011/NOVEMBER/2026" tvg-logo="https://shorter.me/Ea8Hm", 15:30 WIB Philippines U17 vs Indonesia U17
+#EXTINF:-1 group-title="EVENT 011/NOVEMBER/2026" tvg-logo="https://shorter.me/Ea8Hm", 15:30 WIB Thailand U17 vs Indonesia U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel14.m3u8
@@ -438,7 +438,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=205
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-name="Soccer Channel" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIdKIIaF7qppwQbCbrqvUxO0v1nDo6EzfT6sqlaGlDJHfCrxKICQ28f239xM4hgNSoKCcKGg7kliy3AGgzuJTCzlKwpMyEc5PVnwdMhvPaqDtQLGxXuDlciWCBa7TaU3-AzsWAC__KmxtMnR_rSUy9mrEwXFke6TKh_iFqjxU0nOXXAhiUws5kMajcpQg/s1600/Soccer.png" group-title="Olahraga",SOCCER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
