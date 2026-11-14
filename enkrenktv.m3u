@@ -10,10 +10,15 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 <=================== EVENT 1 =============================>
-#EXTINF:-1 group-title="EVENT 011/NOVEMBER/2026" tvg-logo="https://shorter.me/Ea8Hm", 15:30 WIB Thailand U17 vs Indonesia U17
+
+#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/Ea8Hm", 15:30 WIB Indonesia U-17 vs Kamboja U-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369799164241061_AiSD.m3u8?txSecret=187f0fe356e58922bb5aef84ea87f538&txTime=6AF8D9E0
+#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
 
 
 <=================== INDONESIA LOKAL =============================>
