@@ -765,55 +765,15 @@ https://e.siar.us/live/tvmu.m3u8
 
 <=================== CCTV =============================>
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simpang Trikora Banjarbaru
-https://stream-backup.banjarbarukota.go.id/s3_trikora_cempaka/index.m3u8?cookieCheck=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simpang 4 Banjarbaru
+https://stream-dev.banjarbarukota.go.id/c3_ptz_simpang4_banjarbaru/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Trikora Arah Banjarbaru
-https://stream-backup.banjarbarukota.go.id/s3_trikora_arah_bjb/index.m3u8?cookieCheck=1
-
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Arah POM
-https://stream-dev.banjarbarukota.go.id/c3_ptz_simpang4_banjarbaru/video1_stream.m3u8?session=e75bc917-a723-400e-8c10-50062b2bb64c
-
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Banjarbaru Arah Banjarmasin
-https://stream-backup.banjarbarukota.go.id/c2_simpang4_arah_banjarmasin/index.m3u8?cookieCheck=1
-
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", QMall Arah Simpang 4
-https://stream-backup.banjarbarukota.go.id/qmall_arah_simpang_empat/index.m3u8?cookieCheck=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simpang 4 Arah Banjarmasin
+https://stream-dev.banjarbarukota.go.id/c2_simpang4_arah_banjarmasin/index.m3u8?cookieCheck=1
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Pos Arah Cempaka
-https://stream-backup.banjarbarukota.go.id/a3_ptz_simpang4/index.m3u8?cookieCheck=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Bundaran Masjid Almunawarah
+https://stream-dev.banjarbarukota.go.id/bundaran_mesjid_al_munawwarah/index.m3u8?cookieCheck=1
 
-
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Bundaran Topi Toga
-https://stream-backup.banjarbarukota.go.id/bundaran_stm/index.m3u8?cookieCheck=1
-
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Balai Kota
-https://stream-backup.banjarbarukota.go.id/ptz_murjani/index.m3u8?cookieCheck=1
-
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Lapangan Murjani
-https://stream-backup.banjarbarukota.go.id/balai_kota_murjani/index.m3u8?cookieCheck=1
-
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", Simp 4 Arah Sei Ulin
-https://stream-backup.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/index.m3u8?cookieCheck=1
-
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", Bundaran Palm
-https://stream-backup.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8?cookieCheck=1
-
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", Ambulung
-https://stream-backup.banjarbarukota.go.id/pertigaan_ambulung/index.m3u8?cookieCheck=1
-
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru", bundaran masjid almunawwarah
-https://stream-backup.banjarbarukota.go.id/bundaran_mesjid_al_munawwarah/index.m3u8?cookieCheck=1
