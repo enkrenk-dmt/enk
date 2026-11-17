@@ -774,7 +774,7 @@ https://stream-backup.banjarbarukota.go.id/s3_trikora_arah_bjb/index.m3u8?cookie
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Arah POM
-https://stream-backup.banjarbarukota.go.id/a1_simpang4_arah_pom/index.m3u8?cookieCheck=1
+https://stream-dev.banjarbarukota.go.id/c3_ptz_simpang4_banjarbaru/video1_stream.m3u8?session=e75bc917-a723-400e-8c10-50062b2bb64c
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simp 4 Banjarbaru Arah Banjarmasin
