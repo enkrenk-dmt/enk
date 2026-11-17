@@ -783,3 +783,11 @@ https://stream-dev.banjarbarukota.go.id/bundaran_mesjid_al_munawwarah/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Taman Minggu Raya
 https://stream-dev.banjarbarukota.go.id/taman_minggu_raya/index.m3u8?cookieCheck=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Q Mall Arah Simpang 4
+https://stream-dev.banjarbarukota.go.id/qmall_arah_simpang_empat/index.m3u8?cookieCheck=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Bundaran Palm
+https://stream-dev.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8?cookieCheck=1
