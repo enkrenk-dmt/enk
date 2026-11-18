@@ -868,3 +868,20 @@ https://stream-dev.banjarbarukota.go.id/pertigaan_ambulung/index.m3u8?cookieChec
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",RO Ulin
 https://stream-dev.banjarbarukota.go.id/ptz_ro_ulin/index.m3u8?cookieCheck=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Trikora arah BJB
+https://stream-dev.banjarbarukota.go.id/s3_trikora_arah_bjb/index.m3u8?cookieCheck=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Simp 3 Trikora
+https://stream-dev.banjarbarukota.go.id/s3_trikora_cempaka/index.m3u8?cookieCheck=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Murzani
+https://stream-dev.banjarbarukota.go.id/ptz_murjani/index.m3u8?cookieCheck=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Depan Plosek arah BJM
+https://stream-dev.banjarbarukota.go.id/depan_polsek_arah_banjarmasin/index.m3u8?cookieCheck=1
+
