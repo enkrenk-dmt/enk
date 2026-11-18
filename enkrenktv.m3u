@@ -124,18 +124,10 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
-
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2U_cjBk1NPB-xpmIQI3PXHZKB0u7iazi0-NdIzDQkhjoYESmfVsnC-UbcN4khrjXlISXqKnVMHJumsaCDdcV5BDSAeFsoncFimuqGxPUfiQk7kvdSkY91TuulvnZa3_22w7IvkCwlMfq9YDMN4g0bf88B7F-gyV5IHiJVYh6aNmKoOGM1EgV6wlEAoUg/s1600/INEWS.png" group-title="Berita", iNews
+#EXTINF:-1 tvg-id="iNews.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2U_cjBk1NPB-xpmIQI3PXHZKB0u7iazi0-NdIzDQkhjoYESmfVsnC-UbcN4khrjXlISXqKnVMHJumsaCDdcV5BDSAeFsoncFimuqGxPUfiQk7kvdSkY91TuulvnZa3_22w7IvkCwlMfq9YDMN4g0bf88B7F-gyV5IHiJVYh6aNmKoOGM1EgV6wlEAoUg/s1600/INEWS.png" group-title="Berita", iNews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=4
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
-
-
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFK-aPhAuapuR7HZncuxj0yF-KoqDspPJ364web_WzQMwGDNfo1tVyp72uamrAfYf8rQ0Q9WUD8NIKqOUGs5BLS3Kvxrj3iU54B4jASjiszUuvjcLZLj9FDYdZQ34TN1Rly6n0Lz9088m-wkTzRBfAUNw4lq-UprD9Rk2cKxDUbcUvxDe-4l7f682z37Q/s1600/METRO.png" group-title="Berita",Metro TV
@@ -866,3 +858,23 @@ https://stream-dev.banjarbarukota.go.id/qmall_arah_simpang_empat/index.m3u8?cook
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Bundaran Palm
 https://stream-dev.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8?cookieCheck=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Depan Gang Bayangkara
+https://stream-dev.banjarbarukota.go.id/depan_gg_bhayangkara/index.m3u8?cookieCheck=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",JPO Dalam
+https://stream-dev.banjarbarukota.go.id/jpo_dalam_selatan/index.m3u8?cookieCheck=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Rebatig
+https://stream-dev.banjarbarukota.go.id/rebatig/index.m3u8?cookieCheck=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Ambulung
+https://stream-dev.banjarbarukota.go.id/pertigaan_ambulung/index.m3u8?cookieCheck=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",RO Ulin
+https://stream-dev.banjarbarukota.go.id/ptz_ro_ulin/index.m3u8?cookieCheck=1
