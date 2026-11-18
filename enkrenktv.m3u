@@ -11,16 +11,6 @@
 #https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/Ea8Hm", 15:30 WIB Indonesia U-17 vs Kamboja U-17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
-
-#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4369799164241061_AiSD.m3u8?txSecret=187f0fe356e58922bb5aef84ea87f538&txTime=6AF8D9E0
-#EXTINF:-1 group-title="EVENT 014/NOVEMBER/2026" tvg-logo="https://shorter.me/TmD2e", 08:00 WIB Kumamoto Masters Japan 2026
-
-
 <=================== INDONESIA LOKAL =============================>
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -832,49 +822,49 @@ https://e.siar.us/live/tvmu.m3u8
 
 <=================== CCTV =============================>
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simpang 4 Banjarbaru
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Simpang 4 Banjarbaru
 https://stream-dev.banjarbarukota.go.id/c3_ptz_simpang4_banjarbaru/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simpang 4 Arah Banjarmasin
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Simpang 4 Arah Banjarmasin
 https://stream-dev.banjarbarukota.go.id/c2_simpang4_arah_banjarmasin/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Simpang 4 Arah Cempaka
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Simpang 4 Arah Cempaka
 https://stream-dev.banjarbarukota.go.id/a3_ptz_simpang4/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Bundaran Masjid Almunawarah
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Bundaran Masjid Almunawarah
 https://stream-dev.banjarbarukota.go.id/bundaran_mesjid_al_munawwarah/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Taman Minggu Raya
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Taman Minggu Raya
 https://stream-dev.banjarbarukota.go.id/taman_minggu_raya/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Q Mall Arah Simpang 4
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Q Mall Arah Simpang 4
 https://stream-dev.banjarbarukota.go.id/qmall_arah_simpang_empat/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Bundaran Palm
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Bundaran Palm
 https://stream-dev.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Depan Gang Bayangkara
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Depan Gang Bayangkara
 https://stream-dev.banjarbarukota.go.id/depan_gg_bhayangkara/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",JPO Dalam
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",JPO Dalam
 https://stream-dev.banjarbarukota.go.id/jpo_dalam_selatan/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Rebatig
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Rebatig
 https://stream-dev.banjarbarukota.go.id/rebatig/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",Ambulung
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",Ambulung
 https://stream-dev.banjarbarukota.go.id/pertigaan_ambulung/index.m3u8?cookieCheck=1
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Lambang_Kota_Banjarbaru.png" group-title="CCTV Banjarbaru",RO Ulin
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV Banjarbaru",RO Ulin
 https://stream-dev.banjarbarukota.go.id/ptz_ro_ulin/index.m3u8?cookieCheck=1
