@@ -447,12 +447,12 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
+#https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLdQTP3Rae4Zv-oa-OzeLZxDIAClV5M7L4fwmf7WmISOatg6iUvdLx2PGwkgRD2EsT0ewN5IHQw5v-UKgew8UaorsRZWt4CpmAXXOGmNvILpdc6IHFcqw5buGUaci0a71oMeVKZu_IXFXXj96N-5RikyO-3Iarq8BubJQxYGolfoV99DXVfVonA9E1aUE/s1600/jtv.png" group-title="Daerah", JTV
-http://202.150.161.212:5000/live/channel38/playlist.m3u8
+#http://202.150.161.212:5000/live/channel38/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -575,17 +575,17 @@ https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
 
-#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSXmoI_RS4XSxGJemt4phPakUiqLvNigfEXF2KHiYPGFhak2mUu3u1Q8xY5C80GRD8BX6KCIiBvR9fXISRAer6853dZh_meb3c0wKIARKMzdNsAsNWDeFf-XerI7qi-z8mFDGDVGMHsWw93hgYGbwlk_Dh3y3TkO5B9EBh8WhIkwi4wvPaI3LyyEoHiAY/s1600/prima3.png" group-title="Sports",Prima Sport 3 
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSXmoI_RS4XSxGJemt4phPakUiqLvNigfEXF2KHiYPGFhak2mUu3u1Q8xY5C80GRD8BX6KCIiBvR9fXISRAer6853dZh_meb3c0wKIARKMzdNsAsNWDeFf-XerI7qi-z8mFDGDVGMHsWw93hgYGbwlk_Dh3y3TkO5B9EBh8WhIkwi4wvPaI3LyyEoHiAY/s1600/prima3.png" group-title="Olahraga",Prima Sport 3 
 #EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 
-#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo=""https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRiVh3Su3G9_M6lSvzWTBZPBIYY8ag_SVHk_SiGhb4yMuYQ6LTSJpCRHlIcGaO4mgm0DhECSxObMWQvo0Ua7hhFTNlYIG_BI7ap8yRreAAo_QdfmSu4vSsfqXbuhcuydvnN-5P7FZwMSXrFhHE7Kk8YsArzV3UKx28hXLR7D6F7pJ5ra5TaurO4pj81Qw/s1600/prima4.png" group-title="Sports" ,Prima Sport 4 
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRiVh3Su3G9_M6lSvzWTBZPBIYY8ag_SVHk_SiGhb4yMuYQ6LTSJpCRHlIcGaO4mgm0DhECSxObMWQvo0Ua7hhFTNlYIG_BI7ap8yRreAAo_QdfmSu4vSsfqXbuhcuydvnN-5P7FZwMSXrFhHE7Kk8YsArzV3UKx28hXLR7D6F7pJ5ra5TaurO4pj81Qw/s1600/prima4.png" group-title="Olahraga" ,Prima Sport 4 
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pulse1.sanseny001.shop/puk4/usergendx3j2x4tqrnd.m3u8
 
-#EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0N8wCkR7YXrHBSENuDeqKoTzeesJFJhyC3zJk1mSjEvQomgV8BiibcbTcGAZXI7mtx3BsCPkdG1SUQO9mkbP_J2EAZRR6ctbMqfU1R5kqYO2M0Yi81D31J7G09amkhUkMlPN_Rw-0fyc7wOH-5FjFB_E04gvytSDGvmOQppVGRNWiDcQvuz2NsYfXxDg/s1600/PRIMA5.png" group-title="Sports" ,Prima Sport 5
+#EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0N8wCkR7YXrHBSENuDeqKoTzeesJFJhyC3zJk1mSjEvQomgV8BiibcbTcGAZXI7mtx3BsCPkdG1SUQO9mkbP_J2EAZRR6ctbMqfU1R5kqYO2M0Yi81D31J7G09amkhUkMlPN_Rw-0fyc7wOH-5FjFB_E04gvytSDGvmOQppVGRNWiDcQvuz2NsYfXxDg/s1600/PRIMA5.png" group-title="Olahraga" ,Prima Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
