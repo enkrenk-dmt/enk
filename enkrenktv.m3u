@@ -231,7 +231,7 @@ https://dsgtq5sngxkde.cloudfront.net/hits/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #https://proxy-v.rctiplus.id/live/web/hitsmovies/index.m3u8
 
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPs0kXcVXtWTDjnZtQEc_wdtNB-HM1PV1f0j5ZPOZGd7IAGU0W4edrQxo5VEd_LhZ6oXAAxB64C25U4Cf9Z7__pWllcjTqyCT5ogo7AZuza_IwL_ySQfzqygW1DC8BcD4M0g8xUW3eQZX_oYhyAkKa7Kc0zF_GZE7Xfi6K9dXcea28szqQw1xackCRfW0/s1600/studio_universal.png" group-title="VISION P", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPs0kXcVXtWTDjnZtQEc_wdtNB-HM1PV1f0j5ZPOZGd7IAGU0W4edrQxo5VEd_LhZ6oXAAxB64C25U4Cf9Z7__pWllcjTqyCT5ogo7AZuza_IwL_ySQfzqygW1DC8BcD4M0g8xUW3eQZX_oYhyAkKa7Kc0zF_GZE7Xfi6K9dXcea28szqQw1xackCRfW0/s1600/studio_universal.png" group-title="Sinema", STUDIO UNIVERSAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/universal/index.m3u8
@@ -285,8 +285,6 @@ https://dsgtq5sngxkde.cloudfront.net/celestialclassic/index.m3u8
 
 #EXTINF:-1 tvg-id="CinemachiMax.uk@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRWtrOv1P_R-nmruiUf7N9QHt00E3-Bc_X4g7sP-ziYvkIBUR0MwyxGNZNif_Y-eX93BP6t5k_68bvVniL59SckUMpHzKBPTe3SN2FHlTZMtcFU6FkLvRyxoXFEfrgBgKgQT4x5zr4zESEaE1huWoa1ayjzUeeIJKRp8JKpqBzsGZB-ER_7SHOzizHE2A/s1600/superrix.png" group-title="Sinema",SUPERRIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://dsgtq5sngxkde.cloudfront.net/superrix/index.m3u8#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://dsgtq5sngxkde.cloudfront.net/superrix/index.m3u8
 
@@ -520,7 +518,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
 
-#EXTINF:-1 tvg-id="SPOTV2.id@SD" group-title="VISION P" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0kY2P57DTm_ljYa8NZ46mAls3Be537gvTIFzceFcm_PiHdWn6lSSpWs7t32XvTMXhfq7ZFAdvpLJNgR8a4Nhl1bKnSv2jsOZWe4pSMXC8_J6vG5PrKQhAP6YAHefcte3RwIqjOJP9-V08nNKnn3O_MNWHStnxk2if7ERoYJTSCHW_qRytlooHX5XhyphenhyphenAg/s1600/SPOTV2.png",SPOTV 2
+#EXTINF:-1 tvg-id="SPOTV2.id@SD" group-title="Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0kY2P57DTm_ljYa8NZ46mAls3Be537gvTIFzceFcm_PiHdWn6lSSpWs7t32XvTMXhfq7ZFAdvpLJNgR8a4Nhl1bKnSv2jsOZWe4pSMXC8_J6vG5PrKQhAP6YAHefcte3RwIqjOJP9-V08nNKnn3O_MNWHStnxk2if7ERoYJTSCHW_qRytlooHX5XhyphenhyphenAg/s1600/SPOTV2.png",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/spotv2/index.m3u8
@@ -722,12 +720,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 group-title="Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieSA8aF_hO9K5WIC4HRstwx0fYpQLCpf3CiNpEBqCI7AETQJVdPrhe9yhZFyl5ZjMbefHjLTJEDVpJXE5pUN5WfGoZNWDskYFodHiDvWleXm-fi_0FtpQpJpUljKyqrcJ7NEXsDQuajJpJPnBBPRBF6oDFLX6emNDP2fRH3E3MwyAynU2o_0_Msep8-oo/s1600/TIPIK.png",Tipik 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-
 <=================== PENGETAHUAN =============================>
 
 
@@ -735,13 +727,13 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="BBC Earth HD"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY4EqNYK_dvV4qATJd9KJ3gTyvrLAaAhSbGU7xQYgn9OYApTFV5HGChyTBnx2j6FKlmsZk7NZ-8n8rJCKh34J4pjx4qy78JPyYluLolFRN8GSjz_hieF3GZ_YpEuM9CHzNOM14wvd41vmTk-Oslvz7KVwgzef3ntLNqOWxHXvEVN_9DdtJxtTbF9lTCwM/s1600/BBC.png" group-title="Pengetahuan", BBC EARTH
 #https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCEarth.uk@Asia" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY4EqNYK_dvV4qATJd9KJ3gTyvrLAaAhSbGU7xQYgn9OYApTFV5HGChyTBnx2j6FKlmsZk7NZ-8n8rJCKh34J4pjx4qy78JPyYluLolFRN8GSjz_hieF3GZ_YpEuM9CHzNOM14wvd41vmTk-Oslvz7KVwgzef3ntLNqOWxHXvEVN_9DdtJxtTbF9lTCwM/s1600/BBC.png" group-title="Pengetahuan",BBC Earth (Vision+)
+#EXTINF:-1 tvg-id="BBCEarth.uk@Asia" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY4EqNYK_dvV4qATJd9KJ3gTyvrLAaAhSbGU7xQYgn9OYApTFV5HGChyTBnx2j6FKlmsZk7NZ-8n8rJCKh34J4pjx4qy78JPyYluLolFRN8GSjz_hieF3GZ_YpEuM9CHzNOM14wvd41vmTk-Oslvz7KVwgzef3ntLNqOWxHXvEVN_9DdtJxtTbF9lTCwM/s1600/BBC.png" group-title="Pengetahuan",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/bbcearth/index.m3u8
@@ -780,13 +772,6 @@ https://dsgtq5sngxkde.cloudfront.net/crimeinvest/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://dsgtq5sngxkde.cloudfront.net/rockent/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEion_NTct9RjRo2ygvZsYcWG6bmW0fUPF4uwH2yCtF8LptJZ7g6rCHQSlul-dz10YfsE_-JUJk85yQpnOt7C_bYlxz2tIX176s6ZAVLYNEInCmZ2IR09eFsED24Pr2v0ixgNXfwMdvl2Yb_XH4GQDWCmv_hRtW_Q7mkLFTSJuHnEaRG7vQfoqhCHBSTu7o/s1600/foodnetwork.png" group-title="Hiburan",Food Network 
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
 
 #EXTINF:-1 tvg-id="OKTV.id@SD" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEion_NTct9RjRo2ygvZsYcWG6bmW0fUPF4uwH2yCtF8LptJZ7g6rCHQSlul-dz10YfsE_-JUJk85yQpnOt7C_bYlxz2tIX176s6ZAVLYNEInCmZ2IR09eFsED24Pr2v0ixgNXfwMdvl2Yb_XH4GQDWCmv_hRtW_Q7mkLFTSJuHnEaRG7vQfoqhCHBSTu7o/s1600/foodnetwork.png" group-title="Hiburan",Food Travel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -834,7 +819,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="56" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPtT8tweB4UBK87xnl0IjtJcTtqtP4W9hTgHxChNwhtE-C1rGnVK8hnNVfzeX3B2fD8WrYwymLvc_Vp0jR3To7miK7RsYePZUa3kAtr0kN567B765InoAxoH1Cze4-K8MXcAqV-OixGxriiRG9kVIou5apZFzqYFqRZuiOzqtcuTupRZnSIoxgpxRZitE/s1600/kids.png" group-title="Channel Anak" tvg-id="KidsTV.id" tvg-name="Kids TV - [Channel 46].id", KIDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://dsgtq5sngxkde.cloudfront.net/hapykids/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/buddystars/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
