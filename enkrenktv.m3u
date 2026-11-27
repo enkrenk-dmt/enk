@@ -4,67 +4,78 @@
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://shorter.me/_bDcr", 15:30 WIB Borneo vs Persita
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live3979.zundrixmediapipeline.com/live/channel16.m3u8
+#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="EVENT 028/NOVEMBER/2026",001 ENKRENK TV
+#EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
+#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="EVENT 026/NOVEMBER/2026",001 ENKRENK TV
+#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="EVENT 027/NOVEMBER/2026",001 ENKRENK TV
 #EXTVLCOPT:http-origin=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 <=================== EVENT 1 =============================>
 
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://shorter.me/uSWbs", 17:00 WIB Tampines Rovers vs Shanghai Shenhua
+#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="ttps://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdcaqkiKwUGznGHI2gtk_eMurfAOQUajsDFw_QsxsySYphColiSdaudVRU1F_x-PLf9KzZRCrFyzfnrp7C1B_P08ft5uyXUsYaEqiKczgrpTAO5wsOhDCbcS5T22A5hGKfBHqXmPAOb2Rbm0ay-n_iuizGFcrBMHQuQoqUGTeFWwHqn_u5iBhr7mcXCGI/s1600/gp.png", 16:40 WIB MotoGP Free Practice 1: Motul Grand Prix of Valencia - MotoGP 2026 Round 22
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://shorter.me/uSWbs", 19:15 WIB Bangkok Glass vs Lion City Sailors
+#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="ttps://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdcaqkiKwUGznGHI2gtk_eMurfAOQUajsDFw_QsxsySYphColiSdaudVRU1F_x-PLf9KzZRCrFyzfnrp7C1B_P08ft5uyXUsYaEqiKczgrpTAO5wsOhDCbcS5T22A5hGKfBHqXmPAOb2Rbm0ay-n_iuizGFcrBMHQuQoqUGTeFWwHqn_u5iBhr7mcXCGI/s1600/gp.png", 16:40 WIB MotoGP Practice: Motul Grand Prix of Valencia - MotoGP 2026 Round 22
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
+<================================================>
 
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://shorter.me/NzYuB", 22:30 WIB Kairat vs Mjällby
+#EXTINF:-1 group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 03:00 WIB Nottingham Forest vs Chelsea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live3979.zundrixmediapipeline.com/live/channel1.m3u8
+
+#EXTINF:-1 group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 03:00 WIB Levante vs Racing Santander
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://shorter.me/2E6e8", 02:45 WIB Venezia vs Bologna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://abnnews.id/wp-content/uploads/2025/08/images-3-12.jpeg", 02:30 WIB Werder Bremen vs Borussia M'gladbach
 #EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 
-#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/NzYuB", 00:45 WIB Brighton & Hove Albion vs CSU Craiova
+#EXTINF:-1 group-title="EVENT 028/NOVEMBER/2026" tvg-logo="https://shorter.me/UXCX0", 03:00 WIB Southampton vs Middlesbrough
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/NzYuB", 00:45 WIB Hearts vs Monaco
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-
-
-
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 11:30 WIB Syed Modi India International 2026
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 13:30 WIB Syed Modi India International 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel60.m3u8?wsSecret=adb4408bd0c003c9ad777dc808e87228&wsABSTime=1795107106
 
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 11:30 WIB Syed Modi India International 2026
+#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 13:30 WIB Syed Modi India International 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=0b8d9a0f00a47652799fa4bcc63ff93c&wsABSTime=1794935247
 
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 11:30 WIB Syed Modi India International 2026
+#EXTINF:-1 group-title="EVENT 027/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 13:30 WIB Syed Modi India International 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 https://live1.quickscoreboardz.com/live/channel62.m3u8?wsSecret=d61cb551b32cf149638a1be59eac6c2b&wsABSTime=1794935195
-
-#EXTINF:-1 group-title="EVENT 026/NOVEMBER/2026" tvg-logo="https://shorter.me/P2FQA", 11:30 WIB Syed Modi India International 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel63.m3u8?wsSecret=f8961a9de190d4ba844a475960d230c8&wsABSTime=1794935064
 
 
 <=================== INDONESIA LOKAL =============================>
@@ -859,7 +870,7 @@ https://atcsindonesia.com/api/proxy/cctv/banjarbaru/c2_simpang4_arah_banjarmasin
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV BANJARBARU" ,Simpang 4 Arah Cempaka
 https://atcsindonesia.com/api/proxy/cctv/banjarbaru/a3_ptz_simpang4/index.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV BANJARBARU" ,Qmall Arah Simpang 4
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV BANJARBARU" ,Qmall Arah Simpang 4
 https://atcsindonesia.com/api/proxy/cctv/banjarbaru/qmall_arah_simpang_empat/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAOWzhkhyphenhyphenXN1Ph2_iY_1c7InCqMjEzuIchZn_4i1ldxydRAAuzq7gvHmaGQGAvo6E91RTsBg6Gc74KkKCwm1x8xkfl9Wk-B4v1KNH8zI9lzdcYD5dfxsvO0GRjqL2k_B86zC9W4R2ojdPbKCHRIiWfBAtQYHci2NBSrG4qOTtrYiLUjpJDiqgWFd_erbE/s1600/MP.png" group-title="CCTV BANJARBARU" ,Depan Gang Bhayangkara
